@@ -23,3 +23,26 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           python3 dealflow_engine.py \
+            --batch summer-2026,fall-2026 \
+            --show-hn \
+            --include-existing \
+            --llm-rescore --top-k 25 \
+            --html-out docs/index.html
+
+      - name: Post Slack digest
+        if: ${{ secrets.SLACK_WEBHOOK != '' }}
+        env:
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+        run: |
+          python3 dealflow_engine.py \
+            --batch summer-2026,fall-2026 \
+            --show-hn \
+            --slack-webhook "$SLACK_WEBHOOK"
+
+      - name: Commit updated feed + snapshots
+        run: |
+          git config user.name "dealflow-bot"
+          git config user.email "actions@github.com"
+          git add docs/ data/ dealflow_latest.csv
+          git commit -m "Daily feed update $(date -u +%Y-%m-%d)" || echo "Nothing to commit"
+          git push
