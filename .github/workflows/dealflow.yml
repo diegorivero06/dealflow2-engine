@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+env:
+  SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+  ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
 jobs:
   update-feed:
     runs-on: ubuntu-latest
@@ -19,8 +23,6 @@ jobs:
           python-version: '3.12'
 
       - name: Score today's new companies
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           python3 dealflow_engine.py \
             --batch summer-2026,fall-2026 \
@@ -30,9 +32,7 @@ jobs:
             --html-out docs/index.html
 
       - name: Post Slack digest
-        if: ${{ secrets.SLACK_WEBHOOK != '' }}
-        env:
-          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+        if: ${{ env.SLACK_WEBHOOK != '' }}
         run: |
           python3 dealflow_engine.py \
             --batch summer-2026,fall-2026 \
