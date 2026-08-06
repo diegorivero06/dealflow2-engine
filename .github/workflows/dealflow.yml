@@ -29,6 +29,7 @@ jobs:
             --show-hn \
             --include-existing \
             --llm-rescore --top-k 25 \
+            --enrich-founders --enrich-top-k 10 \
             --html-out docs/index.html
 
       - name: Post Slack digest
