@@ -51,6 +51,54 @@ def fetch_batch(batch_slug: str) -> list:
     return fetch_json(url)
 
 
+HN_ALGOLIA_BASE = "https://hn.algolia.com/api/v1"
+
+
+def fetch_show_hn(days_back: int = 3) -> list:
+    """
+    Pull recent 'Show HN' launch posts (free, no API key — Algolia's public
+    HN Search API) and normalize them into the same shape as YC company
+    dicts so they flow through the same scoring code.
+
+    Show HN is a much broader, non-YC-specific pool of real founders
+    launching real products, self-selected for "I built something new."
+    """
+    since_ts = int((datetime.now(timezone.utc).timestamp())) - days_back * 86400
+    url = (
+        f"{HN_ALGOLIA_BASE}/search_by_date"
+        f"?tags=show_hn&numericFilters=created_at_i>{since_ts}&hitsPerPage=200"
+    )
+    data = fetch_json(url)
+    hits = data.get("hits", [])
+
+    companies = []
+    for h in hits:
+        title = h.get("title", "") or ""
+        # Show HN titles look like "Show HN: ProductName – one-line pitch"
+        name = title
+        one_liner = ""
+        if title.lower().startswith("show hn:"):
+            rest = title[len("show hn:"):].strip()
+            if "–" in rest:
+                name, one_liner = [p.strip() for p in rest.split("–", 1)]
+            elif "-" in rest:
+                name, one_liner = [p.strip() for p in rest.split("-", 1)]
+            else:
+                name = rest
+
+        companies.append({
+            "id": f"hn-{h.get('objectID')}",
+            "name": name,
+            "one_liner": one_liner,
+            "long_description": h.get("story_text") or "",
+            "tags": [],
+            "industries": [],
+            "url": h.get("url") or f"https://news.ycombinator.com/item?id={h.get('objectID')}",
+            "batch": "show-hn",
+        })
+    return companies
+
+
 def load_theses(path: Path) -> list:
     return json.loads(path.read_text())["theses"]
 
@@ -248,13 +296,15 @@ def post_slack_digest(webhook_url: str, ranked: list, batch_slug: str):
     urllib.request.urlopen(req, timeout=15)
 
 
-def process_batch(batch_slug: str, theses: list, include_existing: bool,
-                   llm_rescore_flag: bool, top_k: int) -> list:
-    print(f"Fetching batch {batch_slug}...")
-    companies = fetch_batch(batch_slug)
-    print(f"  {len(companies)} companies in batch")
+def process_source(source_id: str, fetch_fn, theses: list, include_existing: bool,
+                    llm_rescore_flag: bool, top_k: int) -> list:
+    """source_id is used as the snapshot filename key — works for a YC batch
+    slug ('summer-2026') or a non-YC source id ('show-hn')."""
+    print(f"Fetching {source_id}...")
+    companies = fetch_fn()
+    print(f"  {len(companies)} companies")
 
-    target = companies if include_existing else diff_against_snapshot(batch_slug, companies)
+    target = companies if include_existing else diff_against_snapshot(source_id, companies)
     if not include_existing:
         print(f"  {len(target)} new since last run")
 
@@ -306,16 +356,20 @@ def write_csv(ranked: list, out_path: Path):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--batch", required=True,
-                     help="Comma-separated batch slugs, e.g. summer-2026,fall-2026")
+    ap.add_argument("--batch", default="",
+                     help="Comma-separated YC batch slugs, e.g. summer-2026,fall-2026. Optional.")
+    ap.add_argument("--show-hn", action="store_true",
+                     help="Also pull recent Show HN launches (free, no key, non-YC source)")
+    ap.add_argument("--show-hn-days", type=int, default=3,
+                     help="How many days back to pull Show HN posts from")
     ap.add_argument("--theses", default=str(Path(__file__).parent / "theses.json"))
-    ap.add_argument("--out", default=None, help="CSV output path (single-batch mode only)")
+    ap.add_argument("--out", default=None, help="CSV output path")
     ap.add_argument("--html-out", default=None, help="Write a static HTML feed page to this path")
     ap.add_argument("--llm-rescore", action="store_true", help="Re-score top matches with Claude API")
-    ap.add_argument("--top-k", type=int, default=20, help="How many top matches to LLM-rescore, per batch")
+    ap.add_argument("--top-k", type=int, default=20, help="How many top matches to LLM-rescore, per source")
     ap.add_argument("--slack-webhook", default=None)
     ap.add_argument("--include-existing", action="store_true",
-                     help="Score the full batch(es), not just new-since-last-run companies")
+                     help="Score everything fetched, not just new-since-last-run entries")
     args = ap.parse_args()
 
     theses = load_theses(Path(args.theses))
@@ -323,11 +377,22 @@ def main():
 
     all_ranked = {}
     for slug in batch_slugs:
-        all_ranked[slug] = process_batch(
-            slug, theses, args.include_existing, args.llm_rescore, args.top_k
+        all_ranked[slug] = process_source(
+            slug, lambda s=slug: fetch_batch(s), theses,
+            args.include_existing, args.llm_rescore, args.top_k
         )
 
-    # CSV: combined across all requested batches
+    if args.show_hn:
+        all_ranked["show-hn"] = process_source(
+            "show-hn", lambda: fetch_show_hn(args.show_hn_days), theses,
+            args.include_existing, args.llm_rescore, args.top_k
+        )
+
+    if not all_ranked:
+        print("Nothing to do — pass --batch and/or --show-hn.")
+        return
+
+    # CSV: combined across every requested source
     combined = [r for ranked in all_ranked.values() for r in ranked]
     out_path = Path(args.out) if args.out else Path(__file__).parent / "dealflow_latest.csv"
     write_csv(combined, out_path)
@@ -338,8 +403,8 @@ def main():
         print(f"Wrote HTML feed to {args.html_out}")
 
     if args.slack_webhook:
-        for slug, ranked in all_ranked.items():
-            post_slack_digest(args.slack_webhook, ranked, slug)
+        for source_id, ranked in all_ranked.items():
+            post_slack_digest(args.slack_webhook, ranked, source_id)
         print("Posted Slack digest.")
 
 
