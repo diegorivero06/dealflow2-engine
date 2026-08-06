@@ -1,0 +1,64 @@
+{
+  "theses": [
+    {
+      "id": "ai_native_back_office",
+      "name": "AI-native back office",
+      "description": "Entire professional-services functions (accounting, legal, GTM ops, government affairs) rebuilt as agent-run operations rather than tools that assist humans.",
+      "keywords": ["ai-native accounting", "ai-native law", "agent-native", "back office", "erp", "order to cash", "government affairs", "accounting firm", "law firm", "runs itself", "replace the big-4"]
+    },
+    {
+      "id": "agent_infrastructure",
+      "name": "Agent infrastructure / AI devops",
+      "description": "Plumbing for other agents: file systems, observability, hosting, identity, pricing, cost-routing built specifically for autonomous agents.",
+      "keywords": ["for agents", "agent infrastructure", "cloud computers for ai", "log compression", "improvement loop", "hosting platform", "cost routing", "token spend", "agent identity", "orchestration"]
+    },
+    {
+      "id": "agent_security",
+      "name": "Agent security & identity",
+      "description": "A new security stack purpose-built for autonomous agents: authentication, vulnerability discovery, compliance, and governance for agent credentials/permissions.",
+      "keywords": ["security team", "identity gateway", "vulnerabilities", "compliance", "governance", "hacker for ai", "securing ai", "device fleets", "agent security"]
+    },
+    {
+      "id": "physical_ai_robotics",
+      "name": "Physical AI / robotics economics",
+      "description": "Cost-down and verification/evaluation infrastructure for robotics — making robot deployment reliable and cheap enough for SMB adoption, not just mega-fleets.",
+      "keywords": ["robot", "robotics", "humanoid", "warehouse", "physical labor", "robot policy", "evaluating robots", "nervous system for physical ai", "robotic labor"]
+    },
+    {
+      "id": "defense_dual_use",
+      "name": "Defense-tech & autonomous systems",
+      "description": "Drone swarms, counter-UAS, low-cost strike manufacturing, and dual-use autonomy now treated as mainstream fundable categories.",
+      "keywords": ["defense", "drone", "counter-uas", "swarm", "strike systems", "air defense", "aerospace parts", "rocket cargo", "contested environments"]
+    },
+    {
+      "id": "vertical_ai_os",
+      "name": "Vertical AI-native operating systems",
+      "description": "The 'Toast for X' playbook repeated for unsexy SMB verticals with messy paper/ops: auto shops, hotels, restaurants, wholesale distributors, dental, field service.",
+      "keywords": ["operating system for", "os for", "field service", "hotel", "restaurant", "auto shop", "wholesale distributor", "dental practice", "back-of-house"]
+    },
+    {
+      "id": "compute_energy_scarcity",
+      "name": "Compute & energy scarcity",
+      "description": "Financialization of compute (GPU-hour trading/liquidity) and novel power generation for data centers as AI demand outstrips supply.",
+      "keywords": ["gpu hours", "compute market", "ai chips", "inference", "data center", "nuclear powered", "power generation", "liquidity", "ai hardware market"]
+    },
+    {
+      "id": "ai_bio_materials",
+      "name": "Frontier bio/materials re-platformed on AI",
+      "description": "Foundation-model style approaches to chemistry, materials, and biology discovery, with proprietary experimental data as the moat.",
+      "keywords": ["drug discovery", "materials discovery", "chemistry", "vaccines", "cancer", "clinical trials", "biology", "peptides", "general intelligence for"]
+    },
+    {
+      "id": "contrarian_consumer",
+      "name": "Contrarian consumer",
+      "description": "Consumer is starved of capital and unfashionable right now, which may make it a less crowded place to hunt for an outlier consumer bet.",
+      "keywords": ["consumer", "social platform", "gaming", "learning app", "duolingo for", "career", "job matching"]
+    },
+    {
+      "id": "finance_decisioning",
+      "name": "Financial-services decision infrastructure",
+      "description": "Agents deployed against underwriting, claims, and research decisioning in insurance and capital markets, where human-in-the-loop cost is high and decisions are structured.",
+      "keywords": ["underwriter", "underwriting", "insurance carrier", "claims", "credit team", "trading agents", "commercial insurance", "risk management"]
+    }
+  ]
+}
