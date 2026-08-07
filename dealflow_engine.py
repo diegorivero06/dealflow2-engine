@@ -45,10 +45,70 @@ def fetch_json(url: str) -> list | dict:
         return json.loads(resp.read().decode("utf-8"))
 
 
-def fetch_batch(batch_slug: str) -> list:
-    """batch_slug like 'summer-2026' -> list of company dicts."""
+TECHCRUNCH_FEEDS = {
+    "techcrunch-startups": "https://techcrunch.com/category/startups/feed/",
+    "techcrunch-venture": "https://techcrunch.com/category/venture/feed/",
+}
+
+
+def fetch_techcrunch(feed_key: str = "techcrunch-startups") -> list:
+    """
+    Pull TechCrunch's public RSS feed (free, no key) and normalize each
+    article into the same shape as a YC company dict so it flows through
+    the same scoring code. This surfaces funding announcements and startup
+    coverage generally, not just YC-affiliated companies — closer to what
+    a human associate would see scanning TechCrunch each morning.
+
+    Note: articles aren't companies 1:1 — a single article might cover a
+    funding round, a product launch, or general industry news. The scorer
+    still works fine against article titles/summaries, but treat these as
+    "leads worth reading," not confirmed structured company data the way
+    YC's dataset is.
+    """
+    url = TECHCRUNCH_FEEDS.get(feed_key, feed_key)
+    req = urllib.request.Request(url, headers={"User-Agent": "dealflow-engine/1.0"})
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        raw = resp.read()
+
+    import xml.etree.ElementTree as ET
+    root = ET.fromstring(raw)
+
+    companies = []
+    for item in root.findall(".//item"):
+        title = (item.findtext("title") or "").strip()
+        link = (item.findtext("link") or "").strip()
+        description = (item.findtext("description") or "").strip()
+        # strip any HTML tags from the RSS description
+        description = re.sub(r"<[^>]+>", " ", description)
+        description = re.sub(r"\s+", " ", description).strip()
+        guid = (item.findtext("guid") or link or title)
+
+        companies.append({
+            "id": f"tc-{guid}",
+            "name": title,
+            "one_liner": description[:200],
+            "long_description": description,
+            "tags": [],
+            "industries": [],
+            "url": link,
+            "batch": feed_key,
+        })
+    return companies
+
+
+def fetch_batch(batch_slug: str, region_filter: str | None = None) -> list:
+    """
+    batch_slug like 'summer-2026' -> list of company dicts.
+    region_filter, if given (e.g. 'Latin America'), keeps only companies
+    whose 'regions' list contains that exact string — this is how you
+    narrow YC's firehose down to just founders in a specific geography
+    instead of pulling every company in the batch.
+    """
     url = f"{YC_OSS_BASE}/batches/{batch_slug}.json"
-    return fetch_json(url)
+    companies = fetch_json(url)
+    if region_filter:
+        companies = [c for c in companies if region_filter in (c.get("regions") or [])]
+    return companies
 
 
 HN_ALGOLIA_BASE = "https://hn.algolia.com/api/v1"
@@ -500,10 +560,14 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--batch", default="",
                      help="Comma-separated YC batch slugs, e.g. summer-2026,fall-2026. Optional.")
+    ap.add_argument("--region-filter", default=None,
+                     help="Only include YC companies tagged with this exact region, e.g. 'Latin America'. Leave unset for no filter.")
     ap.add_argument("--show-hn", action="store_true",
                      help="Also pull recent Show HN launches (free, no key, non-YC source)")
     ap.add_argument("--show-hn-days", type=int, default=3,
                      help="How many days back to pull Show HN posts from")
+    ap.add_argument("--techcrunch", default="",
+                     help="Comma-separated TechCrunch feed keys to pull, e.g. techcrunch-startups,techcrunch-venture")
     ap.add_argument("--theses", default=str(Path(__file__).parent / "theses.json"))
     ap.add_argument("--passed", default=str(Path(__file__).parent / "passed.json"),
                      help="JSON file listing companies your team has already passed on")
@@ -524,11 +588,13 @@ def main():
     passed = load_passed(Path(args.passed))
     print(f"Loaded {len(passed)} passed-company entries to exclude")
     batch_slugs = [b.strip() for b in args.batch.split(",") if b.strip()]
+    tc_feeds = [f.strip() for f in args.techcrunch.split(",") if f.strip()]
 
     all_ranked = {}
     for slug in batch_slugs:
-        all_ranked[slug] = process_source(
-            slug, lambda s=slug: fetch_batch(s), theses,
+        source_key = f"{slug}" if not args.region_filter else f"{slug}-{args.region_filter.lower().replace(' ', '-')}"
+        all_ranked[source_key] = process_source(
+            source_key, lambda s=slug: fetch_batch(s, args.region_filter), theses,
             args.include_existing, args.llm_rescore, args.top_k,
             passed, args.enrich_founders, args.enrich_top_k
         )
@@ -540,8 +606,15 @@ def main():
             passed, args.enrich_founders, args.enrich_top_k
         )
 
+    for feed_key in tc_feeds:
+        all_ranked[feed_key] = process_source(
+            feed_key, lambda fk=feed_key: fetch_techcrunch(fk), theses,
+            args.include_existing, args.llm_rescore, args.top_k,
+            passed, args.enrich_founders, args.enrich_top_k
+        )
+
     if not all_ranked:
-        print("Nothing to do — pass --batch and/or --show-hn.")
+        print("Nothing to do — pass --batch, --show-hn, and/or --techcrunch.")
         return
 
     # CSV: combined across every requested source
