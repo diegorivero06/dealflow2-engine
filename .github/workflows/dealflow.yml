@@ -26,7 +26,9 @@ jobs:
         run: |
           python3 dealflow_engine.py \
             --batch summer-2026,fall-2026 \
+            --region-filter "Latin America" \
             --show-hn \
+            --techcrunch techcrunch-startups,techcrunch-venture \
             --include-existing \
             --llm-rescore --top-k 25 \
             --enrich-founders --enrich-top-k 10 \
@@ -37,7 +39,9 @@ jobs:
         run: |
           python3 dealflow_engine.py \
             --batch summer-2026,fall-2026 \
+            --region-filter "Latin America" \
             --show-hn \
+            --techcrunch techcrunch-startups,techcrunch-venture \
             --slack-webhook "$SLACK_WEBHOOK"
 
       - name: Commit updated feed + snapshots
