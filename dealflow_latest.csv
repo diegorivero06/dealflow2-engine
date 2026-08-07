@@ -1,141 +1,19 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
-Isengard Industries Inc,Mass-produced AI strike systems and Counter-UAS,Defense-tech & autonomous systems,5,defense|drone|counter-uas|swarm|strike systems,,,,,,https://www.ycombinator.com/companies/isengard-industries-inc
-OS3,Intelligence and Machines for Physical Labor,Physical AI / robotics economics,4,robot|robotics|humanoid|physical labor,,,,,,https://www.ycombinator.com/companies/os3
-IMPACT Drones,Air Defense as a Service for Civilian Infrastructure.,Defense-tech & autonomous systems,4,defense|drone|swarm|air defense,,,,,,https://www.ycombinator.com/companies/impact-drones
-Manifold,Low-cost; deployment-ready robotic labor for warehouses,Physical AI / robotics economics,4,robot|robotics|warehouse|robotic labor,,,,,,https://www.ycombinator.com/companies/manifold-2
-TareBio,Vaccines for any cancer or infection in weeks.,Frontier bio/materials re-platformed on AI,4,drug discovery|vaccines|cancer|biology,,,,,,https://www.ycombinator.com/companies/tarebio
-Gamgee,Scalable Personalised Cancer Treatment,Frontier bio/materials re-platformed on AI,4,drug discovery|vaccines|cancer|clinical trials,,,,,,https://www.ycombinator.com/companies/gamgee
-Earendil Robotics,Drone swarm defence at a small-unit level,Defense-tech & autonomous systems,4,defense|drone|swarm|contested environments,,,,,,https://www.ycombinator.com/companies/earendil-robotics
-Billow AI Labs,AI-native Accounting Firm to Replace the Big-4,AI-native back office,4,ai-native accounting|erp|accounting firm|replace the big-4,,,,,,https://www.ycombinator.com/companies/billow-ai-labs
-TrustAI,Continuous compliance and governance for agents on sensitive systems,Agent security & identity,3,vulnerabilities|compliance|governance,,,,,,https://www.ycombinator.com/companies/trustai
-Instaplay,AI-Native Social Platform; Starting with Games,Contrarian consumer,3,consumer|social platform|gaming,,,,,,https://www.ycombinator.com/companies/instaplay
-Marble,The autonomous back-of-house for restaurants.,Vertical AI-native operating systems,3,operating system for|restaurant|back-of-house,,,,,,https://www.ycombinator.com/companies/joinmarble
-Rasyn,Towards a General Intelligence for Chemistry,Frontier bio/materials re-platformed on AI,3,drug discovery|chemistry|general intelligence for,,,,,,https://www.ycombinator.com/companies/rasyn
-6thSense,A nervous system for physical AI,Physical AI / robotics economics,3,robot|robotics|nervous system for physical ai,,,,,,https://www.ycombinator.com/companies/6thsense
-Nori,Affordable robot you can teach to do anything,Physical AI / robotics economics,3,robot|robotics|humanoid,,,,,,https://www.ycombinator.com/companies/noril1
-Greypoint Industries,Manufacturing the future of autonomous swarm warfare.,Defense-tech & autonomous systems,3,defense|drone|swarm,,,,,,https://www.ycombinator.com/companies/greypoint-industries
-Hop Aero,Rocket cargo delivery to contested environments,Defense-tech & autonomous systems,3,defense|rocket cargo|contested environments,,,,,,https://www.ycombinator.com/companies/hop-aero
-Florin,Florin is the insurance carrier with zero underwriters,Financial-services decision infrastructure,3,underwriter|underwriting|insurance carrier,,,,,,https://www.ycombinator.com/companies/florin
-Robocurve,Evaluating robots in the real world.,Physical AI / robotics economics,3,robot|robotics|evaluating robots,,,,,,https://www.ycombinator.com/companies/robocurve
-Baud,AI chips for ultra-fast model training and inference,Compute & energy scarcity,2,ai chips|inference,,,,,,https://www.ycombinator.com/companies/baud
-Waddle Labs,Agents for robotics control. ,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/waddle-labs
-Datoric,Security-first training data,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/datoric
-Libra Robotics,Autonomous robots for solar farm construction,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/libra-robotics
-Tsenta,We match you with jobs and apply automatically,Contrarian consumer,2,consumer|career,,,,,,https://www.ycombinator.com/companies/tsenta
-OpenVector,AI that turns any camera to an autonomous worker with real-time vision,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/openvector
-Instance,Automated evals for robot policies,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/instance
-Atlas Discovery,Predicting human response to drugs in clinical trials,Frontier bio/materials re-platformed on AI,2,drug discovery|clinical trials,,,,,,https://www.ycombinator.com/companies/atlas-discovery
-Trident,Your AI Security Team ,Agent security & identity,2,security team|vulnerabilities,,,,,,https://www.ycombinator.com/companies/trident
-Proprio Robotics,Building autonomous data centers,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/proprio-robotics
-OpenTrade,The new interface for investing.,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/opentrade
-Rex,AI Operations Partner for Enterprise Order to Cash,AI-native back office,2,erp|order to cash,,,,,,https://www.ycombinator.com/companies/rex-inc
-Synapse Semiconductor,Collapsing the edge AI vision hardware stack into one wafer,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/synapse-semiconductor
-GUILD,Making aerospace parts faster and cheaper for defense,Defense-tech & autonomous systems,2,defense|aerospace parts,,,,,,https://www.ycombinator.com/companies/guild
-Bizmark,The OS for companies that make; move; or sell physical goods,Vertical AI-native operating systems,2,operating system for|os for,,,,,,https://www.ycombinator.com/companies/bizmark
-Codag,Log compression for agents.,Agent infrastructure / AI devops,2,for agents|log compression,,,,,,https://www.ycombinator.com/companies/codag
-Zaplar,Agentic Hotel Operating System,Vertical AI-native operating systems,2,operating system for|hotel,,,,,,https://www.ycombinator.com/companies/zaplar
-Definite,Build everyday back-office agents on one live model of your books,AI-native back office,2,back office|erp,,,,,,https://www.ycombinator.com/companies/definite
-Traceforce,Securing AI native apps directly on devices,Agent security & identity,2,security team|securing ai,,,,,,https://www.ycombinator.com/companies/traceforce
-Agency Tool Company,Reliable infrastructure to build; deploy and manage real-world robots.,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/agency-tool-company
-Pluto,AI voice agent that helps professionals get discovered,Contrarian consumer,2,consumer|career,,,,,,https://www.ycombinator.com/companies/talentpluto
-Orvixo,AI advanced planning and optimisation for manufacturers.,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/orvixo
-Whitespace,AI Operating System for Wholesale Distributors,Vertical AI-native operating systems,2,operating system for|wholesale distributor,,,,,,https://www.ycombinator.com/companies/whitespace
-Aktoria Robotics,Human as API for robots,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/aktoria-robotics
-Rational,AI Employees for Accounting,AI-native back office,2,erp|accounting firm,,,,,,https://www.ycombinator.com/companies/rational
-Fabraix,The world's frontier hacker for AI agents.,Agent security & identity,2,vulnerabilities|hacker for ai,,,,,,https://www.ycombinator.com/companies/fabraix
-Daqstra,AI-native orchestration for physical R&D testing,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/daqstra
-Risklytics,Commercial Insurance Brokerage for Frontier Tech,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/risklytics
-Neuron Industries,Industrial Controllers built for AI,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/neuron-industries
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
-Ultrasonium,Manufacturing the metal parts the world runs on faster; cheaper; safer,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/ultrasonium
-Denta,The dental practice that runs itself,AI-native back office,2,accounting firm|runs itself,,,,,,https://www.ycombinator.com/companies/denta
-Computable,Buy; sell; and redeem GPU hours for any week with instant liquidity,Compute & energy scarcity,2,gpu hours|liquidity,,,,,,https://www.ycombinator.com/companies/computable
-Last Accounting Company,Agent-native accounting firm.,AI-native back office,2,agent-native|accounting firm,,,,,,https://www.ycombinator.com/companies/last-accounting-company
-RonanRx Inc.,We use AI to personalize peptides to your biology,Frontier bio/materials re-platformed on AI,2,biology|peptides,,,,,,https://www.ycombinator.com/companies/ronanrx-inc
-Cosmic Robotics,Autonomous construction on Earth and beyond,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/cosmic-robotics
-ProvenMetal,Fast-turn; American made PCBs,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/provenmetal
-Praxis AI,Turns every company into a data vendor ,Physical AI / robotics economics,2,robot|humanoid,,,,,,https://www.ycombinator.com/companies/praxis-ai-2
-Axelrod,Boutique Hotels that run themselves,Vertical AI-native operating systems,2,hotel|back-of-house,,,,,,https://www.ycombinator.com/companies/axelrod
-CarSignal,The Smart Operating System for Auto Shops.,Vertical AI-native operating systems,2,operating system for|auto shop,,,,,,https://www.ycombinator.com/companies/carsignal
-Palisade,AI that finds and fixes OS-level vulnerabilities across device fleets,Agent security & identity,2,vulnerabilities|device fleets,,,,,,https://www.ycombinator.com/companies/palisade-2
-Grip,Physical AI for waste management,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/grip
-Wondering,Duolingo for learning anything; but 10x better,Contrarian consumer,2,consumer|duolingo for,,,,,,https://www.ycombinator.com/companies/wondering
-Salem Robotics Inc,We deploy robots for inspections in hazardous spaces; like nuclear.,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/salem-robotics-inc
-Osseus,The intelligent development platform for robotics,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/osseus
-Atomarine,Off shore nuclear powered data centers at sea.,Compute & energy scarcity,2,data center|nuclear powered,,,,,,https://www.ycombinator.com/companies/atomarine
-Conifer,Local-first least cost routing system to reduce 80%+ token spend,Agent infrastructure / AI devops,2,cost routing|token spend,,,,,,https://www.ycombinator.com/companies/conifer
-Async,Transforming small businesses with AI agents,AI-native back office,1,law firm,,,,,,https://www.ycombinator.com/companies/withasync
-Rapidfolio,AI for fintechs & banks,Financial-services decision infrastructure,1,underwriting,,,,,,https://www.ycombinator.com/companies/rapidfolio
-Assemble,Agents for Enterprise IT,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/assemble
-Archal,The improvement loop for AI agents,Agent infrastructure / AI devops,1,improvement loop,,,,,,https://www.ycombinator.com/companies/archal
-Ekpa,Building Autonomous Research Agents for Trading,Contrarian consumer,1,consumer,,,,,,https://www.ycombinator.com/companies/ekpa
-Cova,AI-Native Home Care Agency,Contrarian consumer,1,consumer,,,,,,https://www.ycombinator.com/companies/cova
-Applied Electrodynamics, Inc.,A new kind of camera that can see through walls.,Defense-tech & autonomous systems,1,defense,,,,,,https://www.ycombinator.com/companies/applied-electrodynamics-inc
-Illume Labs,24/7 Personal Health & Longevity Companion,Contrarian consumer,1,consumer,,,,,,https://www.ycombinator.com/companies/illume-labs
-Osmaura,AI growth engine for law firms.,AI-native back office,1,law firm,,,,,,https://www.ycombinator.com/companies/osmaura
-Palette,An AI-Native Media Platform,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/palette-2
-Amorphic Labs,Agentic; Personalized Product Demo Videos for Sales,Vertical AI-native operating systems,1,os for,,,,,,https://www.ycombinator.com/companies/amorphic-labs
-Kebra,Make your field service company AI-native,AI-native back office,1,back office,,,,,,https://www.ycombinator.com/companies/kebra
-Torus,Legora for physical engineering firms,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/torus
-tash,The investment platform for sports & trading cards,Contrarian consumer,1,consumer,,,,,,https://www.ycombinator.com/companies/tash
-Pango,Agentic OS for e-commerce operations,Vertical AI-native operating systems,1,os for,,,,,,https://www.ycombinator.com/companies/pango
-Perceptron ML,We make law firms AI-native.,AI-native back office,1,law firm,,,,,,https://www.ycombinator.com/companies/perceptron-ml
-Egoist Machines,User-owned memory and preferences that work across every AI app,Contrarian consumer,1,consumer,,,,,,https://www.ycombinator.com/companies/egoist-machines
-Olam Labs,Building multi-agent simulations for model evals and training.,Contrarian consumer,1,gaming,,,,,,https://www.ycombinator.com/companies/olam-labs
-Shielded,We automate supply chain and financial risk management ,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/shielded
-Trope,The AI-native ERP system integrator,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/trope
-Kara,Making diamond an engineering material,Compute & energy scarcity,1,data center,,,,,,https://www.ycombinator.com/companies/kara
-Nebula Security,A security engineer in your team,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/nebula-security
-Zomma,Computer Use Agents for back offices in finance,AI-native back office,1,back office,,,,,,https://www.ycombinator.com/companies/zomma
-Prized,Lovable for internal tools,Agent security & identity,1,governance,,,,,,https://www.ycombinator.com/companies/prized
-Insurf,The AI-Native Decision Infrastructure for Health Insurance,Financial-services decision infrastructure,1,claims,,,,,,https://www.ycombinator.com/companies/insurf
-Floracene,Optimized medical device purchasing for independent providers,Financial-services decision infrastructure,1,claims,,,,,,https://www.ycombinator.com/companies/floracene
-RealPact,AI-native OS for Real Estate Brokerages,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/realpact
-Buildbox,Understand how users experience your AI agents,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/buildbox
-Riften,Earned Intelligence for every company. ,Compute & energy scarcity,1,inference,,,,,,https://www.ycombinator.com/companies/riften
-Dialogus,Infra for enterprise voice agents.,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/dialogus
-Alloovium,Construction paperwork that finally works for your team,Agent security & identity,1,compliance,,,,,,https://www.ycombinator.com/companies/alloovium
-Glen,Unified organizational context for agents and humans,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.ycombinator.com/companies/glen
-screenpipe,AI powered by everything you've seen; said or heard,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/screenpipe
-Alkera AI,Reliable and safe data engineering and data science agents,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/alkera-ai
-Molagri,Resistance free pesticides.,Frontier bio/materials re-platformed on AI,1,biology,,,,,,https://www.ycombinator.com/companies/molagri
-FlowManual,AI for Construction's Back Office.,AI-native back office,1,back office,,,,,,https://www.ycombinator.com/companies/flowmanual
-machine0,Cloud computers for AI agents,Agent infrastructure / AI devops,1,cloud computers for ai,,,,,,https://www.ycombinator.com/companies/machine0
-Ooak Data,We build the world's largest library of real-world business workflow…,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.ycombinator.com/companies/ooak-data
-Graphify Labs,On-device knowledge graph engine for enterprises,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/graphify-labs
-Click,Web search & connectors for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.ycombinator.com/companies/click
-LATO,Agent-native research and simulation platform for investors,AI-native back office,1,agent-native,,,,,,https://www.ycombinator.com/companies/lato
-Arbital,The trading terminal for perps; memes; and stocks.,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/arbital
-Luca IQ,API First Tax Calculator for CPAs,AI-native back office,1,accounting firm,,,,,,https://www.ycombinator.com/companies/luca-iq
-Lumeria,Oura Ring for Skin.,Contrarian consumer,1,consumer,,,,,,https://www.ycombinator.com/companies/lumeria
-Operon,Agentic data layer for manufacturing & process industries. ,Agent security & identity,1,compliance,,,,,,https://www.ycombinator.com/companies/operon
-Levocred AI,AI for every workflow inside a credit team,Financial-services decision infrastructure,1,credit team,,,,,,https://www.ycombinator.com/companies/levocred-ai
-Derya,AI-Native Logistics Office,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/derya
-Mireye,Infrastructure for Physical World AI Agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.ycombinator.com/companies/mireye
-Lamb Labs,World's fastest AI models,Compute & energy scarcity,1,inference,,,,,,https://www.ycombinator.com/companies/lamb-labs
-83 Sciences,AI-native materials discovery powered by unpublished experimental data,Frontier bio/materials re-platformed on AI,1,materials discovery,,,,,,https://www.ycombinator.com/companies/83-sciences
-Skymerse,Autopilot for Flight Operations,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/skymerse
-HyperProbe,Your coding agent writes code. Now let it fix prod too.,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/hyperprobe
-OpenRelay,Distributed; hardware-agnostic AI inference,Compute & energy scarcity,1,inference,,,,,,https://www.ycombinator.com/companies/openrelay
-Locke,Builders of the first AI-native government affairs firm.,AI-native back office,1,government affairs,,,,,,https://www.ycombinator.com/companies/locke
-Petrarch,Unlocking enterprise data for tomorrow's economy,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/petrarch
-SpaceFlow Technologies, Inc.,The managed runtime for enterprise AI agents,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/spaceflow-technologies-inc
-Avoca Systems,The AI-powered operating system for radiology networks,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/avoca-systems
-Amulet,High performance file system for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.ycombinator.com/companies/amulet
-Tracer,Combining open-source AI models for better answers at lower cost,Compute & energy scarcity,1,inference,,,,,,https://www.ycombinator.com/companies/tracer
-OneCLI,The Identity Gateway for AI Agents,Agent security & identity,1,identity gateway,,,,,,https://www.ycombinator.com/companies/onecli
-hiloop,Infrastructure for recursive self-improvement,Agent infrastructure / AI devops,1,orchestration,,,,,,https://www.ycombinator.com/companies/hiloop
-hardware intelligence,AI tools for the chips your AI runs on,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/hardware-intelligence
 Caution,Hosting platform for software you don't want to get hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-Lambda Robotics,Robotics for AI Infrastructure,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.ycombinator.com/companies/lambda-robotics
-Degla Inc,The fully autonomous intelligence layer in the sky.,Defense-tech & autonomous systems,1,drone,,,,,,https://www.ycombinator.com/companies/degla-inc
 Atlas Motion,motors for drones; robotics; and autonomous systems,Physical AI / robotics economics,2,robot|robotics,,,,,,https://atlasmotion.com/
+reverse,engineer secure-enclave fingerprint scanner to work on Linux,AI-native back office,1,erp,,,,,,https://github.com/wrobelda/goodix-fp-spi-linux
+Rodeo,a robot that earns its own electricity,Physical AI / robotics economics,1,robot,,,,,,https://github.com/IERoboticsAILab/RODEO
+Catnip,GitHub repo stats: collect; analyze; TUI; agent inference,Compute & energy scarcity,1,inference,,,,,,https://github.com/TGPSKI/catnip
 Fursa, a live job index built from company career pages,,Contrarian consumer,1,career,,,,,,https://fursa.io/search
 Android client for DJI Osmo action/handheld cameras,,Defense-tech & autonomous systems,1,drone,,,,,,https://github.com/KonradIT/osmosis
 Python Concurrency Testing with Frontrun,,AI-native back office,1,erp,,,,,,https://github.com/lucaswiman/frontrun
 Thunderbird addon for displaying message excerpt next to subject line,,AI-native back office,1,erp,,,,,,https://github.com/michael-markl/thunderbird-message-excerpts
 Bifrost: Enterprise MCP Gateway with Built,In Security: OAuth 2.0; RBAC,AI-native back office,1,erp,,,,,,https://github.com/maximhq/bifrost
 Cloud based firecracker VMs for agents, with email, domains and wallets,,Agent infrastructure / AI devops,1,for agents,,,,,,https://zipbox.ai/setup/claude
-ExANS,Lossless KV cache compression at 622 GB/s on H100,Compute & energy scarcity,1,inference,,,,,,https://www.theopenlake.com/blog/exans-lossless-gpu-compression-for-bf16-kv-cache
-HimitsuShell,Shell scripts invisible even to kernel tracing,AI-native back office,1,erp,,,,,,https://github.com/HimitsuShell/HimitsuShell
-Offline 180.9M,parameter LLM and Agent inference on ESP32-P4,Compute & energy scarcity,1,inference,,,,,,https://github.com/cyfrit/p-for-llm
+Defense tech Hadrian raises $1.37B at $8B valuation,Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/
+Naïve raises $28.5M to automate the grunt work of setting up and running a company,Taking vibe-coding a step further; Naïve claims its infra can automate most of the work in setting up and running a business.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/
+Hark previews its browser use agent for completing tasks,Hark claims that its browser use agent is faster and cheaper than competition.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/
+How to get the best hotel deals for TechCrunch Disrupt 2026,We’ve partnered with hotels around Moscone West during Disrupt; taking place October 13 to 15; to secure the best prices available for attendees.,Vertical AI-native operating systems,1,hotel,,,,,,https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/
+Travis Kalanick’s robotics company raises $1.7B, led by a16z,Uber is also investing in Travis Kalanick's company Atoms; which has made gauzy claims about using industrial AI to modernize the world.,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/
+Moove raises $250M to become the backbone of the robotaxi industry,Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own; not just manage; Waymo robotaxis.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/
