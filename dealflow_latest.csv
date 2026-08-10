@@ -1,18 +1,20 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to get hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Edgi,Letterboxd or Strava for your brain,Contrarian consumer,1,consumer,,,,,,https://app.edgi.tv/
+Working on gym weight progress calculator,,AI-native back office,1,erp,,,,,,https://gymcalc.no/
+Game Engine with its own IDE and scripting language,,AI-native back office,1,erp,,,,,,https://news.ycombinator.com/item?id=49242000
+Watching browser fingerprinting calls via Chromium's Blink layer,,AI-native back office,1,erp,,,,,,https://kameleo.io/blog/this-is-the-closest-well-ever-get-to-reverse-engineering-anti-bots
+Lector, a FOSS self,hosted language reader (with a cloud option),Contrarian consumer,1,learning app,,,,,,https://lector.dev/
+SynapsCLI,lightweight agent runtime in Rust; control an agent swarm,Defense-tech & autonomous systems,1,swarm,,,,,,https://github.com/HaseebKhalid1507/SynapsCLI
+A local,first; modular replacement for your accounting software,AI-native back office,1,erp,,,,,,https://github.com/celerp/celerp
+Lumabri,What if LLMs worked like Napster?,Defense-tech & autonomous systems,1,swarm,,,,,,https://github.com/JustVugg/lumabri
+Remaking Unreal engine in Rust for coding agents,,Contrarian consumer,1,gaming,,,,,,https://machinesatplay.com
 Argonix,One AI-powered platform for SRE and cloud operations,Agent security & identity,1,vulnerabilities,,,,,,https://argonix.io/
 Algebruh,Cross-check arithmetic claims with Z3; cvc5; and Lean,Financial-services decision infrastructure,1,claims,,,,,,https://github.com/skorotkiewicz/algebruh
 TchoAI,Transform your documents into editable slide decks,AI-native back office,1,erp,,,,,,https://tcho.ai/en
 TAMX,Personal Tamagotchi,AI-native back office,1,erp,,,,,,https://news.ycombinator.com/item?id=49222730
 A probabilistic programming language with exact inference and loops,,Compute & energy scarcity,1,inference,,,,,,https://github.com/kccqzy/probabilistic-program-inference/blob/master/README.md
-Salestrics,An open MCP server and CRM for AI-native revenue teams,Agent infrastructure / AI devops,1,orchestration,,,,,,https://www.salestrics.com/
-Jacobian: Pure maths library and tools for agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/morluto/jacobian
-Alyph, a manual transmission for LLM context,,Contrarian consumer,1,consumer,,,,,,https://www.alyph.ai/
-Merge,AI-native code review assessments for engineering hiring,Agent security & identity,1,vulnerabilities,,,,,,https://mergeoa.com
-Hirenewtalent.ai,Hire offshore in minutes via API,Agent security & identity,1,compliance,,,,,,https://hirenewtalent.ai/
-DemoDay,Claude Plugin that creates demo videos for your projects,Vertical AI-native operating systems,1,os for,,,,,,https://github.com/mrieck/demoday-claude-plugin
-Kimi K3 inference on about 100k PS3 nodes,,Compute & energy scarcity,1,inference,,,,,,https://github.com/erkinalp/ram-coffers
 Defense tech Hadrian raises $1.37B at $8B valuation,Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/
 Naïve raises $28.5M to automate the grunt work of setting up and running a company,Taking vibe-coding a step further; Naïve claims its infra can automate most of the work in setting up and running a business.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/
 Hark previews its browser use agent for completing tasks,Hark claims that its browser use agent is faster and cheaper than competition.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/
