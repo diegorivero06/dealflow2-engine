@@ -1,23 +1,24 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to get hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Username.md,a signed; agent-readable identity page you own,Agent security & identity,1,governance,,,,,,https://username.md/
+Chain,A Python-like language with native inline C++,AI-native back office,1,erp,,,,,,https://github.com/Nebania/chain-lang
+Parley,your coding agent can talk to a teammate's agent,Financial-services decision infrastructure,1,claims,,,,,,https://parley.weldra.dev
+Seal,Open-source P2P encrypted chat in Rust and Tauri,AI-native back office,1,erp,,,,,,https://github.com/Emn4tor/Seal
+Browser Agent,cost efficient browser automation,Compute & energy scarcity,1,inference,,,,,,https://github.com/visnia-ai/browser-agent
+The Rotten Tomatoes for AI films, ranked by the tools that made them,,Defense-tech & autonomous systems,1,defense,,,,,,https://popcorn.movie/
+BaaStream,CLI for scanning infrastructure for compliance risks,Agent security & identity,1,compliance,,,,,,https://github.com/amulyakashyap09/baastream
+An "Evidence Loop" for steering the agents what to build,,AI-native back office,1,agent-native,,,,,,https://www.dipio.ai
+NiceShot AI,The analytics layer competitive games forgot to add,AI-native back office,1,erp,,,,,,https://github.com/karimm-ai/NiceShot_AI
+I vibecoded a heavy lift drone,,Defense-tech & autonomous systems,1,drone,,,,,,https://lukeiseman.substack.com/p/i-vibecoded-a-drone
+Sketchling,a hand-drawn animation language for coding agents,AI-native back office,1,agent-native,,,,,,https://github.com/AnayGarodia/sketchling
+SecondState,what if Hebbia started with raw ERP data?,AI-native back office,1,erp,,,,,,https://trysecondstate.com/
+Keen Code,an agentic-engineered coding agent,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/mochow13/keen-code
+Graph2agent; Mermaid diagrams, explained for agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://graph2agent.github.io/
+Stagehand,the open source SDK for browser agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://news.ycombinator.com/item?id=49248980
+Gitseq: A Repo Becomes a Workroom,,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/generalbusiness-ai/gitseq
 Needle2: 14MB agentic LLM for phones, wearables, smart home and robots,,AI-native back office,1,erp,,,,,,https://cactuscompute.com/needle
-Edgi,Letterboxd or Strava for your brain,Contrarian consumer,1,consumer,,,,,,https://app.edgi.tv/
-Working on gym weight progress calculator,,AI-native back office,1,erp,,,,,,https://gymcalc.no/
-Game Engine with its own IDE and scripting language,,AI-native back office,1,erp,,,,,,https://news.ycombinator.com/item?id=49242000
-Watching browser fingerprinting calls via Chromium's Blink layer,,AI-native back office,1,erp,,,,,,https://kameleo.io/blog/this-is-the-closest-well-ever-get-to-reverse-engineering-anti-bots
-Lector, a FOSS self,hosted language reader (with a cloud option),Contrarian consumer,1,learning app,,,,,,https://lector.dev/
-SynapsCLI,lightweight agent runtime in Rust; control an agent swarm,Defense-tech & autonomous systems,1,swarm,,,,,,https://github.com/HaseebKhalid1507/SynapsCLI
-A local,first; modular replacement for your accounting software,AI-native back office,1,erp,,,,,,https://github.com/celerp/celerp
-Lumabri,What if LLMs worked like Napster?,Defense-tech & autonomous systems,1,swarm,,,,,,https://github.com/JustVugg/lumabri
-Remaking Unreal engine in Rust for coding agents,,Contrarian consumer,1,gaming,,,,,,https://machinesatplay.com
-Argonix,One AI-powered platform for SRE and cloud operations,Agent security & identity,1,vulnerabilities,,,,,,https://argonix.io/
-Algebruh,Cross-check arithmetic claims with Z3; cvc5; and Lean,Financial-services decision infrastructure,1,claims,,,,,,https://github.com/skorotkiewicz/algebruh
-TchoAI,Transform your documents into editable slide decks,AI-native back office,1,erp,,,,,,https://tcho.ai/en
-TAMX,Personal Tamagotchi,AI-native back office,1,erp,,,,,,https://news.ycombinator.com/item?id=49222730
-A probabilistic programming language with exact inference and loops,,Compute & energy scarcity,1,inference,,,,,,https://github.com/kccqzy/probabilistic-program-inference/blob/master/README.md
 Defense tech Hadrian raises $1.37B at $8B valuation,Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/
 Naïve raises $28.5M to automate the grunt work of setting up and running a company,Taking vibe-coding a step further; Naïve claims its infra can automate most of the work in setting up and running a business.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/
 Hark previews its browser use agent for completing tasks,Hark claims that its browser use agent is faster and cheaper than competition.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/
-How to get the best hotel deals for TechCrunch Disrupt 2026,We’ve partnered with hotels around Moscone West during Disrupt; taking place October 13 to 15; to secure the best prices available for attendees.,Vertical AI-native operating systems,1,hotel,,,,,,https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/
 Moove raises $250M to become the backbone of the robotaxi industry,Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own; not just manage; Waymo robotaxis.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/
