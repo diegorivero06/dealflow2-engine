@@ -1,6 +1,7 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to get hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+HyperSAE,Hyperbolic Sparse Autoencoders for LLM Interpretability,AI-native back office,1,erp,,,,,,https://github.com/vishal-dehurdle/hypersae
 Username.md,a signed; agent-readable identity page you own,Agent security & identity,1,governance,,,,,,https://username.md/
 Chain,A Python-like language with native inline C++,AI-native back office,1,erp,,,,,,https://github.com/Nebania/chain-lang
 Parley,your coding agent can talk to a teammate's agent,Financial-services decision infrastructure,1,claims,,,,,,https://parley.weldra.dev
