@@ -1,6 +1,18 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to get hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Virtual Private LLM, fixed fee with no usage or token limits,,Compute & energy scarcity,1,inference,,,,,,https://solheim.ai
+How to use Mu,Tools for Agents – with x402 payments,Agent infrastructure / AI devops,1,for agents,,,,,,https://micro.mu/blog/post?id=1786633600633959421
+Kanea,Container orchestration in one binary,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/m18h/kanea
+Nanosamur.ai,open-source private speech AI platform,AI-native back office,1,erp,,,,,,https://github.com/nanosamurai/nanosamurai
+A Way for AI agents to support you with regulatory compliance,,Agent security & identity,1,compliance,,,,,,https://rulemesh.com/how-it-works
+Orca,Instant cross-platform in-app purchase orchestration,Agent infrastructure / AI devops,1,orchestration,,,,,,https://news.ycombinator.com/item?id=49286271
+Neal,Claude and Codex working together,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/navels/neal
+Ghostglyph,Turn photos into cyberpunk ASCII art in the browser,AI-native back office,1,erp,,,,,,https://ghostglyph.net/
+Read the Room,a social LLM puzzle,AI-native back office,1,erp,,,,,,https://ilia-iliev.itch.io/read-the-room
+Carolina Cloud Nextflow,,Agent infrastructure / AI devops,1,orchestration,,,,,,https://carolinacloud.io/#/nextflow
+Fab Friends a crowdfunding site for Rwandan college students,,Contrarian consumer,1,career,,,,,,https://www.joinfabfriends.org/donate
+Pane,An open-source browser that turns your work into living websites,Vertical AI-native operating systems,1,os for,,,,,,https://github.com/abhishek-verma/Pane
 My pocket,sized Personal IoT device. Data-local by default,Vertical AI-native operating systems,1,os for,,,,,,https://news.ycombinator.com/item?id=49274601
 OJCP,an open protocol for agent-consumable job data,Compute & energy scarcity,1,inference,,,,,,https://ojcp.dev/
 FEDERaiDE, a TUI harness with P2P multi,agent routing and built in IDE,Agent infrastructure / AI devops,1,orchestration,,,,,,https://federaide.rocklab.in
@@ -9,13 +21,6 @@ Word,finder/anagram solver web app for mobile browsers,Contrarian consumer,1,gam
 Make your bio link worth clicking, even for agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://news.ycombinator.com/item?id=49272353
 Aileaks,scan repos for leaked LLM reasoning-trace secrets,Vertical AI-native operating systems,1,os for,,,,,,https://github.com/sarthakuwar/aileaks
 AI 3D pop,out videos for Reels; Shorts and ads,Vertical AI-native operating systems,1,os for,,,,,,https://videopopy.com
-Woxi,Open-source Mathematica / Wolfram Language reimplementation,AI-native back office,1,erp,,,,,,https://woxi.ad-si.com
-Tynx,train ONNX models with a PyTorch-shaped API (<20 MB whl),Compute & energy scarcity,1,inference,,,,,,https://github.com/blaind/tynx/
-Copero Game: Free Football Career Simulator,,Contrarian consumer,1,career,,,,,,https://coperogame.com/en
-Kernelspace,interactive course on systems programming for LLM Serving,Contrarian consumer,1,career,,,,,,https://kernelspace.naigap.com/
-HyperSAE,Hyperbolic Sparse Autoencoders for LLM Interpretability,AI-native back office,1,erp,,,,,,https://github.com/vishal-dehurdle/hypersae
-Username.md,a signed; agent-readable identity page you own,Agent security & identity,1,governance,,,,,,https://username.md/
-Chain,A Python-like language with native inline C++,AI-native back office,1,erp,,,,,,https://github.com/Nebania/chain-lang
 Defense tech Hadrian raises $1.37B at $8B valuation,Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/
-Naïve raises $28.5M to automate the grunt work of setting up and running a company,Taking vibe-coding a step further; Naïve claims its infra can automate most of the work in setting up and running a business.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/
+OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise,Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank; D1 Capital Partners; and Altimeter Capital.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/
 Moove raises $250M to become the backbone of the robotaxi industry,Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own; not just manage; Waymo robotaxis.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/
