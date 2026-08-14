@@ -1,6 +1,7 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to get hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Agentic Ship,open-source Lovable alternative that runs on your agent,AI-native back office,1,erp,,,,,,https://github.com/moasq/agentic-ship
 Realer Mock Draft,a skill file to based the mock on YOUR league,Physical AI / robotics economics,1,robot,,,,,,https://www.hypeleaguefootball.com/mockdraft
 I precompiled the path network of 3 continents to invent hiking routes,,AI-native back office,1,erp,,,,,,https://windygap.app
 Artifex,Graph Based GPU Harness for AI Agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://gatewai.studio/artifex
