@@ -1,6 +1,13 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to get hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Realer Mock Draft,a skill file to based the mock on YOUR league,Physical AI / robotics economics,1,robot,,,,,,https://www.hypeleaguefootball.com/mockdraft
+I precompiled the path network of 3 continents to invent hiking routes,,AI-native back office,1,erp,,,,,,https://windygap.app
+Artifex,Graph Based GPU Harness for AI Agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://gatewai.studio/artifex
+OpenComplAI,open-source EU AI Act compliance checks in CI/CD,Agent security & identity,1,compliance,,,,,,https://github.com/opencomplai/opencomplai
+Lumabri,Run Moe Models on a P2P Swarm with Colibri,Defense-tech & autonomous systems,1,swarm,,,,,,https://github.com/JustVugg/lumabri
+LymeScribe,one computer on your network transcribes for the rest,AI-native back office,1,erp,,,,,,https://transcribe.lymestack.com/
+Taurus Agents, my take on multi,agent hierarchies,Agent infrastructure / AI devops,1,orchestration,,,,,,https://taurusagents.com/
 Virtual Private LLM, fixed fee with no usage or token limits,,Compute & energy scarcity,1,inference,,,,,,https://solheim.ai
 How to use Mu,Tools for Agents – with x402 payments,Agent infrastructure / AI devops,1,for agents,,,,,,https://micro.mu/blog/post?id=1786633600633959421
 Kanea,Container orchestration in one binary,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/m18h/kanea
@@ -11,16 +18,6 @@ Neal,Claude and Codex working together,Agent infrastructure / AI devops,1,orches
 Ghostglyph,Turn photos into cyberpunk ASCII art in the browser,AI-native back office,1,erp,,,,,,https://ghostglyph.net/
 Read the Room,a social LLM puzzle,AI-native back office,1,erp,,,,,,https://ilia-iliev.itch.io/read-the-room
 Carolina Cloud Nextflow,,Agent infrastructure / AI devops,1,orchestration,,,,,,https://carolinacloud.io/#/nextflow
-Fab Friends a crowdfunding site for Rwandan college students,,Contrarian consumer,1,career,,,,,,https://www.joinfabfriends.org/donate
-Pane,An open-source browser that turns your work into living websites,Vertical AI-native operating systems,1,os for,,,,,,https://github.com/abhishek-verma/Pane
-My pocket,sized Personal IoT device. Data-local by default,Vertical AI-native operating systems,1,os for,,,,,,https://news.ycombinator.com/item?id=49274601
-OJCP,an open protocol for agent-consumable job data,Compute & energy scarcity,1,inference,,,,,,https://ojcp.dev/
-FEDERaiDE, a TUI harness with P2P multi,agent routing and built in IDE,Agent infrastructure / AI devops,1,orchestration,,,,,,https://federaide.rocklab.in
-Research on LLM Disagreement on Factual Claims,,Financial-services decision infrastructure,1,claims,,,,,,https://zenodo.org/records/21829261
-Word,finder/anagram solver web app for mobile browsers,Contrarian consumer,1,gaming,,,,,,https://wanderinghorse.net/gaming/paperback/words.html
-Make your bio link worth clicking, even for agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://news.ycombinator.com/item?id=49272353
-Aileaks,scan repos for leaked LLM reasoning-trace secrets,Vertical AI-native operating systems,1,os for,,,,,,https://github.com/sarthakuwar/aileaks
-AI 3D pop,out videos for Reels; Shorts and ads,Vertical AI-native operating systems,1,os for,,,,,,https://videopopy.com
-Defense tech Hadrian raises $1.37B at $8B valuation,Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/
+Kog is going deeper to squeeze more inference out of GPUs,The idea that GPUs are poorly suited for agentic workflows may be a misconception; according to French startup Kog.,Compute & energy scarcity,1,inference,,,,,,https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/
 OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise,Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank; D1 Capital Partners; and Altimeter Capital.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/
 Moove raises $250M to become the backbone of the robotaxi industry,Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own; not just manage; Waymo robotaxis.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/
