@@ -2,6 +2,7 @@ name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to get hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
 Europe Robotics Map,An open source map of robotics companies,Physical AI / robotics economics,2,robot|robotics,,,,,,https://europeroboticsmap.com/
+Obidos,self-hosted secrets storage and sharing with fine-grained ACLs,AI-native back office,1,erp,,,,,,https://github.com/spenego/Obidos
 My agents kept hallucinating APIs, so I built them a headless IDE,,Agent infrastructure / AI devops,1,for agents,,,,,,https://context-engine.app
 Robot or Meatbag?,,Physical AI / robotics economics,1,robot,,,,,,https://meatbag.atomic14.com/
 NinethirtyAI,A US equity research and analysis platform,AI-native back office,1,erp,,,,,,https://ninethirty.ai/drmarket/
