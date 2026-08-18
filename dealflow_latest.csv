@@ -1,20 +1,20 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to get hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-Sol-Luna,adaptive Codex orchestration that can choose zero workers,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/mahadansar/sol-luna-orchestrator
-RNet,AI token service provider,AI-native back office,1,erp,,,,,,https://news.ycombinator.com/item?id=49318304
-Open,source Grok Bot alternative,Compute & energy scarcity,1,inference,,,,,,https://github.com/madebywelch/guaca
-Security scanner for your SaaS. Find and fix Vulnerabilities. 35% off,,Agent security & identity,1,vulnerabilities,,,,,,https://sentrint.com/sample
-LLMs think in hierarchies. Their interpretability tools should too,,AI-native back office,1,erp,,,,,,https://github.com/vishal-dehurdle/hypersae
-Mimi,the free language learning app that anyone can edit,Contrarian consumer,1,learning app,,,,,,https://mimilearn.org/
-Chemistry AI,step-by-step chemistry solver,Frontier bio/materials re-platformed on AI,1,chemistry,,,,,,https://chemistryai.chat
-TidsOS,a private cloud OS for office PCs that sleep and roam,Vertical AI-native operating systems,1,os for,,,,,,https://github.com/santoputhoor/tidsos
-I serve my website with a swarm of ESP32 microcontrollers on a shelf,,Defense-tech & autonomous systems,1,swarm,,,,,,https://github.com/Novotarskyi/ivan-bohun
-Embassia,LLM Search Console – Web crawlers talk to your site's agent,AI-native back office,1,erp,,,,,,https://embassia.com
-Open,Source Paper,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/caffeinum/tracepaper
-Captain, AI Travel Agent,,AI-native back office,1,erp,,,,,,https://www.moonlight.ng/captain/
-Agentic Ship,open-source Lovable alternative that runs on your agent,AI-native back office,1,erp,,,,,,https://github.com/moasq/agentic-ship
-Realer Mock Draft,a skill file to based the mock on YOUR league,Physical AI / robotics economics,1,robot,,,,,,https://www.hypeleaguefootball.com/mockdraft
+Europe Robotics Map,An open source map of robotics companies,Physical AI / robotics economics,2,robot|robotics,,,,,,https://europeroboticsmap.com/
+My agents kept hallucinating APIs, so I built them a headless IDE,,Agent infrastructure / AI devops,1,for agents,,,,,,https://context-engine.app
+Robot or Meatbag?,,Physical AI / robotics economics,1,robot,,,,,,https://meatbag.atomic14.com/
+NinethirtyAI,A US equity research and analysis platform,AI-native back office,1,erp,,,,,,https://ninethirty.ai/drmarket/
+A local MitM proxy to control TLS fingerprints,,AI-native back office,1,erp,,,,,,https://github.com/ytkoka/impersonate-proxy
+AI Resume Optimization Tool for Specific Job Positions,,Contrarian consumer,1,career,,,,,,https://aiomniu.top/services/resume-builder
+Roadmark,roadmaps that branch instead of overwriting the plan,AI-native back office,1,erp,,,,,,https://yourroadmark.com
+An n8n,like orchestration toolkit for DeepSeek harnesses,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/ahamoment-101/Open-DeepSeek-Harness-Desktop
+A multiplayer coding environment for dev teams and agents,,Agent infrastructure / AI devops,1,orchestration,,,,,,https://forklane.ai
+Engelbart,Mange Goals and TODOs for Claude Code,Vertical AI-native operating systems,1,os for,,,,,,https://github.com/divadbaroon/claude-plugins
+Gene Inspector Pro,I built a tool for exploring your own genome,AI-native back office,1,erp,,,,,,https://gene-inspector.pro/
+Slivingdoc, conflict,resolving notebook for agents w. S3 backend,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.slivingdoc.dev/
+Perplexity’s free AI offer left it with millions more users in India,Perplexity's India revenue rose about 60% after the Airtel offer ended for new users; even as downloads declined.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/
+Terra Industries closes $52M seed round to build defense infrastructure for the Global South,African defense tech company Terra Industries announced an additional $18 million in funding; bringing its seed round to $52 million.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/
 Kog is going deeper to squeeze more inference out of GPUs,The idea that GPUs are poorly suited for agentic workflows may be a misconception; according to French startup Kog.,Compute & energy scarcity,1,inference,,,,,,https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/
 OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise,Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank; D1 Capital Partners; and Altimeter Capital.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/
 Moove raises $250M to become the backbone of the robotaxi industry,Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own; not just manage; Waymo robotaxis.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/
