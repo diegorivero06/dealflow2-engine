@@ -2,18 +2,24 @@ name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to get hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
 Europe Robotics Map,An open source map of robotics companies,Physical AI / robotics economics,2,robot|robotics,,,,,,https://europeroboticsmap.com/
+Codex CLI compiled to WASM running in the browser,,AI-native back office,1,erp,,,,,,https://browsercode.io/agents/codex
+Xalgorix,open-source AI pentester that proves vulnerabilities,Agent security & identity,1,vulnerabilities,,,,,,https://www.xalgorix.com/
+Deploy apps with agents, no humans required,,Agent infrastructure / AI devops,1,for agents,,,,,,https://up.compartment.dev/humans.html
+A guestbook with no input boxes,,Agent infrastructure / AI devops,1,for agents,,,,,,https://fillo.so/agent-guestbook
+Building a full agentic harness around a 4B model is hard,,Compute & energy scarcity,1,inference,,,,,,https://orvena.app/
+Superprez.io,Sharing and Collaboration for AI-Generated Decks,AI-native back office,1,erp,,,,,,https://www.superprez.io
+Keystroke Biometrics Demo,,AI-native back office,1,erp,,,,,,https://demo.behavlabs.com/
+PantheonGPU,GPU health testing and AI workload benchmarking,AI-native back office,1,erp,,,,,,https://pantheongpu.com/
+Voidleap Code,agentic IDE; own harness; swap models mid-conversation,Compute & energy scarcity,1,inference,,,,,,https://voidleap.com/
+Deft Writing, an AI lab for non,slop LLMs,AI-native back office,1,erp,,,,,,https://deftwriting.com
+Pharos,A package manager for MCP servers (like NPM; but for MCP),Agent security & identity,1,vulnerabilities,,,,,,https://github.com/Wpnx330/pharos-cli
+Singular,local orchestration for autonomous coding agents,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/alex-reysa/singular-lite
 Obidos,self-hosted secrets storage and sharing with fine-grained ACLs,AI-native back office,1,erp,,,,,,https://github.com/spenego/Obidos
 My agents kept hallucinating APIs, so I built them a headless IDE,,Agent infrastructure / AI devops,1,for agents,,,,,,https://context-engine.app
 Robot or Meatbag?,,Physical AI / robotics economics,1,robot,,,,,,https://meatbag.atomic14.com/
 NinethirtyAI,A US equity research and analysis platform,AI-native back office,1,erp,,,,,,https://ninethirty.ai/drmarket/
 A local MitM proxy to control TLS fingerprints,,AI-native back office,1,erp,,,,,,https://github.com/ytkoka/impersonate-proxy
 AI Resume Optimization Tool for Specific Job Positions,,Contrarian consumer,1,career,,,,,,https://aiomniu.top/services/resume-builder
-Roadmark,roadmaps that branch instead of overwriting the plan,AI-native back office,1,erp,,,,,,https://yourroadmark.com
-An n8n,like orchestration toolkit for DeepSeek harnesses,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/ahamoment-101/Open-DeepSeek-Harness-Desktop
-A multiplayer coding environment for dev teams and agents,,Agent infrastructure / AI devops,1,orchestration,,,,,,https://forklane.ai
-Engelbart,Mange Goals and TODOs for Claude Code,Vertical AI-native operating systems,1,os for,,,,,,https://github.com/divadbaroon/claude-plugins
-Gene Inspector Pro,I built a tool for exploring your own genome,AI-native back office,1,erp,,,,,,https://gene-inspector.pro/
-Slivingdoc, conflict,resolving notebook for agents w. S3 backend,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.slivingdoc.dev/
 Perplexity’s free AI offer left it with millions more users in India,Perplexity's India revenue rose about 60% after the Airtel offer ended for new users; even as downloads declined.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/
 Terra Industries closes $52M seed round to build defense infrastructure for the Global South,African defense tech company Terra Industries announced an additional $18 million in funding; bringing its seed round to $52 million.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/
 Kog is going deeper to squeeze more inference out of GPUs,The idea that GPUs are poorly suited for agentic workflows may be a misconception; according to French startup Kog.,Compute & energy scarcity,1,inference,,,,,,https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/
