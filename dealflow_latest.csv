@@ -1,27 +1,28 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to get hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-Europe Robotics Map,An open source map of robotics companies,Physical AI / robotics economics,2,robot|robotics,,,,,,https://europeroboticsmap.com/
+Ullis,Local Ternary Moe-Kan Training and Inference Engine in Rust,Compute & energy scarcity,1,inference,,,,,,https://github.com/Vladislav-Kalinkin/ullis
+A Dynamic video creator for free,,Vertical AI-native operating systems,1,os for,,,,,,https://video.samriddhi.shop/
+Nexus Suite,Modular enterprise project management platform,AI-native back office,1,erp,,,,,,https://nexus-suite-tau.vercel.app
+OpenIndex,Organising domain knowledge into structured data for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/DrDroidLab/open-index
+AI agents can now safely write to your CRMs,,Agent security & identity,1,governance,,,,,,https://www.archron.app/
+Jobs extracted from company career pages, before they reach job boards,,Contrarian consumer,1,career,,,,,,https://news.ycombinator.com/item?id=49366648
+Headless Terminal: skill for agents to use interactive TUI/CLI programs,,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.skills.sh/montanaflynn/headless-terminal/headless-terminal
+Flocker.md,Portable identity and shared state for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://flocker.md/
+CrewCode,Open-source Mission Control for AI coding agents,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/OnPoint-Dev-Tools/crewcode
+Data Visualization for Agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://tryopendata.github.io/openchart/
+Minna,On-device semantic search across your own documents (macOS),Compute & energy scarcity,1,inference,,,,,,https://github.com/impel-intelligence/Minna
 Codex CLI compiled to WASM running in the browser,,AI-native back office,1,erp,,,,,,https://browsercode.io/agents/codex
 Xalgorix,open-source AI pentester that proves vulnerabilities,Agent security & identity,1,vulnerabilities,,,,,,https://www.xalgorix.com/
 Deploy apps with agents, no humans required,,Agent infrastructure / AI devops,1,for agents,,,,,,https://up.compartment.dev/humans.html
 A guestbook with no input boxes,,Agent infrastructure / AI devops,1,for agents,,,,,,https://fillo.so/agent-guestbook
 Building a full agentic harness around a 4B model is hard,,Compute & energy scarcity,1,inference,,,,,,https://orvena.app/
 Superprez.io,Sharing and Collaboration for AI-Generated Decks,AI-native back office,1,erp,,,,,,https://www.superprez.io
-Keystroke Biometrics Demo,,AI-native back office,1,erp,,,,,,https://demo.behavlabs.com/
-PantheonGPU,GPU health testing and AI workload benchmarking,AI-native back office,1,erp,,,,,,https://pantheongpu.com/
-Voidleap Code,agentic IDE; own harness; swap models mid-conversation,Compute & energy scarcity,1,inference,,,,,,https://voidleap.com/
-Deft Writing, an AI lab for non,slop LLMs,AI-native back office,1,erp,,,,,,https://deftwriting.com
-Pharos,A package manager for MCP servers (like NPM; but for MCP),Agent security & identity,1,vulnerabilities,,,,,,https://github.com/Wpnx330/pharos-cli
-Singular,local orchestration for autonomous coding agents,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/alex-reysa/singular-lite
-Obidos,self-hosted secrets storage and sharing with fine-grained ACLs,AI-native back office,1,erp,,,,,,https://github.com/spenego/Obidos
-My agents kept hallucinating APIs, so I built them a headless IDE,,Agent infrastructure / AI devops,1,for agents,,,,,,https://context-engine.app
-Robot or Meatbag?,,Physical AI / robotics economics,1,robot,,,,,,https://meatbag.atomic14.com/
-NinethirtyAI,A US equity research and analysis platform,AI-native back office,1,erp,,,,,,https://ninethirty.ai/drmarket/
-A local MitM proxy to control TLS fingerprints,,AI-native back office,1,erp,,,,,,https://github.com/ytkoka/impersonate-proxy
-AI Resume Optimization Tool for Specific Job Positions,,Contrarian consumer,1,career,,,,,,https://aiomniu.top/services/resume-builder
+Meet the startup helping Wall Street put a price on AI compute,The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs;&#160;compute has&#160;become the single biggest cost for any,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/
+AI isn’t close to curing cancer. This startup says it knows what it will take.,It's the data; stupid.,Frontier bio/materials re-platformed on AI,1,cancer,,,,,,https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/
 Perplexity’s free AI offer left it with millions more users in India,Perplexity's India revenue rose about 60% after the Airtel offer ended for new users; even as downloads declined.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/
 Terra Industries closes $52M seed round to build defense infrastructure for the Global South,African defense tech company Terra Industries announced an additional $18 million in funding; bringing its seed round to $52 million.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/
 Kog is going deeper to squeeze more inference out of GPUs,The idea that GPUs are poorly suited for agentic workflows may be a misconception; according to French startup Kog.,Compute & energy scarcity,1,inference,,,,,,https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/
+Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’,After raising $1.7 billion for his new robotics company Atoms; Travis Kalanick is introspective about the role VCs have played in his career.,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/
 OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise,Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank; D1 Capital Partners; and Altimeter Capital.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/
 Moove raises $250M to become the backbone of the robotaxi industry,Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own; not just manage; Waymo robotaxis.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/
