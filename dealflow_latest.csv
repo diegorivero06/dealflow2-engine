@@ -1,6 +1,9 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Cloudflare Workers boilerplate for your bidding site,,AI-native back office,1,erp,,,,,,https://outbid-directory.lol/outbid-boilerplate
+Free tool to check Supabase vulnerabilities,,Agent security & identity,1,vulnerabilities,,,,,,https://defencecore.com/scan
+3D Engine for Rust Programs,,Frontier bio/materials re-platformed on AI,1,biology,,,,,,https://github.com/David-OConnor/graphics
 A Ruby IDE running on a microcontroller,,Compute & energy scarcity,1,inference,,,,,,https://github.com/engneer-hamachan/area512
 We killed templates and rebuilt presentations from scratch,,AI-native back office,1,erp,,,,,,https://www.slaide.de
 Reverse,engineered a gaming mouse's HID protocol to bring it to Linux,Contrarian consumer,1,gaming,,,,,,https://github.com/blak0p/attack-shark-linux
@@ -12,11 +15,6 @@ Proliferate,open-source; self-hostable Codex for any coding agent,Compute & ener
 eInk Optimized Manga with Kindle Comic Converter (+Kobo/KOreader),,AI-native back office,1,erp,,,,,,https://github.com/ciromattia/kcc
 Caspian,Talk to Human Tool for AI Agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/TryCaspian/caspian-sdk
 Play with a interactive data center power diagram,,Compute & energy scarcity,1,data center,,,,,,https://react-networks-lib.rackout.net/power-sld
-Pigame,pi+LLM plays black-box browser games via observe/move tools,Compute & energy scarcity,1,inference,,,,,,https://github.com/ifoxhz/pigame
-TakoVM,Serverless file systems for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://tako-research.github.io/TakoVM/
-Youtilitics, energy usage analytics from utility data, no hardware,,AI-native back office,1,erp,,,,,,https://youtilitics.com/
-Praxos,team messaging with built-in memory,Vertical AI-native operating systems,1,os for,,,,,,https://www.praxos.ai/
-Language Audio Trainer,Learn languages without looking at the screen,Contrarian consumer,1,learning app,,,,,,https://playling.netlify.app/
 Japanese space tech startup Letara expands beyond satellite thrusters with $16M,Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space; defense and security; after raising ¥2.6 billion ($16 m,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/
 Starcloud raises $250 million for orbital data centers as launch options dry up,There's about to be a big fight to secure access to space.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/
 Castelion hits $13B valuation to mass-produce hypersonic missiles,Founded in 2022; Castelion set out to manufacture hypersonic weapon systems at a lower cost and at faster speeds than traditional defense primes.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/
