@@ -1,25 +1,21 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-A Layer for robotics dataset quality,,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.calibrarobotics.com/
-ModelMRI,see inside a local LLM; VLM or robot policy while it runs,Physical AI / robotics economics,2,robot|robot policy,,,,,,https://github.com/muhammadmahadazher/ModelMRI
-XWM,Action-conditioned world models for robotics,Physical AI / robotics economics,2,robot|robotics,,,,,,https://github.com/kleyt0n/xwm
-I built a tool that finds people asking for what you sell,,Contrarian consumer,1,consumer,,,,,,https://reachfa.st
-Neoswarm,Neovim for controlling AI agents,Defense-tech & autonomous systems,1,swarm,,,,,,https://neoswarm.dev/
-Shelf Protocol,Robots.txt for Commerce,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/Signal-All/shelfprotocol
-A robot football league where frontier AI models manage the clubs,,Physical AI / robotics economics,1,robot,,,,,,https://rfl.football
-EBM Lens, searches biomedical papers, ranks evidence, grounds claims,,Financial-services decision infrastructure,1,claims,,,,,,https://github.com/mauroforlin/ebm-lens
-I built a tool showing how AI providers (should) throttle their models,,Compute & energy scarcity,1,data center,,,,,,https://arxiv.org/abs/2608.23986
-Launched free browser agent (the catch: ads),,Compute & energy scarcity,1,inference,,,,,,https://rtrvr.ai
-Declaude,,Frontier bio/materials re-platformed on AI,1,chemistry,,,,,,https://speak-english.tenken.co/
-CaptureAgent,find; price; draft; grade; run and fund federal work,Agent security & identity,1,compliance,,,,,,https://captureagent.us/
-A daily cartoon contest between AI models, judged blind,,Compute & energy scarcity,1,inference,,,,,,https://comic-cron.com/
-Open,source AMDGCN kernels for optimizing LLM inference,Compute & energy scarcity,1,inference,,,,,,https://github.com/NetraRuntime/netra-kernel
-Sktime,CLI A command line tool to do all time-series tasks,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/siddharth7113/sktime-cli
-ReadPlusOne,Spanish stories built around the words you're learning,Contrarian consumer,1,learning app,,,,,,https://readplusone.com/
+We built open OpenRouter that turns usage into a better model,,Compute & energy scarcity,1,inference,,,,,,https://github.com/experientiallabs/experiential
+Telem,Route agent web search across providers and inspect the traces,AI-native back office,1,erp,,,,,,https://telem.ai/
+Husk a Local,first; open-source; security scanner,AI-native back office,1,erp,,,,,,https://husk-security.dev/
+Feisty Duck's Cryptography and Security News Aggregator,,Agent security & identity,1,vulnerabilities,,,,,,https://www.feistyduck.com/news/
+Backprompter,create; test; and deploy agents without a back end,Agent infrastructure / AI devops,1,orchestration,,,,,,https://backprompter.com/
+ThunderPhone v2,a new architecture for voice AI,AI-native back office,1,erp,,,,,,https://thunderphone.com
+Revenue Agents that monitor churn, upsell, and deal risk,,Contrarian consumer,1,career,,,,,,https://www.rimplo.com/
+Nanointerpret,LLM Interpretability Playground,AI-native back office,1,erp,,,,,,https://nanointerpret.pages.dev/
+Arka.norn,Local governance and delivery for coding agents,Agent security & identity,1,governance,,,,,,https://github.com/arka-squad/arka-norn
+Rook,A multi-Agent harness that lives 100% in a browser extension,AI-native back office,1,erp,,,,,,https://chromewebstore.google.com/detail/rook/opojeelojlkcinlhkbahpcekdolfjmhi
+Fab Friends a crowdfunding site for Rwandan college students,,Contrarian consumer,1,career,,,,,,https://www.joinfabfriends.org
+Use GLM,5.3 in Cursor today via tokengo API,Compute & energy scarcity,1,inference,,,,,,https://www.tokengo.com
+AI scientist builds an open,source Codex Micro from scratch for $40,AI-native back office,1,erp,,,,,,https://iluvatarlabs.com/blog/2026/08/how-we-cloned-openai-codex-micro/
+Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup,Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/
 India’s Airbound bags $37M to take on trucks with rocket-like drones,Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks; DoorDash; and Silicon Valley investor Lachy Groom.,Defense-tech & autonomous systems,1,drone,,,,,,https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/
-Japanese space tech startup Letara expands beyond satellite thrusters with $16M,Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space; defense; and security; after raising ¥2.6 billion ($16 ,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/
-Starcloud raises $250 million for orbital data centers as launch options dry up,There's about to be a big fight to secure access to space.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/
 Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics,General Intuition; the startup building a foundation model that trains generalized AI agents how to move through space and time; is in talks to raise at a $6 billion pre-money valuation from new inves,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/
 Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’,After raising $1.7 billion for his new robotics company Atoms; Travis Kalanick is introspective about the role VCs have played in his career.,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/
-OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise,Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank; D1 Capital Partners; and Altimeter Capital.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/
+Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup,Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/
