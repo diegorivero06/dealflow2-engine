@@ -1,6 +1,7 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Leiolai, AI that pays users for the compute their devices provide,,Compute & energy scarcity,2,inference|data center,,,,,,https://leiolai.com/
 Consequence Gate,agent governance based on what being wrong costs,Agent security & identity,1,governance,,,,,,https://github.com/zilianglab/consequence-gate
 Agentctl,Terraform for your agent harnesses,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/RomanVolkov/agentctl
 Ramanujan,computing: use idle computation to run scientific computing,AI-native back office,1,erp,,,,,,https://github.com/Ramanujan-Computing/Ramanujan
@@ -11,12 +12,6 @@ Puppetflow a free browser automation platform,,AI-native back office,1,erp,,,,,,
 Asking,A simpler customer support inbox for small teams,AI-native back office,1,erp,,,,,,https://asking.com.br/
 Beating GPT5.5,xhigh for Coding agent security with SLMs and IRM,Agent security & identity,1,agent security,,,,,,https://harden.run/blog/aif-research-and-evidence
 We built open OpenRouter that turns usage into a better model,,Compute & energy scarcity,1,inference,,,,,,https://github.com/experientiallabs/experiential
-Telem,Route agent web search across providers and inspect the traces,AI-native back office,1,erp,,,,,,https://telem.ai/
-Husk a Local,first; open-source; security scanner,AI-native back office,1,erp,,,,,,https://husk-security.dev/
-Feisty Duck's Cryptography and Security News Aggregator,,Agent security & identity,1,vulnerabilities,,,,,,https://www.feistyduck.com/news/
-Backprompter,create; test; and deploy agents without a back end,Agent infrastructure / AI devops,1,orchestration,,,,,,https://backprompter.com/
-ThunderPhone v2,a new architecture for voice AI,AI-native back office,1,erp,,,,,,https://thunderphone.com
 Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup,Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/
-India’s Airbound bags $37M to take on trucks with rocket-like drones,Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks; DoorDash; and Silicon Valley investor Lachy Groom.,Defense-tech & autonomous systems,1,drone,,,,,,https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/
 Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics,General Intuition; the startup building a foundation model that trains generalized AI agents how to move through space and time; is in talks to raise at a $6 billion pre-money valuation from new inves,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/
 Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup,Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/
