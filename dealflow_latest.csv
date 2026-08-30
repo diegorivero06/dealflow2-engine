@@ -2,16 +2,18 @@ name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
 Leiolai, AI that pays users for the compute their devices provide,,Compute & energy scarcity,2,inference|data center,,,,,,https://leiolai.com/
+ShevtoneAudio Orchestrator,Turning MIDI into Full Orchestration,Agent infrastructure / AI devops,1,orchestration,,,,,,https://orchestra.shevtoneaudio.com
+1endpoint,Cheaper access to AI models,Compute & energy scarcity,1,inference,,,,,,https://1endpoint.dev
+Cardwall,free external A2A health check and status badge for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://cardwall.ai/
+Moe-Direct,MoE Models far larger than your RAM; on a consumer desktop,Contrarian consumer,1,consumer,,,,,,https://github.com/tmxkzm1925-max/MoE-Direct
+Lumify,sports intelligence API for agents (try without signup),Agent infrastructure / AI devops,1,for agents,,,,,,https://lumify.ai/docs/ai
+DataZen,a local-first client for cross-database workflows,Agent security & identity,1,compliance,,,,,,https://flyxl.github.io/datazen/
 Consequence Gate,agent governance based on what being wrong costs,Agent security & identity,1,governance,,,,,,https://github.com/zilianglab/consequence-gate
 Agentctl,Terraform for your agent harnesses,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/RomanVolkov/agentctl
 Ramanujan,computing: use idle computation to run scientific computing,AI-native back office,1,erp,,,,,,https://github.com/Ramanujan-Computing/Ramanujan
 InferCrane,One stable endpoint for self-hosted AI inference,Compute & energy scarcity,1,inference,,,,,,https://infercrane.com
 LLM Inference Calculator,Estimate VRAM; Latency; and Throughput,Compute & energy scarcity,1,inference,,,,,,https://llm-inference-calculator-delta.vercel.app/
 I built a tool showing how AI providers (should) throttle their models,,Compute & energy scarcity,1,data center,,,,,,https://throttle.staffinganalytics.io/?src=hn
-Puppetflow a free browser automation platform,,AI-native back office,1,erp,,,,,,https://github.com/puppetflow/puppetflow
-Asking,A simpler customer support inbox for small teams,AI-native back office,1,erp,,,,,,https://asking.com.br/
-Beating GPT5.5,xhigh for Coding agent security with SLMs and IRM,Agent security & identity,1,agent security,,,,,,https://harden.run/blog/aif-research-and-evidence
-We built open OpenRouter that turns usage into a better model,,Compute & energy scarcity,1,inference,,,,,,https://github.com/experientiallabs/experiential
 Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup,Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/
 Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics,General Intuition; the startup building a foundation model that trains generalized AI agents how to move through space and time; is in talks to raise at a $6 billion pre-money valuation from new inves,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/
 Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup,Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/
