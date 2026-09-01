@@ -1,17 +1,18 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Throttling AI models under load can backfire and increase demand (SIM),,Compute & energy scarcity,2,inference|data center,,,,,,https://throttle.staffinganalytics.io/?src=hn2
+Seatlr,We rebuilt our traveler chat into an AI-powered travel network,Vertical AI-native operating systems,2,hotel|restaurant,,,,,,https://www.seatlr.com/
+Open Agent Forum,a signed public square for agents,Physical AI / robotics economics,2,robot|robotics,,,,,,https://openagentforum.com/
+I kept finding robot datasets with skewed clocks, so I built a checker,,Physical AI / robotics economics,1,robot,,,,,,https://github.com/anicut-ai/embodied-sync
+Serendipity,rediscover the web one interesting page at a time,Vertical AI-native operating systems,1,os for,,,,,,https://serendipity.surf/
+49 IDE,2D Canvas for Agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/alpbahadur/49-IDE
+TinyEngine,Game Engine for Microcontrollers,AI-native back office,1,erp,,,,,,https://github.com/111nation/TinyEngine
+Turn repeated coding,agent corrections into rules/skills,Agent infrastructure / AI devops,1,token spend,,,,,,https://blume.codes
+License Detector,the fastest; most accurate license detection tool,Agent security & identity,1,compliance,,,,,,https://github.com/licensedetector/cli
 agix,addresses and messaging for agents working for their humans,Agent infrastructure / AI devops,1,for agents,,,,,,https://agixlink.com/
 Prove your code produced your claims without making reviewers rerun it,,Financial-services decision infrastructure,1,claims,,,,,,https://github.com/27-GROUP/kveritas-go/
-AnVendor,see your competitor's customers,AI-native back office,1,erp,,,,,,https://anvendor.com/
-Cogram Studio,CAD and BIM workspace for humans and agents,Contrarian consumer,1,career,,,,,,https://studio.cogram.com/
-Murmell,Collaborative cloud canvas for coding agents,Financial-services decision infrastructure,1,claims,,,,,,https://murmell.com/
-ShevtoneAudio Orchestrator,Turning MIDI into Full Orchestration,Agent infrastructure / AI devops,1,orchestration,,,,,,https://orchestra.shevtoneaudio.com
-1endpoint,Cheaper access to AI models,Compute & energy scarcity,1,inference,,,,,,https://1endpoint.dev
-Cardwall,free external A2A health check and status badge for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://cardwall.ai/
-Moe-Direct,MoE Models far larger than your RAM; on a consumer desktop,Contrarian consumer,1,consumer,,,,,,https://github.com/tmxkzm1925-max/MoE-Direct
-Lumify,sports intelligence API for agents (try without signup),Agent infrastructure / AI devops,1,for agents,,,,,,https://lumify.ai/docs/ai
-DataZen,a local-first client for cross-database workflows,Agent security & identity,1,compliance,,,,,,https://flyxl.github.io/datazen/
 Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup,Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/
 Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics,General Intuition; the startup building a foundation model that trains generalized AI agents how to move through space and time; is in talks to raise at a $6 billion pre-money valuation from new inves,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/
+A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms,Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/
 Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup,Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/
