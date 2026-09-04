@@ -1,7 +1,17 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-Sleeper Agents in Robot Dogs and Kinetic Prompt Injections,,Physical AI / robotics economics,2,robot|robotics,,,,,,https://eito.substack.com/p/kinetic-prompt-injections-and-sleeper
+Reble,branching for Iceberg data warehouses (DuckDB or Spark),Physical AI / robotics economics,1,warehouse,,,,,,https://github.com/satya1395/reble
+Open,source ERP for small manufacturing shops,AI-native back office,1,erp,,,,,,https://github.com/OlegUshakov-pl/CRM
+MCP Security Auditor,Zero-execution static scanner for MCP servers,Agent security & identity,1,vulnerabilities,,,,,,https://apify.com/neon_innovation_lab/mcp-security-auditor
+Sirenfall, a civil defense siren synthesized in Web Audio,,Defense-tech & autonomous systems,1,defense,,,,,,https://sirenfall.live/
+AI Cybersecurity Awareness Game for Cybersecurity Awareness Month,,AI-native back office,1,erp,,,,,,https://ocam.fablesecurity.com/7a573656-3fac-485c-aaa4-a1f56452539f?id=22f5effc-8f44-4d91-b2d2-0151466f8d9a
+Open-source, Git-inspired versioning for hardware design,Cascadia PLM,AI-native back office,1,erp,,,,,,https://github.com/Cascadia-PLM/Cascadia-App
+Ardent, a code,first agent for non-engineering work,Compute & energy scarcity,1,inference,,,,,,https://ardent.ai/
+Tech career roadmaps where every salary figure cites its source,,Contrarian consumer,1,career,,,,,,https://skillpilot.app
+A searchable, timestamped index of 1,124 AI Engineer talks,,Agent infrastructure / AI devops,1,for agents,,,,,,https://aietalks.com/
+Mu,an agent with actual command line experience,AI-native back office,1,erp,,,,,,https://github.com/ylxdzsw/mu
+Pangolin,SSO and WireGuard instead of API keys for LLM access,AI-native back office,1,erp,,,,,,https://github.com/fosrl/pangolin
 Vantage,One prioritized health action per day from Apple Health,Contrarian consumer,1,consumer,,,,,,https://www.vantagehealthapp.com/
 Oconee Runtime,Policy enforcement for browser AI and coding agents,AI-native back office,1,erp,,,,,,https://www.oconeeruntime.com/news/policy-enforcement-for-browser-ai-and-coding-agents
 Concorde, one AI agent shared by an organization,,Agent security & identity,1,governance,,,,,,https://github.com/shutter-network/concorde
@@ -10,15 +20,11 @@ Mitmcloak,mirror the client's TLS/H2/H3 fingerprint in mitmproxy,AI-native back 
 Self,hosted CRM for manufacturing (Django and Htmx),AI-native back office,1,erp,,,,,,https://github.com/OlegUshakov-pl/CRM
 Single,File GGUF Inference,Compute & energy scarcity,1,inference,,,,,,https://wasm-gguf.netlify.app/
 CoOS,desktop app where an agent builds your CRM/ERP as local plugins,AI-native back office,1,erp,,,,,,https://pirol.ai/
-AlparAI,Autonomous Swarm OS with Quantum Verification,Defense-tech & autonomous systems,1,swarm,,,,,,https://www.alparai.com/en
-AI-Native Boilerplate,170+ rules that stop LLMs from drifting.,AI-native back office,1,erp,,,,,,https://github.com/SrikanthVemulapally/ai-native-boilerplate
-Price Dashboard for LLM Inference,,Compute & energy scarcity,1,inference,,,,,,https://github.com/tokencanopy/price
-A free phone number that live,interprets calls between 47 languages,AI-native back office,1,erp,,,,,,https://translatemycall.com
-POWBlock proof,of-work microservice for any server,Defense-tech & autonomous systems,1,defense,,,,,,https://github.com/8Protons/POWBlock
-Authorizer,open-source auth for enterprise apps and agents,AI-native back office,1,erp,,,,,,https://github.com/authorizerdev/authorizer
-OctoLoops,automated marketing for indie devs,AI-native back office,1,erp,,,,,,https://octoloops.com
+Startup ARR is less secure than ever, new research shows,The AI era has completely broken enterprise buying patterns; and startups haven't yet figured out how to navigate.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/
+Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit,The grid has been straining under the weight of new AI data centers; and that has utilities courting fusion startups.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/
 Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’,The internet has a trust problem; and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications; ,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/
 We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO,The internet has a trust problem; and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications; ,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/
 Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics,General Intuition; the startup building a foundation model that trains generalized AI agents how to move through space and time; is in talks to raise at a $6 billion pre-money valuation from new inves,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/
+Crusoe reportedly raises $3B at a  $30B valuation,The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/
 A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms,Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/
 Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup,Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/
