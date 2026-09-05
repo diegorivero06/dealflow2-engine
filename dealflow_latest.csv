@@ -1,6 +1,16 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Ephemerals.dev,Disposable cloud dev environments for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://ephemerals.dev/
+Minilith,A zero-dependency CMS stored inside a PNG file,AI-native back office,1,erp,,,,,,https://blog.minilith.site/#posts/minilith-architecture
+I Wrote a WAF in Rust with Pingora,,AI-native back office,1,erp,,,,,,https://github.com/theghostshinobi/shibuya
+Video Wall Live,View all your Ring cameras at once; on the big screen,Contrarian consumer,1,consumer,,,,,,https://ring.com/pages/appstore/video-wall-live
+Moadim.io,A scheduler for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://moadim.io/
+Covenant,A governance framework for multi-agent AI systems,Agent security & identity,1,governance,,,,,,https://github.com/asalsali/covenant-framework-community
+Run open,weight OCR; VLM and vision models behind one API,Compute & energy scarcity,1,inference,,,,,,https://www.vlmrun.com/gateway
+Casefile,Git why for AI-assisted development,AI-native back office,1,erp,,,,,,https://github.com/lutzleonhardt/casefile
+Votito helps you decide what to build next with confidence,,AI-native back office,1,erp,,,,,,https://www.votito.com/
+Webmcp,react v1.0.0 (React hooks for agents to use WebMCP),Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/agentcathq/webmcp-react
 Reble,branching for Iceberg data warehouses (DuckDB or Spark),Physical AI / robotics economics,1,warehouse,,,,,,https://github.com/satya1395/reble
 Open,source ERP for small manufacturing shops,AI-native back office,1,erp,,,,,,https://github.com/OlegUshakov-pl/CRM
 MCP Security Auditor,Zero-execution static scanner for MCP servers,Agent security & identity,1,vulnerabilities,,,,,,https://apify.com/neon_innovation_lab/mcp-security-auditor
@@ -10,21 +20,12 @@ Open-source, Git-inspired versioning for hardware design,Cascadia PLM,AI-native 
 Ardent, a code,first agent for non-engineering work,Compute & energy scarcity,1,inference,,,,,,https://ardent.ai/
 Tech career roadmaps where every salary figure cites its source,,Contrarian consumer,1,career,,,,,,https://skillpilot.app
 A searchable, timestamped index of 1,124 AI Engineer talks,,Agent infrastructure / AI devops,1,for agents,,,,,,https://aietalks.com/
-Mu,an agent with actual command line experience,AI-native back office,1,erp,,,,,,https://github.com/ylxdzsw/mu
-Pangolin,SSO and WireGuard instead of API keys for LLM access,AI-native back office,1,erp,,,,,,https://github.com/fosrl/pangolin
-Vantage,One prioritized health action per day from Apple Health,Contrarian consumer,1,consumer,,,,,,https://www.vantagehealthapp.com/
-Oconee Runtime,Policy enforcement for browser AI and coding agents,AI-native back office,1,erp,,,,,,https://www.oconeeruntime.com/news/policy-enforcement-for-browser-ai-and-coding-agents
-Concorde, one AI agent shared by an organization,,Agent security & identity,1,governance,,,,,,https://github.com/shutter-network/concorde
-PicoLM v1.0,rc1,Compute & energy scarcity,1,inference,,,,,,https://github.com/whoreson/picolm/
-Mitmcloak,mirror the client's TLS/H2/H3 fingerprint in mitmproxy,AI-native back office,1,erp,,,,,,https://github.com/sardanioss/mitmcloak
-Self,hosted CRM for manufacturing (Django and Htmx),AI-native back office,1,erp,,,,,,https://github.com/OlegUshakov-pl/CRM
-Single,File GGUF Inference,Compute & energy scarcity,1,inference,,,,,,https://wasm-gguf.netlify.app/
-CoOS,desktop app where an agent builds your CRM/ERP as local plugins,AI-native back office,1,erp,,,,,,https://pirol.ai/
+XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation,The round is being raised just months after the robot data startup exited from stealth.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/
+Krafton doubles down on India with another $250M bet beyond gaming,Krafton's planned investment in India is set to surpass $500 million with its latest commitment.,Contrarian consumer,1,gaming,,,,,,https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/
 Startup ARR is less secure than ever, new research shows,The AI era has completely broken enterprise buying patterns; and startups haven't yet figured out how to navigate.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/
 Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit,The grid has been straining under the weight of new AI data centers; and that has utilities courting fusion startups.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/
 Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’,The internet has a trust problem; and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications; ,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/
 We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO,The internet has a trust problem; and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications; ,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/
-Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics,General Intuition; the startup building a foundation model that trains generalized AI agents how to move through space and time; is in talks to raise at a $6 billion pre-money valuation from new inves,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/
 Crusoe reportedly raises $3B at a  $30B valuation,The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/
 A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms,Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/
 Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup,Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/
