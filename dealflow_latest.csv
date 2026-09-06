@@ -1,6 +1,18 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+I built a small arena where AI write robot and then fight each other,,Physical AI / robotics economics,1,robot,,,,,,https://github.com/nigrosimone/llms-robot-arena
+Deterministic Synthetic Fingerprints from a Seed,,AI-native back office,1,erp,,,,,,https://github.com/1etu/actual-fingerprints
+Slicky,a desktop robot for macOS that opens your apps,Physical AI / robotics economics,1,robot,,,,,,https://github.com/ananthasharma/Slicky
+Vibes,A Mac app for friends to see who's online and coding,AI-native back office,1,erp,,,,,,https://vibes.opentangle.com/
+Vibe code keeps running, even with the lid closed,,Contrarian consumer,1,gaming,,,,,,https://touchmac.app/en/
+Fast Cut Video tool for cutting video for Agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/modecir/fast-cutvid
+Myjs An accidental pure,Python JavaScript interpreter,AI-native back office,1,erp,,,,,,https://pypi.org/project/myjs/
+Genetic Distance Map,,AI-native back office,1,erp,,,,,,https://p.migdal.pl/genetic-distance-map/
+Openrobots,,Physical AI / robotics economics,1,robot,,,,,,https://openrobots.vercel.app
+I made a list of the vulnerabilities I got on my blog,,Agent security & identity,1,vulnerabilities,,,,,,https://seiji.reachpad.app/cves.html
+Ditch; Build multiple products at once,,Agent infrastructure / AI devops,1,orchestration,,,,,,https://theditch.dev
+SwarmMemo,a public bulletin board for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://swarmmemo.com/
 Ephemerals.dev,Disposable cloud dev environments for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://ephemerals.dev/
 Minilith,A zero-dependency CMS stored inside a PNG file,AI-native back office,1,erp,,,,,,https://blog.minilith.site/#posts/minilith-architecture
 I Wrote a WAF in Rust with Pingora,,AI-native back office,1,erp,,,,,,https://github.com/theghostshinobi/shibuya
@@ -11,15 +23,6 @@ Run open,weight OCR; VLM and vision models behind one API,Compute & energy scarc
 Casefile,Git why for AI-assisted development,AI-native back office,1,erp,,,,,,https://github.com/lutzleonhardt/casefile
 Votito helps you decide what to build next with confidence,,AI-native back office,1,erp,,,,,,https://www.votito.com/
 Webmcp,react v1.0.0 (React hooks for agents to use WebMCP),Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/agentcathq/webmcp-react
-Reble,branching for Iceberg data warehouses (DuckDB or Spark),Physical AI / robotics economics,1,warehouse,,,,,,https://github.com/satya1395/reble
-Open,source ERP for small manufacturing shops,AI-native back office,1,erp,,,,,,https://github.com/OlegUshakov-pl/CRM
-MCP Security Auditor,Zero-execution static scanner for MCP servers,Agent security & identity,1,vulnerabilities,,,,,,https://apify.com/neon_innovation_lab/mcp-security-auditor
-Sirenfall, a civil defense siren synthesized in Web Audio,,Defense-tech & autonomous systems,1,defense,,,,,,https://sirenfall.live/
-AI Cybersecurity Awareness Game for Cybersecurity Awareness Month,,AI-native back office,1,erp,,,,,,https://ocam.fablesecurity.com/7a573656-3fac-485c-aaa4-a1f56452539f?id=22f5effc-8f44-4d91-b2d2-0151466f8d9a
-Open-source, Git-inspired versioning for hardware design,Cascadia PLM,AI-native back office,1,erp,,,,,,https://github.com/Cascadia-PLM/Cascadia-App
-Ardent, a code,first agent for non-engineering work,Compute & energy scarcity,1,inference,,,,,,https://ardent.ai/
-Tech career roadmaps where every salary figure cites its source,,Contrarian consumer,1,career,,,,,,https://skillpilot.app
-A searchable, timestamped index of 1,124 AI Engineer talks,,Agent infrastructure / AI devops,1,for agents,,,,,,https://aietalks.com/
 XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation,The round is being raised just months after the robot data startup exited from stealth.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/
 Krafton doubles down on India with another $250M bet beyond gaming,Krafton's planned investment in India is set to surpass $500 million with its latest commitment.,Contrarian consumer,1,gaming,,,,,,https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/
 Startup ARR is less secure than ever, new research shows,The AI era has completely broken enterprise buying patterns; and startups haven't yet figured out how to navigate.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/
