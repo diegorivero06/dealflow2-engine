@@ -1,6 +1,16 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you don't want to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Plethora, Social platform and SDK around games and interactive content,,Contrarian consumer,2,consumer|social platform,,,,,,https://plethora.studio/
+LLM Council: survival,of-the-fittest multi-modal deliberation,Defense-tech & autonomous systems,1,swarm,,,,,,https://github.com/Moiz-I/council-of-claude
+I have created a browser FPS game with kamikaze drones,,Defense-tech & autonomous systems,1,drone,,,,,,https://sectorlock.com/
+Qumra,Screen recorder that uploads while you record,Vertical AI-native operating systems,1,os for,,,,,,https://qumra.io
+Web Scraping and Crawling,FetchRelay,Agent infrastructure / AI devops,1,for agents,,,,,,https://fetchrelay.com
+A local visual tool cli/mcp for agents to propose architecture changes,,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/luiscleto/WorkBraid
+The ros2_utils_tool v1.0, a tool for ROS2 activies with full UI support,,Vertical AI-native operating systems,1,os for,,,,,,https://github.com/MaxFleur/ros2_utils_tool/
+HexBOTs,a cellular automaton with robotic lawnmowers,Physical AI / robotics economics,1,robot,,,,,,https://hexbot-genesis.netlify.app/
+ZeroThesis,Multiplayer Autoresearch with Agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://zerothesis.com
+Robot,duck soccer in the browser; powered by MuJoCo and learned walking,Physical AI / robotics economics,1,robot,,,,,,https://fpvsim.com/sim-duck
 I built a small arena where AI write robot and then fight each other,,Physical AI / robotics economics,1,robot,,,,,,https://github.com/nigrosimone/llms-robot-arena
 Deterministic Synthetic Fingerprints from a Seed,,AI-native back office,1,erp,,,,,,https://github.com/1etu/actual-fingerprints
 Slicky,a desktop robot for macOS that opens your apps,Physical AI / robotics economics,1,robot,,,,,,https://github.com/ananthasharma/Slicky
@@ -12,17 +22,7 @@ Genetic Distance Map,,AI-native back office,1,erp,,,,,,https://p.migdal.pl/genet
 Openrobots,,Physical AI / robotics economics,1,robot,,,,,,https://openrobots.vercel.app
 I made a list of the vulnerabilities I got on my blog,,Agent security & identity,1,vulnerabilities,,,,,,https://seiji.reachpad.app/cves.html
 Ditch; Build multiple products at once,,Agent infrastructure / AI devops,1,orchestration,,,,,,https://theditch.dev
-SwarmMemo,a public bulletin board for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://swarmmemo.com/
-Ephemerals.dev,Disposable cloud dev environments for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://ephemerals.dev/
-Minilith,A zero-dependency CMS stored inside a PNG file,AI-native back office,1,erp,,,,,,https://blog.minilith.site/#posts/minilith-architecture
-I Wrote a WAF in Rust with Pingora,,AI-native back office,1,erp,,,,,,https://github.com/theghostshinobi/shibuya
-Video Wall Live,View all your Ring cameras at once; on the big screen,Contrarian consumer,1,consumer,,,,,,https://ring.com/pages/appstore/video-wall-live
-Moadim.io,A scheduler for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://moadim.io/
-Covenant,A governance framework for multi-agent AI systems,Agent security & identity,1,governance,,,,,,https://github.com/asalsali/covenant-framework-community
-Run open,weight OCR; VLM and vision models behind one API,Compute & energy scarcity,1,inference,,,,,,https://www.vlmrun.com/gateway
-Casefile,Git why for AI-assisted development,AI-native back office,1,erp,,,,,,https://github.com/lutzleonhardt/casefile
-Votito helps you decide what to build next with confidence,,AI-native back office,1,erp,,,,,,https://www.votito.com/
-Webmcp,react v1.0.0 (React hooks for agents to use WebMCP),Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/agentcathq/webmcp-react
+Travis Kalanick’s Atoms might be getting into the robotaxi business,The Uber founder has said that Atoms will allow him to complete "unfinished business.",Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/
 XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation,The round is being raised just months after the robot data startup exited from stealth.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/
 Krafton doubles down on India with another $250M bet beyond gaming,Krafton's planned investment in India is set to surpass $500 million with its latest commitment.,Contrarian consumer,1,gaming,,,,,,https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/
 Startup ARR is less secure than ever, new research shows,The AI era has completely broken enterprise buying patterns; and startups haven't yet figured out how to navigate.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/
