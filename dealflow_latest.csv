@@ -1,24 +1,24 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Charter,Operate production-safe agents that run on your own infra,Agent infrastructure / AI devops,2,for agents|agent infrastructure,,,,,,https://github.com/boundflow/charter
+HolaOS,–An Opensourced workspace that alternative to Claude,AI-native back office,1,erp,,,,,,https://github.com/holaboss-ai/holaOS
+Add legally binding signature to your Google Form,,Agent security & identity,1,compliance,,,,,,https://formesign.com/esign/
+Kage,Real product design inspiration turned into prompts for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://kage.design/
+SOS,Project state between coding agent sessions,Agent security & identity,1,governance,,,,,,https://github.com/sigmastratum/sigma-operator-stack
+You can't read every ToS, but the clanker can,,Physical AI / robotics economics,1,robot,,,,,,https://github.com/PAndreew/termsinator
+Reviving my $15,000 browser arcade with Astra,,Contrarian consumer,1,gaming,,,,,,https://eggverse.co/
+Cadenya,An Agent Runtime,Compute & energy scarcity,1,inference,,,,,,https://www.cadenya.com/
+CodePress,Save $50k+ a month on Cloud Agents,AI-native back office,1,erp,,,,,,https://codepress.dev/
+Natively,comms for agents built by agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://natively.io
+Raiders at the Gate,tower defense web game,Defense-tech & autonomous systems,1,defense,,,,,,https://games.chrisbeach.co.uk/raiders-at-the-gate/
+Open,source simulation testing infra for voice agents,Compute & energy scarcity,1,inference,,,,,,https://github.com/egma-ai/egma
 Nola,a TypeScript superset where LLM inference is a language feature,Compute & energy scarcity,1,inference,,,,,,https://nola.sh/
 Compiling Matlab Code to Native Executables with RunMat,,AI-native back office,1,erp,,,,,,https://runmat.com/blog/compiling-matlab-code-to-native-executables-with-runmat
 JavaScript grid and pivot library built for coding agents,,AI-native back office,1,erp,,,,,,https://news.ycombinator.com/item?id=49643496
-Nightshift,Rust CLI to Orchestrate GitHub Issue Resolution with Dags,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/Shaurya-Sethi/nightshift
-Rayrun,one MCP gateway for the whole company,Agent security & identity,1,governance,,,,,,https://ray.run/
-Csirac emulator with Interprogram,first .au computer & language,AI-native back office,1,erp,,,,,,https://grahame.dev/csirac/
-An open,source SAS interpreter; written by agents,AI-native back office,1,erp,,,,,,https://kirha.com/research/opensas
-TrailerPark, a place just to talk about film trailers,,AI-native back office,1,erp,,,,,,https://news.ycombinator.com/item?id=49628138
-Maxxwell,The IDE for Optimal Tokenmaxxing,Defense-tech & autonomous systems,1,defense,,,,,,https://maxxwell.dev/
-RistOS,a de-Googled Pixel OS for your self-hosted LLM assistant,Vertical AI-native operating systems,1,os for,,,,,,https://github.com/rist-os/rist-os-handset
 Maven Robotics wants to steal your robot deployment deal,Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/
 Defense tech Mach Industries doubles valuation to $3.7B in 3 months,The buzzy startup raised another $600 million in a Series C extension round; bringing the total of the round to $900 million.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/
 Sequoia doubles down on Cymphony as AI agents create new enterprise security risks,Cymphony gives security teams a single view of employees; AI agents; and other nonhuman identities; including the systems and sensitive data they can access.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/
 Travis Kalanick’s Atoms might be getting into the robotaxi business,The Uber founder has said that Atoms will allow him to complete "unfinished business.",Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/
-XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation,The round is being raised just months after the robot data startup exited from stealth.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/
-Krafton doubles down on India with another $250M bet beyond gaming,Krafton's planned investment in India is set to surpass $500 million with its latest commitment.,Contrarian consumer,1,gaming,,,,,,https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/
-Startup ARR is less secure than ever, new research shows,The AI era has completely broken enterprise buying patterns; and startups haven't yet figured out how to navigate.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/
-Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit,The grid has been straining under the weight of new AI data centers; and that has utilities courting fusion startups.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/
 Crusoe reportedly raises $3B at a  $30B valuation,The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/
 A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms,Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/
-Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup,Shoppers can visit the Atorie website and buy handbags or clothes made from the same material — and coming from the same factory — that manufacturers use in high-end goods.,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/
