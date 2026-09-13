@@ -1,20 +1,15 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-Charter,Operate production-safe agents that run on your own infra,Agent infrastructure / AI devops,2,for agents|agent infrastructure,,,,,,https://github.com/boundflow/charter
+OSS Modal Alternative,,Compute & energy scarcity,1,inference,,,,,,https://github.com/beam-cloud/beta9/
+Directory of 28 AI crawlers,robots.txt rules; IP ranges; open data,Physical AI / robotics economics,1,robot,,,,,,https://geoprompttracker.com/bots
+Fleecevest,The Product Counterpart to Ponytail,AI-native back office,1,erp,,,,,,https://github.com/Websites-On-Computers/fleecevest
+Come prove the Berge Fulkerson conjecture with a swarm of agents,,Defense-tech & autonomous systems,1,swarm,,,,,,https://provetogether.ai/problems/15
+Determinstic LLM inference for lowest price Gemma 4, with Windows XP,,Compute & energy scarcity,1,inference,,,,,,https://www.tokendelivery.ai/
 Agentic Deployment and Hosting,,AI-native back office,1,erp,,,,,,https://sitedropper.com/
 Objo Studio. A modern visual RAD IDE for desktop and web,,AI-native back office,1,erp,,,,,,https://objo.dev
 Don't Hit Send,the model answers while you type,Compute & energy scarcity,1,inference,,,,,,https://github.com/scalattice/dont-hit-send
 HolaOS,–An Opensourced workspace that alternative to Claude,AI-native back office,1,erp,,,,,,https://github.com/holaboss-ai/holaOS
-Add legally binding signature to your Google Form,,Agent security & identity,1,compliance,,,,,,https://formesign.com/esign/
-Kage,Real product design inspiration turned into prompts for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://kage.design/
-SOS,Project state between coding agent sessions,Agent security & identity,1,governance,,,,,,https://github.com/sigmastratum/sigma-operator-stack
-You can't read every ToS, but the clanker can,,Physical AI / robotics economics,1,robot,,,,,,https://github.com/PAndreew/termsinator
-Reviving my $15,000 browser arcade with Astra,,Contrarian consumer,1,gaming,,,,,,https://eggverse.co/
-Cadenya,An Agent Runtime,Compute & energy scarcity,1,inference,,,,,,https://www.cadenya.com/
-Bodily Oddities,,Physical AI / robotics economics,1,robot,,,,,,https://vester.si/bodily-oddities/
-CodePress,Save $50k+ a month on Cloud Agents,AI-native back office,1,erp,,,,,,https://codepress.dev/
-Natively,comms for agents built by agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://natively.io
 Maven Robotics wants to steal your robot deployment deal,Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/
 Defense tech Mach Industries doubles valuation to $3.7B in 3 months,The buzzy startup raised another $600 million in a Series C extension round; bringing the total of the round to $900 million.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/
 Sequoia doubles down on Cymphony as AI agents create new enterprise security risks,Cymphony gives security teams a single view of employees; AI agents; and other nonhuman identities; including the systems and sensitive data they can access.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/
