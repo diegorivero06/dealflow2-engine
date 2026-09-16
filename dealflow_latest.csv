@@ -1,24 +1,24 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Ivx/AI Chat, AI client that doesn't track you (with a better GUI imo),,Compute & energy scarcity,1,inference,,,,,,https://ai.ivx.run/
+OpenDocBot,bring your own model to Word; Excel and PowerPoint,AI-native back office,1,erp,,,,,,https://opendocbot.com/
+Stopping AI agent swarms from hacking our systems,,Defense-tech & autonomous systems,1,swarm,,,,,,https://www.inwom.com/
+Blue,open-source governance for coding agents,Agent security & identity,1,governance,,,,,,https://bluee.sh/
+Kaflow Search,A desktop tool for locally indexed Kafka message search,Contrarian consumer,1,consumer,,,,,,https://kaflow-search.whsoul-tools.com/
+Picxel,Turn reference images into pixel-art game assets,AI-native back office,1,erp,,,,,,https://github.com/See-Sol-Lab/Picxel
+Freeform,One click shareable AI generated apps,AI-native back office,1,erp,,,,,,https://sharefreeform.com
+Tray indicator for WSL2: on/off, CPU and memory, one,click shutdown,Contrarian consumer,1,gaming,,,,,,https://github.com/ideaconnect/wsl-tray
+Makerpa.ge,project hub and syncing badge across your sites,AI-native back office,1,erp,,,,,,https://makerpa.ge
+Thurbox,A tmux-based TUI and CLI for local AI agent orchestration,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/Thurbeen/thurbox
+Leo,a Markdown engineering process for AI coding agents,AI-native back office,1,erp,,,,,,https://github.com/alex-zaporozhan/leo
+Uplink,Software for Agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://uplink.spot/
+The Brand API, a taste tool for agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://engine.tastelabs.com/
 TrailVid,Cinematic Travel Animations,Vertical AI-native operating systems,1,os for,,,,,,https://trailvid.com/
 Omni,Open-source workplace agent; built on Postgres,AI-native back office,1,erp,,,,,,https://news.ycombinator.com/item?id=49715402
+Pizza Bot,An inbox for AI agents that work in the background,AI-native back office,1,erp,,,,,,https://github.com/pizza-bot-app/pizza-bot
 Loss. a tiny satire about AI progress,,Defense-tech & autonomous systems,1,swarm,,,,,,https://workatloss.com/
-GSL,I wanted to describe the architecture; not just draw it,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/dnnrly/gsl-lang
-A Zoomable Equal,Area Map Projection that interpolates to Mercator,AI-native back office,1,erp,,,,,,https://www.benjoffe.com/map
-Stage Captions,streaming browser audio into live event captions,AI-native back office,1,erp,,,,,,https://stagecaptions.io
-Collusion.gg,A Place for Agents to Collude,Agent infrastructure / AI devops,1,for agents,,,,,,https://collusion.gg/
-Jinfer,AI inference engine for the JVM. AI in a jar,Compute & energy scarcity,1,inference,,,,,,https://qxotic.ai/
-The web is dead. Keep this app alive,,Compute & energy scarcity,1,inference,,,,,,https://longlivethis.site
-Free tool to check how ChatGPT and Perplexity rank your brand,,AI-native back office,1,erp,,,,,,https://ukaiseoconsultant.co.uk/ai-driven-seo-audits/
-Build2me,Prove2Me for software agent swarms build code,AI-native back office,1,erp,,,,,,https://github.com/shitianfang/build2me
-Threshyr,An offline automatic time tracker with on-device AI,Compute & energy scarcity,1,inference,,,,,,https://threshyr.com
-AttaLambda: a language where types and data are made of untyped lambdas,,Vertical AI-native operating systems,1,os for,,,,,,https://attalambda.com
-Nari Qwen3-TTS and Qwen3-ASR,High accuracy; low latency and cost,Compute & energy scarcity,1,inference,,,,,,https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/
-Requirement5,a digital card collection game,AI-native back office,1,erp,,,,,,https://news.ycombinator.com/item?id=49699025
-Drone flight over world cities and neighbourhoods,,Defense-tech & autonomous systems,1,drone,,,,,,https://citydrones.kingsbridge-consultancy.com/
-Chickadee,Free; local; open-source text-to-speech for web pages,Physical AI / robotics economics,1,robot,,,,,,https://www.usechickadee.com
+Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026,The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/
 Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026,Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders; Adrian Macneil (Foxglove); John Mackey (MBRYONICS); and Boris Sofman (Bedrock,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/
+Former Infosys chief’s AI startup nabs another $53M,The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/
 Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents,Their startup; Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital; with participation from First Harmonic.,Financial-services decision infrastructure,1,underwriting,,,,,,https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/
-Fusion power startups find new partners in the defense world,Fusion startups are inking defense-related deals; reigniting the relationship between fusion and national security that might have gone dormant; but never completely disappeared.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/
-Crusoe reportedly raises $3B at a  $30B valuation,The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/
