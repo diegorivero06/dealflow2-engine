@@ -1,20 +1,15 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-I built a Mac app to make technical PDF textbooks easier to study,,Physical AI / robotics economics,2,robot|robotics,,,,,,https://marginstudy.app/
-Dishlist,my favorite things on the menu,Vertical AI-native operating systems,1,restaurant,,,,,,https://testflight.apple.com/join/VB1YAe63
+A map of 68 programs and jobs in AI safety research,,Agent security & identity,1,governance,,,,,,https://cleverhack.com/ai-research-ai-safety-ai-talent
+MCPJam,the first testing & evaluations platform for MCP servers,AI-native back office,1,erp,,,,,,https://www.mcpjam.com
+Windows,style Excel ribbon shortcuts and formatting macros for Mac,AI-native back office,1,erp,,,,,,https://lightningxl.com/
+dishlist,my favorite things on the menu,Vertical AI-native operating systems,1,restaurant,,,,,,https://testflight.apple.com/join/VB1YAe63
 Paste a song and get 5 license,free cousins that sound like it,Vertical AI-native operating systems,1,os for,,,,,,https://mockfreeli.org/
 Video uploader for React/RN,drop in or headless UI; any back end,Vertical AI-native operating systems,1,os for,,,,,,https://github.com/hyper-serve/video-uploader
 Facefork,A tree interface to AI edit photos for fun,Vertical AI-native operating systems,1,os for,,,,,,https://facefork.com/
-Nexus-Arc,pay-per-call and job escrow for AI agents on Arc,Agent infrastructure / AI devops,1,agent identity,,,,,,https://nexus-arc.pryx.dev/
-FastRecall, ultra,cheap memory across AI models,Compute & energy scarcity,1,inference,,,,,,https://fastrecall.ai/
-Ivx/AI Chat, AI client that doesn't track you (with a better GUI imo),,Compute & energy scarcity,1,inference,,,,,,https://ai.ivx.run/
-OpenDocBot,bring your own model to Word; Excel and PowerPoint,AI-native back office,1,erp,,,,,,https://opendocbot.com/
-Stopping AI agent swarms from hacking our systems,,Defense-tech & autonomous systems,1,swarm,,,,,,https://www.inwom.com/
-Blue,open-source governance for coding agents,Agent security & identity,1,governance,,,,,,https://bluee.sh/
-Kaflow Search,A desktop tool for locally indexed Kafka message search,Contrarian consumer,1,consumer,,,,,,https://kaflow-search.whsoul-tools.com/
 Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026,The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/
-Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026,Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders; Adrian Macneil (Foxglove); John Mackey (MBRYONICS); and Boris Sofman (Bedrock,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/
+Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026,Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/
 Comp AI sets eyes on a continuously agentic future for security and compliance,Comp AI; a cybersecurity and compliance startup; announced a $34 million Series A round led by Roo Capital and Grand Ventures.,Agent security & identity,1,compliance,,,,,,https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/
-Former Infosys chief’s AI startup nabs another $53M,The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/
+Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’,The round values the data center giant at $30.9 billion.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/
 Comp AI sets eyes on a continuously agentic future for security and compliance,Comp AI; a cybersecurity and compliance startup; announced a $34 million Series A round led by Roo Capital and Grand Ventures.,Agent security & identity,1,compliance,,,,,,https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/
