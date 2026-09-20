@@ -1,17 +1,20 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Swarm, an offline family tree app for macOS,,Defense-tech & autonomous systems,1,swarm,,,,,,https://github.com/samoilev/swarm
+Real Jev decisions on a simulated robot fleet,$24.57 per million,Physical AI / robotics economics,1,robot,,,,,,https://github.com/robokrunch/jev-physical-ai
+Quick commerce coverage map of India,,Contrarian consumer,1,consumer,,,,,,https://darkstoremap.in/
+Keep your social media active without posting every day,,AI-native back office,1,runs itself,,,,,,https://post.buzz/
+ManifestGo,AI tuned for MV3 extension boilerplate and edge case,AI-native back office,1,erp,,,,,,https://manifestgo.app/
+Website Auditor,> Test your brand's AI visibility; get growth plan,AI-native back office,1,erp,,,,,,https://website-auditor.io/
+I am vibe coding a drone,,Defense-tech & autonomous systems,1,drone,,,,,,https://ai-eng-design-production.up.railway.app/login
+CAS-X,An automated compliance matrix for the Amaya Axioms (v5.0),Agent security & identity,1,compliance,,,,,,https://news.ycombinator.com/item?id=49770637
+Stardrift,A 3D galaxy of all music; to explore and learn,AI-native back office,1,erp,,,,,,https://stardrift.gerlach.dev/
 MNIST64,99.5% accuracy MNIST BNN on a stock Commodore 64,Compute & energy scarcity,1,inference,,,,,,https://github.com/jarnoh/mnist64
 Local subagent orchestration for Codex/Claude,,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/ringlochid/oh-my-subagents
 Swormhörn a one,of-one cicada synthesizer [video],Defense-tech & autonomous systems,1,swarm,,,,,,https://www.youtube.com/watch?v=GHiStriaaso
 3D World Explorer and Location Guesser Game,,Defense-tech & autonomous systems,1,drone,,,,,,https://explorer.tadget.net/
 I compiled FreeRDP into a Flutter app so my phone can do RDP and SSH,,Vertical AI-native operating systems,1,os for,,,,,,https://xconnectapp.com/
-A map of 68 programs and jobs in AI safety research,,Agent security & identity,1,governance,,,,,,https://cleverhack.com/ai-research-ai-safety-ai-talent
-MCPJam,the first testing & evaluations platform for MCP servers,AI-native back office,1,erp,,,,,,https://www.mcpjam.com
-Ax-check.com,Can agents use your product?,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.ax-check.com/
-Windows,style Excel ribbon shortcuts and formatting macros for Mac,AI-native back office,1,erp,,,,,,https://lightningxl.com/
-dishlist,my favorite things on the menu,Vertical AI-native operating systems,1,restaurant,,,,,,https://testflight.apple.com/join/VB1YAe63
-Paste a song and get 5 license,free cousins that sound like it,Vertical AI-native operating systems,1,os for,,,,,,https://mockfreeli.org/
 Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026,Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/
 Comp AI sets eyes on a continuously agentic future for security and compliance,Comp AI; a cybersecurity and compliance startup; announced a $34 million Series A round led by Roo Capital and Grand Ventures.,Agent security & identity,1,compliance,,,,,,https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/
 Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’,The round values the data center giant at $30.9 billion.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/
