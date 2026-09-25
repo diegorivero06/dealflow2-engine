@@ -1,25 +1,19 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+CiteRank, track whether ChatGPT and Perplexity cite your site,,AI-native back office,1,erp,,,,,,https://citerank.thecompound.tech
+Patterns, a local,first OCD journal and ERP practice companion,AI-native back office,1,erp,,,,,,https://patternsocd.com/
+Canary (YC),Independent verification for AI code,Defense-tech & autonomous systems,1,swarm,,,,,,https://www.runcanary.ai/
+RentBench,Levels.fyi for UK Rents,Agent infrastructure / AI devops,1,for agents,,,,,,https://rentbench.fyi
+bananabread AI,Find what customers love and want from your products,Contrarian consumer,1,consumer,,,,,,https://bb-product-api-docs.web.app/
 Whiteboard (YC W26),An open-source IDE for thoughtful software design,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/devdotfast/whiteboard
 Potluck,Run local AI across the computers you own,Contrarian consumer,1,gaming,,,,,,https://trypotluck.ai/
 Are My ETFs Overvalued? Daily ETF insights and comparisons tool,,AI-native back office,1,erp,,,,,,https://etf-copilot.com/
 PlaceCall (YC W26),agentic API to call businesses and get things done,Agent infrastructure / AI devops,1,for agents,,,,,,https://news.ycombinator.com/item?id=49831231
 Jexxa,On Device Dictation; Now with Perpetual License,AI-native back office,1,erp,,,,,,https://jexxa.org/
 Zrevick,AI-native business OS for technical founders,Vertical AI-native operating systems,1,os for,,,,,,https://zrevick.com/
-XHTML,Expert HTML,Contrarian consumer,1,career,,,,,,https://xhtml.es/
-An open,source manufacturing ERP/MES/QMS,AI-native back office,1,erp,,,,,,https://carbon.ms/self-hosted
-NetHackers,,AI-native back office,1,erp,,,,,,https://nethackers.dunnolab.ai/
-I built a post,mortem debugger for native Windows x64/x86 crashes,AI-native back office,1,erp,,,,,,https://www.forensicdbg.com
-Meeting Recording and Transcription for Agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/nfishel48/Jotter
-Reflex,a GGUF/CUDA inference engine tuned for cold-start latency,Compute & energy scarcity,1,inference,,,,,,https://github.com/lateos-ai/reflex
-Diff Pro Max,File Compare App,AI-native back office,1,erp,,,,,,https://rkpg.net/diffpromax/index-en.html
-Chromafolk,A pixel canvas inhabited by AIs that see the world as text,Compute & energy scarcity,1,inference,,,,,,https://chromafolk.world/
-Droid ASC,An On-Demand Android Decompiler; 41–269x Faster Than JADX,Agent security & identity,1,vulnerabilities,,,,,,https://github.com/MG1937/ASC
-PicoLM v1.0,rc2 ("Yura Kana"). Run an LLM on Digital Unix,Compute & energy scarcity,1,inference,,,,,,https://github.com/whoreson/picolm/
+Meet Feather, the startup building the ‘Android of robotics’ for developers,Feather is betting on a customizable; $30;000 platform built for software developers.,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/
+Nexterity wants to automate the hard, dangerous part of pipefitting,The startup's robot can tighten or loosen four bolts at a time; and it fits in a Pelican case.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/
 Enveda secures $311M to bring more nature-derived AI drugs into clinical trials,The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.,Frontier bio/materials re-platformed on AI,1,clinical trials,,,,,,https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/
 Modal Motors is trying to cut China out of electric motors entirely,The startup is working on small; light motors with no rare-earth magnets that are suited for drones; fans; and robots.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/
-PitPro’s first tire-changing robot goes live in Canada,The startup says its automated system can change four tires in under 15 minutes.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/
-Ema raises $77M as AI starts eating into enterprise software and services,Ema has raised $140 million to date and has more than 50 enterprise customers; including Google and Microsoft.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/
-TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage,Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200; plus get a se,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/
 Morphotonics raises €40M to expand its display tech into data centers,Deep tech company Morphotonics raises €40M from investors including 3M Ventures; Innovation Industries; BOM; and Invest-NL.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-to-expand-its-display-tech-into-data-centers/
