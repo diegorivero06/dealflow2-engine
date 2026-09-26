@@ -1,19 +1,20 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+I made HACKER AI for your vibecoded app,,Agent security & identity,1,vulnerabilities,,,,,,https://www.netherite.uz
+Minimal dbt,style SQL builds with DuckDB and Make,AI-native back office,1,erp,,,,,,https://github.com/ltrgoddard/duckdb.mk
+Causal analyst agent skill for Claude,,Compute & energy scarcity,1,inference,,,,,,https://github.com/kiritbasu/causal-analyst
+Tenjin,A Jev based x402 tool router for Claude Code,AI-native back office,1,erp,,,,,,https://github.com/BackTrackCo/tenjin-agent
+Wallstreetclaws.com,Create AI Agents for Trading,Financial-services decision infrastructure,1,risk management,,,,,,https://wallstreetclaws.com
+OOMU is a free macOS native desktop AI harness (local and cloud),,AI-native back office,1,erp,,,,,,https://oomu.ai/download.html
+OnionGuard,IP-agnostic; zero-JS DDoS defense in Go for Tor services,Defense-tech & autonomous systems,1,defense,,,,,,https://github.com/ihatemyfcklife/onionguard
+Paper-docx,agent-native Python-docx fork with 78% fewer DOCX failures,AI-native back office,1,agent-native,,,,,,https://github.com/paper-instruments/paper-docx
 CiteRank, track whether ChatGPT and Perplexity cite your site,,AI-native back office,1,erp,,,,,,https://citerank.thecompound.tech
 Patterns, a local,first OCD journal and ERP practice companion,AI-native back office,1,erp,,,,,,https://patternsocd.com/
 Canary (YC),Independent verification for AI code,Defense-tech & autonomous systems,1,swarm,,,,,,https://www.runcanary.ai/
 RentBench,Levels.fyi for UK Rents,Agent infrastructure / AI devops,1,for agents,,,,,,https://rentbench.fyi
-bananabread AI,Find what customers love and want from your products,Contrarian consumer,1,consumer,,,,,,https://bb-product-api-docs.web.app/
-Whiteboard (YC W26),An open-source IDE for thoughtful software design,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/devdotfast/whiteboard
-Potluck,Run local AI across the computers you own,Contrarian consumer,1,gaming,,,,,,https://trypotluck.ai/
-Are My ETFs Overvalued? Daily ETF insights and comparisons tool,,AI-native back office,1,erp,,,,,,https://etf-copilot.com/
-PlaceCall (YC W26),agentic API to call businesses and get things done,Agent infrastructure / AI devops,1,for agents,,,,,,https://news.ycombinator.com/item?id=49831231
-Jexxa,On Device Dictation; Now with Perpetual License,AI-native back office,1,erp,,,,,,https://jexxa.org/
-Zrevick,AI-native business OS for technical founders,Vertical AI-native operating systems,1,os for,,,,,,https://zrevick.com/
 Meet Feather, the startup building the ‘Android of robotics’ for developers,Feather is betting on a customizable; $30;000 platform built for software developers.,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/
 Nexterity wants to automate the hard, dangerous part of pipefitting,The startup's robot can tighten or loosen four bolts at a time; and it fits in a Pelican case.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/
 Enveda secures $311M to bring more nature-derived AI drugs into clinical trials,The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.,Frontier bio/materials re-platformed on AI,1,clinical trials,,,,,,https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/
-Modal Motors is trying to cut China out of electric motors entirely,The startup is working on small; light motors with no rare-earth magnets that are suited for drones; fans; and robots.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/
+Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing,The funding; which comes from Third Point; Nvidia; and others; will fuel the company's massive AI data center buildout.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/
 Morphotonics raises €40M to expand its display tech into data centers,Deep tech company Morphotonics raises €40M from investors including 3M Ventures; Innovation Industries; BOM; and Invest-NL.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-to-expand-its-display-tech-into-data-centers/
