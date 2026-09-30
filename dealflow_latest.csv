@@ -1,27 +1,29 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-I'm a dermatologist and I vibe coded a 3D biophysical skin model,,Frontier bio/materials re-platformed on AI,2,cancer|biology,,,,,,https://www.drmagnuslynch.com/skin
+Hypercolor,Epic RGB orchestration for everything,Agent infrastructure / AI devops,2,for agents|orchestration,,,,,,https://github.com/hyperb1iss/hypercolor
+Kyno,Direction as a first-class primitive for AI agents,Agent security & identity,1,governance,,,,,,https://cizambra.github.io/kyno/
+Datastory, Data storytelling with AI and an open knowledge graph,,Contrarian consumer,1,career,,,,,,https://www.datastory.tech
+WattzGOAT,an intentionally vulnerable web app for security training,Agent security & identity,1,vulnerabilities,,,,,,https://github.com/wattzgoat/wattzgoat-web
+Lathoa, a math app for kids where the AI is wrong on purpose,,Physical AI / robotics economics,1,robot,,,,,,https://lathoa.ai/en
+Burning Man for Agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://burning-tokens.transitivebullsh.it/
+SFML,A markup language for software factories; Terraform for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://sfml.craftmill.dev/
+Layout,Order food anywhere with AI,Vertical AI-native operating systems,1,restaurant,,,,,,https://layout.link/
+Built agent orchestration system, Director,>{workers },Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/mastaan66/foreman
+Anxiety Checklist,3 years of itterate with no success yet,Frontier bio/materials re-platformed on AI,1,cancer,,,,,,https://anxietychecklist.com/
+PyTorch's shape in a browser tap on WebGPU,,Compute & energy scarcity,1,inference,,,,,,https://playidea-lab.github.io/borch/
+InfiniHash App Store,compliance tools built end-to-end by AI agents,Agent security & identity,1,compliance,,,,,,https://apps.infinihash.com/
+Rules that stop AI agents from wrecking your warehouse, with an eval,,Physical AI / robotics economics,1,warehouse,,,,,,https://github.com/idk-arsh/data-agent-rules
+An OS for transmission shops that gates the invoice on verification,,Vertical AI-native operating systems,1,os for,,,,,,https://baystacker.com/
 Iiveg.app,Find vegan food; restaurants and cosmetics around the world,Vertical AI-native operating systems,1,restaurant,,,,,,https://iiveg.app/
 An MCP to control other Windows computers,,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/boxerbk/phaze-mcp-api-helpdesk-example/blob/main/README.md
-NetWasm,Independent .NET Compiler/Runtime (82.5 KB Hello World in C#),AI-native back office,1,erp,,,,,,https://playground.netwasm.com/
-Pyunto,invite an AI agent and a robot into an encrypted diary,Physical AI / robotics economics,1,robot,,,,,,https://pyunto.com/
-Search2o,Search that finds and runs an AI agent for each request,AI-native back office,1,erp,,,,,,https://pypi.org/project/search2o/
-JBR-001,An open-source 3D printable desktop robot,Physical AI / robotics economics,1,robot,,,,,,https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96
-Open,source skills for end-to-end video ad campaigns,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/SupercmoHQ/superCMO-skills
-PocketUni,A mobile app for discovering universities,Contrarian consumer,1,career,,,,,,https://play.google.com/store/apps/details?id=com.pocketuni&hl=en_US
-Nibia Fabric,Turn everyday computers into a shared AI compute cluster,Compute & energy scarcity,1,inference,,,,,,https://github.com/nibia-ai/fabric
-Open,source agent runtime using your ChatGPT or Claude subscription,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/noclickapp/noclick
-Assay,a QA CLI that finds bugs with no LLM and no tests written,AI-native back office,1,erp,,,,,,https://github.com/awss1i/assay
-FastRecall, OpenRouter for Memory,,Compute & energy scarcity,1,inference,,,,,,https://fastrecall.ai/
-HN.watch,Videos of all Hacker News posts,Agent infrastructure / AI devops,1,for agents,,,,,,https://hn.watch/
-Enterprise Postgres for AI and more, from prototype to production,,AI-native back office,1,erp,,,,,,https://www.pgedge.com/products/starfleet
-Omnesis,A private knowledge layer for ChatGPT and other agents,AI-native back office,1,erp,,,,,,https://omnesis.dev/
-OpenAPPA,open-source deterministic guardrails that don't break agents,AI-native back office,1,erp,,,,,,https://www.openappa.com/
+We built a real,time desktop companion for patient's telehealth visits,Frontier bio/materials re-platformed on AI,1,cancer,,,,,,https://openhand.health
 After losing his voice to cancer, this founder is building ‘glasses for voice’,Uhura Bionics; part of the Startup Battlefield 200 at TechCrunch Disrupt; wants to replace flat; robotics voice devices with one that carries emotions.,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/
+Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for,BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/
+More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope,Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners; investor meetups; happy hours; workshops; roundtables and more are taking over San Francisco during Disrupt Week. See what’s happeni,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/
 With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox,Mayer argues that if a photo is worth a thousand words; your camera roll is worth millions. By analyzing all the photos stored on your phone; Dazzle claims to understand your hobbies; interests; food;,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/
 Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026,Anthropic; Clay; and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/
-Nexterity wants to automate the hard, dangerous part of pipefitting,The startup's robot can tighten or loosen four bolts at a time; and it fits in a Pelican case.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/
+Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for,BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/
 With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox,Mayer argues that if a photo is worth a thousand words; your camera roll is worth millions. By analyzing all the photos stored on your phone; Dazzle claims to understand your hobbies; interests; food;,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/
-Protego Ventures closes debut $125 million fund for Israeli defense tech,Protego Ventures; the first and largest dedicated defense tech VC in Israel; just completed its final $125 million closing; TechCrunch learned exclusively.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/
+Protego Ventures closes debut $125M fund for Israeli defense tech,Protego Ventures; the first and largest dedicated defense tech VC in Israel; just completed its final $125 million closing; TechCrunch learned exclusively.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/
 Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing,The funding; which comes from Third Point; Nvidia; and others; will fuel the company's massive AI data center buildout.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/
