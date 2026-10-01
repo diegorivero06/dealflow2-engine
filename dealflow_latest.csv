@@ -1,28 +1,27 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-Hypercolor,Epic RGB orchestration for everything,Agent infrastructure / AI devops,2,for agents|orchestration,,,,,,https://github.com/hyperb1iss/hypercolor
+Hypercolor,Epic RGB lighting control for everything,Agent infrastructure / AI devops,2,for agents|orchestration,,,,,,https://github.com/hyperb1iss/hypercolor
+Mutually beneficial agentic Common Law,,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.peregrini.ai
+Keel,Give your agent a typed strategy language; not a trading account,AI-native back office,1,erp,,,,,,https://usekeel.io/how-it-works
+Velu,self updating product documentation,AI-native back office,1,erp,,,,,,https://www.veludocs.com/
+We built a real,time desktop companion for patient's telehealth visits,Frontier bio/materials re-platformed on AI,1,cancer,,,,,,https://openhand.health
+Tegaki,Handwriting animation for any font,Contrarian consumer,1,learning app,,,,,,https://tegaki.ink/
+SundaeDB,Multimodal Analytics for Agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://sundaedb.com/
+InferPilot,the vLLM doctor that tells you when fp8 won't help,AI-native back office,1,erp,,,,,,https://github.com/poojithdevan4D/InferPilot
+Running shoes compared, built solo with a swarm of Claude agents,,Defense-tech & autonomous systems,1,swarm,,,,,,https://runometry.com/
+Watch a neural net learn Clash Royale defense in the browser,,Defense-tech & autonomous systems,1,defense,,,,,,https://itzik123.github.io/ClashRoyaleAi/lab/
+War365,Satire,AI-native back office,1,erp,,,,,,https://war365.yatesframe.com/
+I wanted a better way to read about OpenAI DevDay 2026,,AI-native back office,1,erp,,,,,,https://yntk.cloud/2026-openai-devday/
+EtherPK,a notes app where any concept is a Kanban Board (from tasks),AI-native back office,1,erp,,,,,,https://blog.etherpk.com/any-concept-can-be-a-kanban-board
 Kyno,Direction as a first-class primitive for AI agents,Agent security & identity,1,governance,,,,,,https://cizambra.github.io/kyno/
 Datastory, Data storytelling with AI and an open knowledge graph,,Contrarian consumer,1,career,,,,,,https://www.datastory.tech
 WattzGOAT,an intentionally vulnerable web app for security training,Agent security & identity,1,vulnerabilities,,,,,,https://github.com/wattzgoat/wattzgoat-web
-Lathoa, a math app for kids where the AI is wrong on purpose,,Physical AI / robotics economics,1,robot,,,,,,https://lathoa.ai/en
-Burning Man for Agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://burning-tokens.transitivebullsh.it/
-SFML,A markup language for software factories; Terraform for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://sfml.craftmill.dev/
-Layout,Order food anywhere with AI,Vertical AI-native operating systems,1,restaurant,,,,,,https://layout.link/
-Built agent orchestration system, Director,>{workers },Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/mastaan66/foreman
-Anxiety Checklist,3 years of itterate with no success yet,Frontier bio/materials re-platformed on AI,1,cancer,,,,,,https://anxietychecklist.com/
-PyTorch's shape in a browser tap on WebGPU,,Compute & energy scarcity,1,inference,,,,,,https://playidea-lab.github.io/borch/
-InfiniHash App Store,compliance tools built end-to-end by AI agents,Agent security & identity,1,compliance,,,,,,https://apps.infinihash.com/
-Rules that stop AI agents from wrecking your warehouse, with an eval,,Physical AI / robotics economics,1,warehouse,,,,,,https://github.com/idk-arsh/data-agent-rules
-An OS for transmission shops that gates the invoice on verification,,Vertical AI-native operating systems,1,os for,,,,,,https://baystacker.com/
-Iiveg.app,Find vegan food; restaurants and cosmetics around the world,Vertical AI-native operating systems,1,restaurant,,,,,,https://iiveg.app/
-An MCP to control other Windows computers,,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/boxerbk/phaze-mcp-api-helpdesk-example/blob/main/README.md
-We built a real,time desktop companion for patient's telehealth visits,Frontier bio/materials re-platformed on AI,1,cancer,,,,,,https://openhand.health
 After losing his voice to cancer, this founder is building ‘glasses for voice’,Uhura Bionics; part of the Startup Battlefield 200 at TechCrunch Disrupt; wants to replace flat; robotics voice devices with one that carries emotions.,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/
+Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.,The startup helps developers build AI agents that work over iMessage; SMS/RCS; email; and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/
 Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for,BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/
 More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope,Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners; investor meetups; happy hours; workshops; roundtables and more are taking over San Francisco during Disrupt Week. See what’s happeni,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/
 With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox,Mayer argues that if a photo is worth a thousand words; your camera roll is worth millions. By analyzing all the photos stored on your phone; Dazzle claims to understand your hobbies; interests; food;,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/
-Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026,Anthropic; Clay; and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/
 Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for,BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/
 With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox,Mayer argues that if a photo is worth a thousand words; your camera roll is worth millions. By analyzing all the photos stored on your phone; Dazzle claims to understand your hobbies; interests; food;,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/
 Protego Ventures closes debut $125M fund for Israeli defense tech,Protego Ventures; the first and largest dedicated defense tech VC in Israel; just completed its final $125 million closing; TechCrunch learned exclusively.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/
