@@ -1,23 +1,22 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-Colorful Design System for Agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://orbeez-kit.vercel.app/chat
-TrustDesk, drop,in TAKE IT DOWN Act compliance for small platforms,Agent security & identity,1,compliance,,,,,,https://trustdesk.thecompound.tech
-ViralReel,Make the viral Hotel Lobby AI template video in 60 seconds,Vertical AI-native operating systems,1,hotel,,,,,,https://www.viralreel.app/
-Watch a neural net learn Clash Royale defense in the browser,,Defense-tech & autonomous systems,1,defense,,,,,,https://itzik123.github.io/ClashRoyaleAi/lab/
-SuperLocalMemory 4.0 "Governed Memory Operating System for AI Agents",,Vertical AI-native operating systems,1,operating system for,,,,,,https://arxiv.org/abs/2608.08253
-I built an inverse kinematics robot arm you can play with,,Physical AI / robotics economics,1,robot,,,,,,https://www.kanishksachdev.com
-Linnaeus, a daily biological taxonomy game,,Frontier bio/materials re-platformed on AI,1,biology,,,,,,https://play.linnaeus-game.workers.dev/
-McKinley,vector editor for SF Symbols (Mac app),AI-native back office,1,erp,,,,,,https://mckinleysymbols.com/
-Grow and Control a Swarm,,Defense-tech & autonomous systems,1,swarm,,,,,,https://nohope.io
-A critical thinking site for kids and teens,,Financial-services decision infrastructure,1,claims,,,,,,https://critikid.com/
-Thoreau BASIC,What if BASIC hadn't gone out of fashion?,AI-native back office,1,erp,,,,,,https://thoreaubasic.com/
-Television,an open source GUI for your agent harness,Vertical AI-native operating systems,1,os for,,,,,,https://television.run/
-Made an open,source Lego AI generator,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/anteloc/ldraw-nova
-Call it AI, call it Super Intelligence, only 2% of consumers are buying it,This week; the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg; Bezos; Musk; and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that Preside,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/
-Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation,Kevin Mandia; best known as the founder of Mandiant; has a new startup that is using agent swarms to test and protect enterprises.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/
-Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.,The startup helps developers build AI agents that work over iMessage; SMS/RCS; email; and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/
+We built a way to make dictation sound like you,,AI-native back office,1,erp,,,,,,https://willowvoice.com/
+SPrav Job AI Client,side career tool with WebGPU and direct ATS queries,Contrarian consumer,1,career,,,,,,https://sprav-jobai.vercel.app/
+Submilli,runtime with semantic permissions for agents that write code,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/submilli/submilli-runtime
+Octri.dev,Generate customizable docs; 10 SDKs; and get an MCP server,AI-native back office,1,erp,,,,,,https://octri.dev
+Screen Records,edit demo or how-to recordings with MCP,Vertical AI-native operating systems,1,os for,,,,,,https://screenrecords.app/
+Azurade, image and video generation with MCP, credits never expire,,AI-native back office,1,agent-native,,,,,,https://azurade.com/developers/
+Bio ML Tools in the Browser,,Frontier bio/materials re-platformed on AI,1,biology,,,,,,https://athanortools.com/
+HivePaaS,Open-Source PaaS on Docker Swarm; from One VPS to a Cluster,Defense-tech & autonomous systems,1,swarm,,,,,,https://github.com/hivepaas/hivepaas
+Tofu,let your agent deploy full-stack apps,Agent infrastructure / AI devops,1,for agents,,,,,,https://trytofu.ai
+LopeBase,monitor your SaaS side projects; automate content,Agent infrastructure / AI devops,1,for agents,,,,,,https://lopebase.com/
+Cluttersignal, a second opinion on any email or link you get,,AI-native back office,1,erp,,,,,,https://clutterstrike.com/
+Ototo: Offload code exploration to a smaller model from Claude et al.,,Compute & energy scarcity,1,inference,,,,,,https://ototo.dev/
+Soundscaper,Audacity 4-like audio editor in the browser,Physical AI / robotics economics,1,robot,,,,,,https://soundscaper.org
+A simple script to stop all cold sales emails from reaching your inbox,,Defense-tech & autonomous systems,1,defense,,,,,,https://github.com/christianmat/cold-email-killer
+Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors,The storied Silicon Valley firm makes its first pure defense investment.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/
+TechCrunch Mobility: Reining in robotaxis,Welcome back to TechCrunch Mobility; your hub for the future of transportation and now; more than ever; the role AI is playing in it.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/
 Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for,BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/
 With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox,Mayer argues that if a photo is worth a thousand words; your camera roll is worth millions. By analyzing all the photos stored on your phone; Dazzle claims to understand your hobbies; interests; food;,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/
 Protego Ventures closes debut $125M fund for Israeli defense tech,Protego Ventures; the first and largest dedicated defense tech VC in Israel; just completed its final $125 million closing; TechCrunch learned exclusively.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/
-Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing,The funding; which comes from Third Point; Nvidia; and others; will fuel the company's massive AI data center buildout.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/
