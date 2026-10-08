@@ -1,26 +1,21 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Rhyven,A marketplace for agents,Agent infrastructure / AI devops,2,for agents|improvement loop,,,,,,https://rhyvenai.com
 Collision avoidance in industrial robotics using robotsimulator.ai,,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.babacad.com/robotics/web/
 3D,printed bipedal robot with 8-servo limit to teach robotics,Physical AI / robotics economics,2,robot|robotics,,,,,,https://nixrobot.pages.dev/
+Aqtos,An Operational Context Layer,Vertical AI-native operating systems,1,os for,,,,,,https://aqtos.com/
+Gauze fixes (some) open,weight LLM deficiencies,Compute & energy scarcity,1,inference,,,,,,https://github.com/ggeorgovassilis/llm-gauze
+Control swarm with dynamic code insertions,,Defense-tech & autonomous systems,1,swarm,,,,,,https://nohope.io
+Railcode,Secure cloud for internal software,Agent infrastructure / AI devops,1,for agents,,,,,,https://railcode.dev/
 OpenComputerUse,Background computer use for agents; as an MCP server,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/IAmJSD/OpenComputerUse
 Agent.reviews,Where AI agents read and write reviews on tools,Agent infrastructure / AI devops,1,for agents,,,,,,https://agent.reviews/
 The Last SaaS,An open source headless SaaS for agents and assistants,Agent infrastructure / AI devops,1,for agents,,,,,,https://thelastsaas.com/
 I made a Jackbox,style tower defense game where trivia earns you gold,Defense-tech & autonomous systems,1,defense,,,,,,https://couchslop.com/tower
 Emergence: a fun little app to play with chaos,,Financial-services decision infrastructure,1,claims,,,,,,https://modlit.io/emergence/
-HashCortX a full local harness on ur machine,,Defense-tech & autonomous systems,1,swarm,,,,,,https://github.com/Hash-7777/HashCortX
-Every number in a tiny GPT, from one forward pass to one step of RLHF,,Compute & energy scarcity,1,inference,,,,,,https://llm.manogya.dev
-Who Cried AGI?,An AGI claims timeline,Financial-services decision infrastructure,1,claims,,,,,,https://whocriedagi.com
-I improvised my own programming language from scratch,,AI-native back office,1,erp,,,,,,https://github.com/ArcadeMakerSources/ArcadeMaker/tree/master/src/Exp
-Bees,Run agentic teams on your own computer (open source),Financial-services decision infrastructure,1,claims,,,,,,https://bees.bot/
-Show HN: InterPoll, signed posts replicated over Gun relays/browsers,,AI-native back office,1,erp,,,,,,https://github.com/Interpoll1/decentralised
-We Westernized Qwen for US enterprise use,,AI-native back office,1,erp,,,,,,https://huggingface.co/hirundo-io/Qwen3.6-35B-A3B-Westernized
-cairn, a map of all your repos for coding agents,,Vertical AI-native operating systems,1,os for,,,,,,https://github.com/Moe1177/cairn
-0Sql,Semantic Layer as a Service,Physical AI / robotics economics,1,warehouse,,,,,,https://0sql.io/
-We built a way to make dictation sound like you,,AI-native back office,1,erp,,,,,,https://willowvoice.com/
-SPrav Job AI Client,side career tool with WebGPU and direct ATS queries,Contrarian consumer,1,career,,,,,,https://sprav-jobai.vercel.app/
+Robot data startup Mecka AI nabs $60M from Sequoia,Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.,Physical AI / robotics economics,2,robot|humanoid,,,,,,https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/
 Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing,The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers; shippers; and more.,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/
-Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors,The storied Silicon Valley firm makes its first pure defense investment.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/
+Vesta raises $30M to bring swarms of agents to mortgage lenders,Vesta; an AI-native software startup that helps lenders originate mortgages; announced a $30 million round led by Conversion Capital.,Defense-tech & autonomous systems,1,swarm,,,,,,https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/
+Robot data startup Mecka AI nabs $60M from Sequoia,Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.,Physical AI / robotics economics,2,robot|humanoid,,,,,,https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/
+Vesta raises $30M to bring swarms of agents to mortgage lenders,Vesta; an AI-native software startup that helps lenders originate mortgages; announced a $30 million round led by Conversion Capital.,Defense-tech & autonomous systems,1,swarm,,,,,,https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/
 Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for,BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/
-With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox,Mayer argues that if a photo is worth a thousand words; your camera roll is worth millions. By analyzing all the photos stored on your phone; Dazzle claims to understand your hobbies; interests; food;,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/
-Protego Ventures closes debut $125M fund for Israeli defense tech,Protego Ventures; the first and largest dedicated defense tech VC in Israel; just completed its final $125 million closing; TechCrunch learned exclusively.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/
