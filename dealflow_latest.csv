@@ -1,21 +1,17 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-Rhyven,A marketplace for agents,Agent infrastructure / AI devops,2,for agents|improvement loop,,,,,,https://rhyvenai.com
-Collision avoidance in industrial robotics using robotsimulator.ai,,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.babacad.com/robotics/web/
-3D,printed bipedal robot with 8-servo limit to teach robotics,Physical AI / robotics economics,2,robot|robotics,,,,,,https://nixrobot.pages.dev/
+Plannotator Inbox,Decision Making Surface for Agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://plannotator.ai/inbox/
+This hotel is hella AI,ready. Book directly from AI without MCPs,Vertical AI-native operating systems,1,hotel,,,,,,https://cadent.studio/
+Liquid Inference,auto-routing to competitive LLM marketplace,Compute & energy scarcity,1,inference,,,,,,https://liquidinference.ai/
+Compose Unstyled,Unstyled Components for Jetpack Compose and CMP,AI-native back office,1,erp,,,,,,https://composeunstyled.com/
+A Piet interpreter compiled to a Piet image, running a Piet program,,AI-native back office,1,erp,,,,,,https://bobbby.online/piet
+Remix Opus 5.5 motion videos online,,Vertical AI-native operating systems,1,os for,,,,,,https://cliphou.se/
 Aqtos,An Operational Context Layer,Vertical AI-native operating systems,1,os for,,,,,,https://aqtos.com/
 Gauze fixes (some) open,weight LLM deficiencies,Compute & energy scarcity,1,inference,,,,,,https://github.com/ggeorgovassilis/llm-gauze
-Control swarm with dynamic code insertions,,Defense-tech & autonomous systems,1,swarm,,,,,,https://nohope.io
-Railcode,Secure cloud for internal software,Agent infrastructure / AI devops,1,for agents,,,,,,https://railcode.dev/
-OpenComputerUse,Background computer use for agents; as an MCP server,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/IAmJSD/OpenComputerUse
-Agent.reviews,Where AI agents read and write reviews on tools,Agent infrastructure / AI devops,1,for agents,,,,,,https://agent.reviews/
-The Last SaaS,An open source headless SaaS for agents and assistants,Agent infrastructure / AI devops,1,for agents,,,,,,https://thelastsaas.com/
-I made a Jackbox,style tower defense game where trivia earns you gold,Defense-tech & autonomous systems,1,defense,,,,,,https://couchslop.com/tower
-Emergence: a fun little app to play with chaos,,Financial-services decision infrastructure,1,claims,,,,,,https://modlit.io/emergence/
 Robot data startup Mecka AI nabs $60M from Sequoia,Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.,Physical AI / robotics economics,2,robot|humanoid,,,,,,https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/
 Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing,The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers; shippers; and more.,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/
+Amazon drops data center NDAs, and AI agents want your credit card,Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments; following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled co,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/
 Vesta raises $30M to bring swarms of agents to mortgage lenders,Vesta; an AI-native software startup that helps lenders originate mortgages; announced a $30 million round led by Conversion Capital.,Defense-tech & autonomous systems,1,swarm,,,,,,https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/
 Robot data startup Mecka AI nabs $60M from Sequoia,Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.,Physical AI / robotics economics,2,robot|humanoid,,,,,,https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/
 Vesta raises $30M to bring swarms of agents to mortgage lenders,Vesta; an AI-native software startup that helps lenders originate mortgages; announced a $30 million round led by Conversion Capital.,Defense-tech & autonomous systems,1,swarm,,,,,,https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/
-Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for,BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/
