@@ -1,16 +1,21 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+OpenWants,A Simulated City Where AI Agents Handle Residents Needs,Vertical AI-native operating systems,1,restaurant,,,,,,https://maplehill.openwants.com/
+tgv: Genome viewer for you and your agents,,Frontier bio/materials re-platformed on AI,1,cancer,,,,,,https://github.com/zeqianli/tgv
+PodcastDelay,an open source RSS feed generator,AI-native back office,1,erp,,,,,,https://github.com/samcolson4/PodcastDelay
+Babytalk: Offline speech to text and text to speech on ESP32,,Defense-tech & autonomous systems,1,drone,,,,,,https://github.com/tlack/babytalk
+Reducing an OpenAI proof by 25% in a few hours,,AI-native back office,1,erp,,,,,,https://github.com/offline-ant/wiggums-proof-loop
+Talus, a small terrain diffusion model that runs in the browser,,Contrarian consumer,1,consumer,,,,,,https://talus.tersa.tech/
 Plannotator Inbox,Decision Making Surface for Agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://plannotator.ai/inbox/
 This hotel is hella AI,ready. Book directly from AI without MCPs,Vertical AI-native operating systems,1,hotel,,,,,,https://cadent.studio/
 Liquid Inference,auto-routing to competitive LLM marketplace,Compute & energy scarcity,1,inference,,,,,,https://liquidinference.ai/
 Compose Unstyled,Unstyled Components for Jetpack Compose and CMP,AI-native back office,1,erp,,,,,,https://composeunstyled.com/
 A Piet interpreter compiled to a Piet image, running a Piet program,,AI-native back office,1,erp,,,,,,https://bobbby.online/piet
 Remix Opus 5.5 motion videos online,,Vertical AI-native operating systems,1,os for,,,,,,https://cliphou.se/
-Aqtos,An Operational Context Layer,Vertical AI-native operating systems,1,os for,,,,,,https://aqtos.com/
-Gauze fixes (some) open,weight LLM deficiencies,Compute & energy scarcity,1,inference,,,,,,https://github.com/ggeorgovassilis/llm-gauze
+Apogee: Rebuilding Mozilla's Orbit, fully local and private,,Compute & energy scarcity,1,inference,,,,,,https://github.com/darshi1337/apogee
 Robot data startup Mecka AI nabs $60M from Sequoia,Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.,Physical AI / robotics economics,2,robot|humanoid,,,,,,https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/
-Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing,The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers; shippers; and more.,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/
+Petra Power looks to modernize energy for data centers and defense vehicles,The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/
 Amazon drops data center NDAs, and AI agents want your credit card,Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments; following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled co,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/
 Vesta raises $30M to bring swarms of agents to mortgage lenders,Vesta; an AI-native software startup that helps lenders originate mortgages; announced a $30 million round led by Conversion Capital.,Defense-tech & autonomous systems,1,swarm,,,,,,https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/
 Robot data startup Mecka AI nabs $60M from Sequoia,Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.,Physical AI / robotics economics,2,robot|humanoid,,,,,,https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/
