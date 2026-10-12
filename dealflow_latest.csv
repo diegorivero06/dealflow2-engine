@@ -2,21 +2,16 @@ name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
 Sourced graph of who partners with whom in Austrian deep tech,,Physical AI / robotics economics,2,robot|robotics,,,,,,https://firmendaten.researchly.at/partnerschaften
+Vibecheck,merge gate that checks you understand your AI-written code,AI-native back office,1,erp,,,,,,https://github.com/bhurghundii/vibecheck.dev
+Ever,A High-Level Language for Low-Level Purposes,AI-native back office,1,erp,,,,,,https://github.com/evrlang/ever
+Beeuni,An AI-native computer for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.beeuni.ai/
+I turned a $4 toy robot into an AI companion with one web page,,Physical AI / robotics economics,1,robot,,,,,,https://github.com/beasaltfish/bot-reborn
+Organ,Autonomous AI executives that build and operate businesses,AI-native back office,1,runs itself,,,,,,https://organ.app/start
+I asked Opus 5.5 to make a novel portal for NFT's that are not dead yet,,Compute & energy scarcity,1,liquidity,,,,,,https://www.jpeg.deals
 Vocafy,Listen to Vocaloid songs by producer; from the original videos,Vertical AI-native operating systems,1,os for,,,,,,https://vocafy.kkweb.io/en
 Speeku, a Duolingo for European Portuguese,,Contrarian consumer,1,duolingo for,,,,,,https://www.speeku.com/european-portuguese/
 Korosta,Remember and highlight job postings you've seen,Contrarian consumer,1,career,,,,,,https://chromewebstore.google.com/detail/korosta/dhpnogbefakbfmbihmjkgicbelndidif
 Git for Robots In The Future,,Physical AI / robotics economics,1,robot,,,,,,https://github.com/Nabzx/mnemosyne
-An Agentic Virtual Machine,,AI-native back office,1,erp,,,,,,https://github.com/plurnk/plurnk
-Modelship,an open source ray backed model cluster,AI-native back office,1,erp,,,,,,https://github.com/modelship-ai/modelship
-Aporium,A UMAP galaxy of 5800 philosophy excerpts in conversation,AI-native back office,1,erp,,,,,,https://www.aporium.app/explore
-Flopper is a hardware explorer for AI infrastructure and beyond,,Contrarian consumer,1,consumer,,,,,,https://flopper.io/
-OpenWants,A Simulated City Where AI Agents Handle Residents Needs,Vertical AI-native operating systems,1,restaurant,,,,,,https://maplehill.openwants.com/
-tgv: Genome viewer for you and your agents,,Frontier bio/materials re-platformed on AI,1,cancer,,,,,,https://github.com/zeqianli/tgv
-PodcastDelay,an open source RSS feed generator,AI-native back office,1,erp,,,,,,https://github.com/samcolson4/PodcastDelay
-Babytalk: Offline speech to text and text to speech on ESP32,,Defense-tech & autonomous systems,1,drone,,,,,,https://github.com/tlack/babytalk
-Reducing an OpenAI proof by 25% in a few hours,,AI-native back office,1,erp,,,,,,https://github.com/offline-ant/wiggums-proof-loop
-Talus, a small terrain diffusion model that runs in the browser,,Contrarian consumer,1,consumer,,,,,,https://talus.tersa.tech/
-Plannotator Inbox,Decision Making Surface for Agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://plannotator.ai/inbox/
 Petra Power looks to modernize energy for data centers and defense vehicles,The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/
 Amazon drops data center NDAs, and AI agents want your credit card,Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments; following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled co,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/
 Robot data startup Mecka AI nabs $60M from Sequoia,Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.,Physical AI / robotics economics,2,robot|humanoid,,,,,,https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/
