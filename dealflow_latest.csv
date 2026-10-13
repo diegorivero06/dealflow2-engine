@@ -1,18 +1,20 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-Sourced graph of who partners with whom in Austrian deep tech,,Physical AI / robotics economics,2,robot|robotics,,,,,,https://firmendaten.researchly.at/partnerschaften
+Interactive NYC food inspection map with a deduction game,,Vertical AI-native operating systems,1,restaurant,,,,,,https://prizz.io/nyc
+Commit,Aware Router; route LLM traffic around your AI/cloud commitments,AI-native back office,1,erp,,,,,,https://github.com/tejaspruthi/CommitAwareRouter
+Problems,see where agents get stuck using your product,Agent infrastructure / AI devops,1,for agents,,,,,,https://problems.dev/
+Mac equivalent of Nvidia ShadowPlay. Recording missed moments on Mac,,Contrarian consumer,1,gaming,,,,,,https://clipit.itzadetunji.com/
+Lobster,The Skin for Agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.getlobster.dev/
+Link and visualise places in your notes with Markdown and wikilinks,,AI-native back office,1,erp,,,,,,https://blog.etherpk.com/etherpk-maps-in-your-notes-visualise-the-places-that-matter
+Anima,Interactive; cited biology figures using Claude Code,Frontier bio/materials re-platformed on AI,1,biology,,,,,,https://github.com/Garinmckayl/anima
+Proofsource. Find where AI leaves you out. And Fix it,,AI-native back office,1,erp,,,,,,https://proofsource.co/
+vne,.env util for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/pro-vi/vne
+Chkit,Schema; migrations and backfills for ClickHouse (like Drizzle),AI-native back office,1,erp,,,,,,https://github.com/obsessiondb/chkit
 Vibecheck,merge gate that checks you understand your AI-written code,AI-native back office,1,erp,,,,,,https://github.com/bhurghundii/vibecheck.dev
 Ever,A High-Level Language for Low-Level Purposes,AI-native back office,1,erp,,,,,,https://github.com/evrlang/ever
-Beeuni,An AI-native computer for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.beeuni.ai/
-I turned a $4 toy robot into an AI companion with one web page,,Physical AI / robotics economics,1,robot,,,,,,https://github.com/beasaltfish/bot-reborn
-Organ,Autonomous AI executives that build and operate businesses,AI-native back office,1,runs itself,,,,,,https://organ.app/start
-I asked Opus 5.5 to make a novel portal for NFT's that are not dead yet,,Compute & energy scarcity,1,liquidity,,,,,,https://www.jpeg.deals
-Vocafy,Listen to Vocaloid songs by producer; from the original videos,Vertical AI-native operating systems,1,os for,,,,,,https://vocafy.kkweb.io/en
-Speeku, a Duolingo for European Portuguese,,Contrarian consumer,1,duolingo for,,,,,,https://www.speeku.com/european-portuguese/
-Korosta,Remember and highlight job postings you've seen,Contrarian consumer,1,career,,,,,,https://chromewebstore.google.com/detail/korosta/dhpnogbefakbfmbihmjkgicbelndidif
-Git for Robots In The Future,,Physical AI / robotics economics,1,robot,,,,,,https://github.com/Nabzx/mnemosyne
+Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026,Longshot is trying to build a gun big enough to make space data centers a reality.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/
+Giraffe Bio aims its bespoke biomolecules at the looming copper shortage,As AI data centers and EVs drive up demand for copper; Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/
 Petra Power looks to modernize energy for data centers and defense vehicles,The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/
-Amazon drops data center NDAs, and AI agents want your credit card,Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments; following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled co,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/
 Robot data startup Mecka AI nabs $60M from Sequoia,Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.,Physical AI / robotics economics,2,robot|humanoid,,,,,,https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/
 Vesta raises $30M to bring swarms of agents to mortgage lenders,Vesta; an AI-native software startup that helps lenders originate mortgages; announced a $30 million round led by Conversion Capital.,Defense-tech & autonomous systems,1,swarm,,,,,,https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/
