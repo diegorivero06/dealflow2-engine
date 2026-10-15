@@ -1,21 +1,17 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Netlumi,Cloud and AI agent security with auto-remediation(Live demo),Agent security & identity,2,compliance|agent security,,,,,,https://app.netlumi.com
+DipperPDF,privacy first; Mac native PDF tools for sensitive documents,AI-native back office,1,erp,,,,,,https://dipperpdf.com
+Nexus,open-source local-first message routing for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/egregore-io/egregore-nexus
+Hotel Lobby AI,9:16 vertical COLORS show rap videos with Wan 3.0,Vertical AI-native operating systems,1,hotel,,,,,,https://hotellobbyvideoai.app
+The Daily Paperclip. AI news for agents by agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://wonkle.org/paperclip/
+I tried SERPSpur as an alternative to semrush,,AI-native back office,1,erp,,,,,,https://news.ycombinator.com/item?id=50099035
+TowerPanic,a family party game on a small FastAPI realtime engine,AI-native back office,1,erp,,,,,,https://towerpanic.com/
+Single-server DDoS defense, no CDN,try to take it down,Defense-tech & autonomous systems,1,defense,,,,,,http://95.216.153.78
+Golang DL/ML primitives with inference, diffusion, vision, systemone,,Compute & energy scarcity,1,inference,,,,,,https://github.com/computerex/dlgo
 T0: We trained a 256M SOTA open,weights time-series forecasting model,Compute & energy scarcity,1,inference,,,,,,https://github.com/theforecastingcompany/tfc-t0
 BScaff,A CLI tool for project scaffolding and snippets,AI-native back office,1,erp,,,,,,https://github.com/akashnag/bscaff
-Google, Outlook and iCloud in one superpowered calendar,,AI-native back office,1,erp,,,,,,https://www.calendar0.app
-Run macOS on FreeBSD's Bhyve on AMD,,Vertical AI-native operating systems,1,os for,,,,,,https://github.com/PotemkinCo/macos-amd-bhyve
-OraStage,turn two photos into a Hotel Lobby rap video,Vertical AI-native operating systems,1,hotel,,,,,,https://orastage.com/
-Whiteboard Defense,defend decisions of any system you've shipped,Defense-tech & autonomous systems,1,defense,,,,,,https://github.com/avestura/whiteboard-defense
-Agent Identity,Identity and communication infrastructure for AI agent,Agent infrastructure / AI devops,1,agent identity,,,,,,https://www.agent-identity.dev/
-Sgrep; fast, accurate code search for agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/context-dot-dev/sgrep
-Pulse Local, a Mac budgeting app whose AI models run on your machine,,Contrarian consumer,1,consumer,,,,,,https://pulseos.finance
-Interactive NYC food inspection map with a deduction game,,Vertical AI-native operating systems,1,restaurant,,,,,,https://prizz.io/nyc
-Commit,Aware Router; route LLM traffic around your AI/cloud commitments,AI-native back office,1,erp,,,,,,https://github.com/tejaspruthi/CommitAwareRouter
-Problems,see where agents get stuck using your product,Agent infrastructure / AI devops,1,for agents,,,,,,https://problems.dev/
-Mac equivalent of Nvidia ShadowPlay. Recording missed moments on Mac,,Contrarian consumer,1,gaming,,,,,,https://clipit.itzadetunji.com/
-Lobster,The Skin for Agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.getlobster.dev/
-Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026,Longshot is trying to build a gun big enough to make space data centers a reality.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/
-Giraffe Bio aims its bespoke biomolecules at the looming copper shortage,As AI data centers and EVs drive up demand for copper; Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/
+TimeTeller puts our internal clocks at the center of personalized medicine,German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.,Frontier bio/materials re-platformed on AI,1,cancer,,,,,,https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/
 Robot data startup Mecka AI nabs $60M from Sequoia,Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.,Physical AI / robotics economics,2,robot|humanoid,,,,,,https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/
 Vesta raises $30M to bring swarms of agents to mortgage lenders,Vesta; an AI-native software startup that helps lenders originate mortgages; announced a $30 million round led by Conversion Capital.,Defense-tech & autonomous systems,1,swarm,,,,,,https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/
