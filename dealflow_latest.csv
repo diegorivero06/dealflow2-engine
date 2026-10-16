@@ -2,16 +2,19 @@ name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
 Netlumi,Cloud and AI agent security with auto-remediation(Live demo),Agent security & identity,2,compliance|agent security,,,,,,https://app.netlumi.com
+Agent Chat in Your Markdown Notes,Chat with Context and Save Response,AI-native back office,1,erp,,,,,,https://blog.etherpk.com/agent-chat-ask-a-language-model-about-your-notes
+Grimoire for Biology,,Frontier bio/materials re-platformed on AI,1,biology,,,,,,https://grimoire.bio
+Anima, interactive biology models from plain English (open source),,Frontier bio/materials re-platformed on AI,1,biology,,,,,,https://anima.arcumet.com
+Capy-flash,a 125B MoE model on two 16 GB consumer GPUs,Contrarian consumer,1,consumer,,,,,,https://github.com/ValerioDolci/capy-flash
+I made puzzle game IT THINKS,you build a GPU from logic gates,Compute & energy scarcity,1,inference,,,,,,https://catchy.games/it-thinks/
+I built 7 B2B APIs and 5 MCP servers for compliance and trade,,Agent security & identity,1,compliance,,,,,,https://jsonexlab.com
+MadMoon Shield,single-server DDoS defense; no CDN. Round 3 live,Defense-tech & autonomous systems,1,defense,,,,,,https://challenge.madmoonsecurity.com
+Endo,A Higher-Order Harness,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/longsurf-ai/endo
+RDST,A local agent that watches Postgres/MySQL for query regressions,Compute & energy scarcity,1,inference,,,,,,https://github.com/readysettech/rdst
 DipperPDF,privacy first; Mac native PDF tools for sensitive documents,AI-native back office,1,erp,,,,,,https://dipperpdf.com
 Nexus,open-source local-first message routing for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/egregore-io/egregore-nexus
-Hotel Lobby AI,9:16 vertical COLORS show rap videos with Wan 3.0,Vertical AI-native operating systems,1,hotel,,,,,,https://hotellobbyvideoai.app
-The Daily Paperclip. AI news for agents by agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://wonkle.org/paperclip/
-I tried SERPSpur as an alternative to semrush,,AI-native back office,1,erp,,,,,,https://news.ycombinator.com/item?id=50099035
-TowerPanic,a family party game on a small FastAPI realtime engine,AI-native back office,1,erp,,,,,,https://towerpanic.com/
-Single-server DDoS defense, no CDN,try to take it down,Defense-tech & autonomous systems,1,defense,,,,,,http://95.216.153.78
-Golang DL/ML primitives with inference, diffusion, vision, systemone,,Compute & energy scarcity,1,inference,,,,,,https://github.com/computerex/dlgo
-T0: We trained a 256M SOTA open,weights time-series forecasting model,Compute & energy scarcity,1,inference,,,,,,https://github.com/theforecastingcompany/tfc-t0
-BScaff,A CLI tool for project scaffolding and snippets,AI-native back office,1,erp,,,,,,https://github.com/akashnag/bscaff
+Physical AI is more than robots, says the Nvidia veteran now investing in it,Amulya Vishwanath; who spent seven years leading product marketing for NVIDIA’s robotics platforms; says robotics is currently in its “Lego era;” with the basic building blocks like actuators; robotic,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/
 TimeTeller puts our internal clocks at the center of personalized medicine,German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.,Frontier bio/materials re-platformed on AI,1,cancer,,,,,,https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/
+An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet,Amulya Vishwanath; who spent seven years leading product marketing for NVIDIA’s robotics platforms; says robotics is currently in its “Lego era;” with the basic building blocks like actuators; robotic,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/
 Robot data startup Mecka AI nabs $60M from Sequoia,Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.,Physical AI / robotics economics,2,robot|humanoid,,,,,,https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/
 Vesta raises $30M to bring swarms of agents to mortgage lenders,Vesta; an AI-native software startup that helps lenders originate mortgages; announced a $30 million round led by Conversion Capital.,Defense-tech & autonomous systems,1,swarm,,,,,,https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/
