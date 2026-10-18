@@ -1,6 +1,12 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+BricksChat,Generate Lego builds from images; including Technic,Physical AI / robotics economics,1,robot,,,,,,https://brickschat.com/
+Risphai,picks the AI model; tools and prompt for each request,Contrarian consumer,1,consumer,,,,,,https://risphai.com
+Connecting Captions Local Private AI Interpreter,,AI-native back office,1,erp,,,,,,https://local-host.ai/connectingCaptions/
+Ayafy: A free app to memorise and revise the Quran,,Contrarian consumer,1,learning app,,,,,,https://ayafy.com/
+Halal Crypto Index,AAOIFI Shariah compliance screener for 800 coins,Agent security & identity,1,compliance,,,,,,https://halalcryptoindex.com/
+TezGrid,Experimenting with AI inference on idle computers and Macs,Compute & energy scarcity,1,inference,,,,,,https://tezgrid.com/
 Vramkit,lossless VRAM compression for LLM inference; on a MacBook,Compute & energy scarcity,1,inference,,,,,,https://github.com/SRKRZ23/vramkit
 Animated step,by-step hints for any cryptic crossword clue,AI-native back office,1,erp,,,,,,https://crypticinkling.co.uk
 Things to Do API,,Contrarian consumer,1,consumer,,,,,,https://thingstodoapi.com/
@@ -9,12 +15,6 @@ CoastMath: (Open Source) Personal Finance and Retirement Planner,,AI-native back
 Gondwana, a code,first C#/.NET game engine with WebGL,Contrarian consumer,1,career,,,,,,https://github.com/Isthimius/Gondwana
 Agent Chat in Your Markdown Notes,Chat with Context and Save Response,AI-native back office,1,erp,,,,,,https://blog.etherpk.com/agent-chat-ask-a-language-model-about-your-notes
 Grimoire for Biology,,Frontier bio/materials re-platformed on AI,1,biology,,,,,,https://grimoire.bio
-Anima, interactive biology models from plain English (open source),,Frontier bio/materials re-platformed on AI,1,biology,,,,,,https://anima.arcumet.com
-Capy-flash,a 125B MoE model on two 16 GB consumer GPUs,Contrarian consumer,1,consumer,,,,,,https://github.com/ValerioDolci/capy-flash
-I made puzzle game IT THINKS,you build a GPU from logic gates,Compute & energy scarcity,1,inference,,,,,,https://catchy.games/it-thinks/
-I built 7 B2B APIs and 5 MCP servers for compliance and trade,,Agent security & identity,1,compliance,,,,,,https://jsonexlab.com
-MadMoon Shield,single-server DDoS defense; no CDN. Round 3 live,Defense-tech & autonomous systems,1,defense,,,,,,https://challenge.madmoonsecurity.com
-Endo,A Higher-Order Harness,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/longsurf-ai/endo
 Physical AI is more than robots, says the Nvidia veteran now investing in it,Amulya Vishwanath; who spent seven years leading product marketing for NVIDIA’s robotics platforms; says robotics is currently in its “Lego era;” with the basic building blocks like actuators; robotic,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/
 TimeTeller puts our internal clocks at the center of personalized medicine,German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.,Frontier bio/materials re-platformed on AI,1,cancer,,,,,,https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/
 An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet,Amulya Vishwanath; who spent seven years leading product marketing for NVIDIA’s robotics platforms; says robotics is currently in its “Lego era;” with the basic building blocks like actuators; robotic,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/
