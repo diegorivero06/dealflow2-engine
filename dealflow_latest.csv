@@ -1,22 +1,20 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Acyclic; Rapid agent swarms,,Defense-tech & autonomous systems,1,swarm,,,,,,https://news.ycombinator.com/item?id=50153128
+WeDecide,A tool for easier decision making for group trips,Vertical AI-native operating systems,1,hotel,,,,,,https://wedecide.now
+Villa,Spatial Fitness and Gaming; without a headset,Contrarian consumer,1,gaming,,,,,,https://villamoves.com/
+I built a task system to handle the drudgery so I could focus on tasks,,AI-native back office,1,back office,,,,,,https://3anddoneapp.com/try
+DebtShark,Consumer Legal Defense and Debt Settlement Workstation,Defense-tech & autonomous systems,1,defense,,,,,,https://boredpolymath.github.io/debtshark/
+Agentic,Coding-Biolerplate,AI-native back office,1,erp,,,,,,https://github.com/ulrischa/agentic-coding-biolerplate
+Firmendaten: Parsed balance sheets for every Austrian company,,AI-native back office,1,erp,,,,,,https://firmendaten.researchly.at/bilanzen/vergleichen
+Correct Hooks,Easy webhook auth with asymmetric signatures,Contrarian consumer,1,consumer,,,,,,https://github.com/handlewithcarecollective/correct-hooks
 BricksChat,Generate Lego builds from images; including Technic,Physical AI / robotics economics,1,robot,,,,,,https://brickschat.com/
 Risphai,picks the AI model; tools and prompt for each request,Contrarian consumer,1,consumer,,,,,,https://risphai.com
 Connecting Captions Local Private AI Interpreter,,AI-native back office,1,erp,,,,,,https://local-host.ai/connectingCaptions/
-Ayafy: A free app to memorise and revise the Quran,,Contrarian consumer,1,learning app,,,,,,https://ayafy.com/
-Halal Crypto Index,AAOIFI Shariah compliance screener for 800 coins,Agent security & identity,1,compliance,,,,,,https://halalcryptoindex.com/
-TezGrid,Experimenting with AI inference on idle computers and Macs,Compute & energy scarcity,1,inference,,,,,,https://tezgrid.com/
-Vramkit,lossless VRAM compression for LLM inference; on a MacBook,Compute & energy scarcity,1,inference,,,,,,https://github.com/SRKRZ23/vramkit
-Animated step,by-step hints for any cryptic crossword clue,AI-native back office,1,erp,,,,,,https://crypticinkling.co.uk
-Things to Do API,,Contrarian consumer,1,consumer,,,,,,https://thingstodoapi.com/
-Pomoflow,a 1-bit Pomodoro with a todo list that syncs without sign-up,AI-native back office,1,erp,,,,,,https://pomoflow.pages.dev/
-CoastMath: (Open Source) Personal Finance and Retirement Planner,,AI-native back office,1,erp,,,,,,https://github.com/blank-slate-labs/coastmath
-Gondwana, a code,first C#/.NET game engine with WebGL,Contrarian consumer,1,career,,,,,,https://github.com/Isthimius/Gondwana
-Agent Chat in Your Markdown Notes,Chat with Context and Save Response,AI-native back office,1,erp,,,,,,https://blog.etherpk.com/agent-chat-ask-a-language-model-about-your-notes
-Grimoire for Biology,,Frontier bio/materials re-platformed on AI,1,biology,,,,,,https://grimoire.bio
 Physical AI is more than robots, says the Nvidia veteran now investing in it,Amulya Vishwanath; who spent seven years leading product marketing for NVIDIA’s robotics platforms; says robotics is currently in its “Lego era;” with the basic building blocks like actuators; robotic,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/
 TimeTeller puts our internal clocks at the center of personalized medicine,German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.,Frontier bio/materials re-platformed on AI,1,cancer,,,,,,https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/
 An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet,Amulya Vishwanath; who spent seven years leading product marketing for NVIDIA’s robotics platforms; says robotics is currently in its “Lego era;” with the basic building blocks like actuators; robotic,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/
 Robot data startup Mecka AI nabs $60M from Sequoia,Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.,Physical AI / robotics economics,2,robot|humanoid,,,,,,https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/
+Tenstorrent hits $6.2B valuation to scale open-weight AI chips,After drawing acquisition interest earlier this year; the Nvidia challenger raised $1.5 billion to remain independent.,Compute & energy scarcity,1,ai chips,,,,,,https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/
 Vesta raises $30M to bring swarms of agents to mortgage lenders,Vesta; an AI-native software startup that helps lenders originate mortgages; announced a $30 million round led by Conversion Capital.,Defense-tech & autonomous systems,1,swarm,,,,,,https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/
