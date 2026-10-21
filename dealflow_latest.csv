@@ -1,20 +1,18 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-Robotics startup with $10,12 meals delivered in SF,Physical AI / robotics economics,2,robot|robotics,,,,,,https://www.dailys.menu/
+Decentralised AI Inference Network,,Compute & energy scarcity,1,inference,,,,,,https://rootmode.ai/
+IDE for a general,purpose visual programming language "Pipe",Agent infrastructure / AI devops,1,orchestration,,,,,,https://www.pipelang.com/
+Global Compute, you pick. One API,,Compute & energy scarcity,1,compute market,,,,,,https://www.nodepick.ai/
+New Forms of Reading,,Vertical AI-native operating systems,1,os for,,,,,,https://john11.app
+TUI to manage firewall and HTTP server, in Rust,,Defense-tech & autonomous systems,1,defense,,,,,,https://github.com/ivankovic/stop-bots
+Uberblok,an interactive museum of ZFS internals,Defense-tech & autonomous systems,1,swarm,,,,,,https://uberblok.storagebits.workers.dev/
+Reverse engineering the ANE to run Gemma 4 26B at 100 Tok/s,,Compute & energy scarcity,1,inference,,,,,,https://github.com/zw5/ane-fieldfare
+Lox Language Visualizer Based on Crafting Interpreters,,AI-native back office,1,erp,,,,,,https://www.shivfitzpatrick.com/visualizers/
+Apple Reminders MCP,native read/write via ReminderKit,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/xiaofeng-han/apple-reminders-mcp
 Frink,Desktop-first app for multi-step workflows and parallel agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/benord-labs/frink
 Open,source edge data governance library,Agent security & identity,1,governance,,,,,,https://www.csvpath.org
 Standard Topic,An AI and RSS-powered news and resource platform,Agent security & identity,1,governance,,,,,,https://www.standardtopic.com/
-Pando, an open,source platform to deploy and share apps built with AI,Agent security & identity,1,vulnerabilities,,,,,,https://github.com/trypando/pando
-SentinelGate,Drop prompt injections at Token 0 before LLM inference,Compute & energy scarcity,1,inference,,,,,,https://sentinelgate.dev
-A giant pixel map of London,,Compute & energy scarcity,1,inference,,,,,,https://tiny.london/
-Lights,on software factory boilerplate for Claude Code,AI-native back office,1,erp,,,,,,https://github.com/gojko/lights-on-software-factory
-Omasharp: Build Omarchy apps with C# and .NET,,Contrarian consumer,1,career,,,,,,https://github.com/luisrudge/omasharp
-Hiding messages as a generative art; open sourcing my code from 2020,,AI-native back office,1,erp,,,,,,https://stegano.graphics
-Dovepass,can I legally fly a drone along this exact path in SF?,Defense-tech & autonomous systems,1,drone,,,,,,https://dovepass.com
-Canary (Mapping Human Intuition),,Compute & energy scarcity,1,inference,,,,,,https://www.hello-canary.com
-Personal AI on your Mac,SuperDuck.AI (beta testers wanted),Compute & energy scarcity,1,inference,,,,,,https://news.ycombinator.com/item?id=50156655
 Physical AI is more than robots, says the Nvidia veteran now investing in it,Amulya Vishwanath; who spent seven years leading product marketing for NVIDIA’s robotics platforms; says robotics is currently in its “Lego era;” with the basic building blocks like actuators; robotic,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/
 An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet,Amulya Vishwanath; who spent seven years leading product marketing for NVIDIA’s robotics platforms; says robotics is currently in its “Lego era;” with the basic building blocks like actuators; robotic,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/
 Tenstorrent hits $6.2B valuation to scale open-weight AI chips,After drawing acquisition interest earlier this year; the Nvidia challenger raised $1.5 billion to remain independent.,Compute & energy scarcity,1,ai chips,,,,,,https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/
-Vesta raises $30M to bring swarms of agents to mortgage lenders,Vesta; an AI-native software startup that helps lenders originate mortgages; announced a $30 million round led by Conversion Capital.,Defense-tech & autonomous systems,1,swarm,,,,,,https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/
