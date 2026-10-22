@@ -1,18 +1,22 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Ternlux,Free; local-first; bring-your-own-key AI pipeline builder,Agent infrastructure / AI devops,1,orchestration,,,,,,https://www.ternlux.com/online-demo/
+PDT,Open-source deployment of scheduled jobs on your own cloud,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/AutoIDM/pdt
+The Daily Inference, a newspaper written and edited by AI agents,,Compute & energy scarcity,1,inference,,,,,,https://dailyinference.news/
+Php2ShellCheck,Python script that checks for vuln indicators,AI-native back office,1,erp,,,,,,https://github.com/jgatka/php2shellcheck
+Skillstore,Expert skills your coding agent fetches as it works,Vertical AI-native operating systems,1,os for,,,,,,https://skillstore-jk.fly.dev/developers
+VLDA,learn compact Deltas as actionable transition interfaces for robot,Physical AI / robotics economics,1,robot,,,,,,https://baidu-baige.github.io/LoongForge/projects/vlda.html
+Return Ledger free portfolio TWR/XIRR tracker with AI PDF import,,AI-native back office,1,erp,,,,,,https://returnledger.site
+ExplAIn, a free directory of compliance scores for AI tools,,Agent security & identity,1,compliance,,,,,,https://www.explain-ai.com
+MandarinClips 180k movie clips for teaching Chinese,,Physical AI / robotics economics,1,robot,,,,,,https://news.ycombinator.com/item?id=50193017
+Shay.me,Personal AI assistant to get things done,Vertical AI-native operating systems,1,hotel,,,,,,https://news.ycombinator.com/item?id=50192988
+AI Agent Security Audit Console,offline audit in 15 min,Agent security & identity,1,agent security,,,,,,https://theaioperatorstore.gumroad.com/l/uszyx
+RMBG,remove backgrounds from images in the browser (no uploads),Compute & energy scarcity,1,inference,,,,,,https://velmet44.github.io/rmbg/
 Decentralised AI Inference Network,,Compute & energy scarcity,1,inference,,,,,,https://rootmode.ai/
 IDE for a general,purpose visual programming language "Pipe",Agent infrastructure / AI devops,1,orchestration,,,,,,https://www.pipelang.com/
 Global Compute, you pick. One API,,Compute & energy scarcity,1,compute market,,,,,,https://www.nodepick.ai/
 New Forms of Reading,,Vertical AI-native operating systems,1,os for,,,,,,https://john11.app
-TUI to manage firewall and HTTP server, in Rust,,Defense-tech & autonomous systems,1,defense,,,,,,https://github.com/ivankovic/stop-bots
-Uberblok,an interactive museum of ZFS internals,Defense-tech & autonomous systems,1,swarm,,,,,,https://uberblok.storagebits.workers.dev/
-Reverse engineering the ANE to run Gemma 4 26B at 100 Tok/s,,Compute & energy scarcity,1,inference,,,,,,https://github.com/zw5/ane-fieldfare
-Lox Language Visualizer Based on Crafting Interpreters,,AI-native back office,1,erp,,,,,,https://www.shivfitzpatrick.com/visualizers/
-Apple Reminders MCP,native read/write via ReminderKit,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/xiaofeng-han/apple-reminders-mcp
-Frink,Desktop-first app for multi-step workflows and parallel agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/benord-labs/frink
-Open,source edge data governance library,Agent security & identity,1,governance,,,,,,https://www.csvpath.org
-Standard Topic,An AI and RSS-powered news and resource platform,Agent security & identity,1,governance,,,,,,https://www.standardtopic.com/
 Physical AI is more than robots, says the Nvidia veteran now investing in it,Amulya Vishwanath; who spent seven years leading product marketing for NVIDIA’s robotics platforms; says robotics is currently in its “Lego era;” with the basic building blocks like actuators; robotic,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/
 An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet,Amulya Vishwanath; who spent seven years leading product marketing for NVIDIA’s robotics platforms; says robotics is currently in its “Lego era;” with the basic building blocks like actuators; robotic,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/
 Tenstorrent hits $6.2B valuation to scale open-weight AI chips,After drawing acquisition interest earlier this year; the Nvidia challenger raised $1.5 billion to remain independent.,Compute & energy scarcity,1,ai chips,,,,,,https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/
