@@ -1,22 +1,17 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+SenderWire,I'm building a social platform,Contrarian consumer,1,social platform,,,,,,https://senderwire.com/
+BunBun,A location aware food companion,Vertical AI-native operating systems,1,restaurant,,,,,,https://www.bunbun.food/
+bonds,not an agent; a friend with superpowers for Gen Z group chats,AI-native back office,1,erp,,,,,,https://bonds.chat/
+Taveo,Split bar and restaurant bills without sign-up,Vertical AI-native operating systems,1,restaurant,,,,,,https://taveo.app/en
+CATT 0.2.1: Test agents/services against a Muse/Instinct,alike; in CI,Contrarian consumer,1,consumer,,,,,,https://github.com/Coverage-Cat/consumer-agent-testing-tool
+Combining Space Invaders and Classic Literature and ASCII,,AI-native back office,1,erp,,,,,,https://txtinvaders.com/
 Ternlux,Free; local-first; bring-your-own-key AI pipeline builder,Agent infrastructure / AI devops,1,orchestration,,,,,,https://www.ternlux.com/online-demo/
 PDT,Open-source deployment of scheduled jobs on your own cloud,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/AutoIDM/pdt
 The Daily Inference, a newspaper written and edited by AI agents,,Compute & energy scarcity,1,inference,,,,,,https://dailyinference.news/
-Php2ShellCheck,Python script that checks for vuln indicators,AI-native back office,1,erp,,,,,,https://github.com/jgatka/php2shellcheck
-Skillstore,Expert skills your coding agent fetches as it works,Vertical AI-native operating systems,1,os for,,,,,,https://skillstore-jk.fly.dev/developers
-VLDA,learn compact Deltas as actionable transition interfaces for robot,Physical AI / robotics economics,1,robot,,,,,,https://baidu-baige.github.io/LoongForge/projects/vlda.html
-Return Ledger free portfolio TWR/XIRR tracker with AI PDF import,,AI-native back office,1,erp,,,,,,https://returnledger.site
-ExplAIn, a free directory of compliance scores for AI tools,,Agent security & identity,1,compliance,,,,,,https://www.explain-ai.com
-MandarinClips 180k movie clips for teaching Chinese,,Physical AI / robotics economics,1,robot,,,,,,https://news.ycombinator.com/item?id=50193017
-Shay.me,Personal AI assistant to get things done,Vertical AI-native operating systems,1,hotel,,,,,,https://news.ycombinator.com/item?id=50192988
-AI Agent Security Audit Console,offline audit in 15 min,Agent security & identity,1,agent security,,,,,,https://theaioperatorstore.gumroad.com/l/uszyx
-RMBG,remove backgrounds from images in the browser (no uploads),Compute & energy scarcity,1,inference,,,,,,https://velmet44.github.io/rmbg/
-Decentralised AI Inference Network,,Compute & energy scarcity,1,inference,,,,,,https://rootmode.ai/
-IDE for a general,purpose visual programming language "Pipe",Agent infrastructure / AI devops,1,orchestration,,,,,,https://www.pipelang.com/
-Global Compute, you pick. One API,,Compute & energy scarcity,1,compute market,,,,,,https://www.nodepick.ai/
-New Forms of Reading,,Vertical AI-native operating systems,1,os for,,,,,,https://john11.app
-Physical AI is more than robots, says the Nvidia veteran now investing in it,Amulya Vishwanath; who spent seven years leading product marketing for NVIDIA’s robotics platforms; says robotics is currently in its “Lego era;” with the basic building blocks like actuators; robotic,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/
+OnKey,I'm a bad singer; so I built an app to show where I'm off-key,AI-native back office,1,erp,,,,,,https://github.com/dsmurrell/onkey
+Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels,Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe; Perplextity; Datadog; Mercor; and others as angels; it says.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/
+Former OpenAI science lead launches Warp Science to automate wet labs with robots,Wearing cameras and sensor gloves; the startup’s human chemists will train robots to perform various lab tasks.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/
 An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet,Amulya Vishwanath; who spent seven years leading product marketing for NVIDIA’s robotics platforms; says robotics is currently in its “Lego era;” with the basic building blocks like actuators; robotic,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/
 Tenstorrent hits $6.2B valuation to scale open-weight AI chips,After drawing acquisition interest earlier this year; the Nvidia challenger raised $1.5 billion to remain independent.,Compute & energy scarcity,1,ai chips,,,,,,https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/
