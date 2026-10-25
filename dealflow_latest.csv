@@ -1,6 +1,7 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
-PokerClubHub,Host a Poker Club and Make Money,Contrarian consumer,2,consumer|gaming,,,,,,https://www.ycombinator.com/companies/pokerclubhub
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+I built an endless gaming web page, need some honest review,,Contrarian consumer,1,gaming,,,,,,https://roadster-racing.vercel.app/
+Sparse kernel delivering 36% higher training throughput,,AI-native back office,1,erp,,,,,,https://huggingface.co/JakCwi/eugen-sparse
 AI agent swarms test if new CVEs are exploitable in your env,,Defense-tech & autonomous systems,1,swarm,,,,,,https://app.enclave.ai/threat-feed
 Enzyme,a programming language that compiles wikis for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/byenzyme/enzyme
 Inference Cooperative, user,governed AI,Compute & energy scarcity,1,inference,,,,,,https://inference.coop/
@@ -14,11 +15,6 @@ Corgi, a helpful {agent, terminal} multiplexer,,Compute & energy scarcity,1,infe
 Robin,Non-algorithmic Twitter client,Financial-services decision infrastructure,1,claims,,,,,,https://news.ycombinator.com/item?id=50214199
 Instant,Local AI search with a 95% hit rate (uses Perplexity models),AI-native back office,1,erp,,,,,,https://useinstantsearch.com/
 Frametide, a Gaming optimizer that measures instead of promising FPS,,Contrarian consumer,1,gaming,,,,,,https://frametide.de/
-SenderWire,I'm building a social platform,Contrarian consumer,1,social platform,,,,,,https://senderwire.com/
-BunBun,A location aware food companion,Vertical AI-native operating systems,1,restaurant,,,,,,https://www.bunbun.food/
-bonds,not an agent; a friend with superpowers for Gen Z group chats,AI-native back office,1,erp,,,,,,https://bonds.chat/
-Taveo,Split bar and restaurant bills without sign-up,Vertical AI-native operating systems,1,restaurant,,,,,,https://taveo.app/en
-CATT 0.2.1: Test agents/services against a Muse/Instinct,alike; in CI,Contrarian consumer,1,consumer,,,,,,https://github.com/Coverage-Cat/consumer-agent-testing-tool
 Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels,Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe; Perplextity; Datadog; Mercor; and others as angels; it says.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/
 Former OpenAI science lead launches Warp Science to automate wet labs with robots,Wearing cameras and sensor gloves; the startup’s human chemists will train robots to perform various lab tasks.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/
 An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet,Amulya Vishwanath; who spent seven years leading product marketing for NVIDIA’s robotics platforms; says robotics is currently in its “Lego era;” with the basic building blocks like actuators; robotic,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/
