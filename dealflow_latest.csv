@@ -1,22 +1,18 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-Building the European Company Graph one website at a time,,Physical AI / robotics economics,2,robot|robotics,,,,,,https://firmendaten.researchly.at/netzwerk
+Instance,A clean-room reimplementation of GameMaker 8.1 in Rust,AI-native back office,1,erp,,,,,,https://github.com/groverburger/instance
+Weir,Catch credential leaks in the AI agents you build and use,AI-native back office,1,erp,,,,,,https://github.com/IdoGol24/weir
+Snippet,an always-on AI agent,Agent infrastructure / AI devops,1,for agents,,,,,,https://snippet.wacht.dev/
+SlopIt,A blog your coding agent runs,AI-native back office,1,agent-native,,,,,,https://slopit.io/
+City Drones Game,,Defense-tech & autonomous systems,1,drone,,,,,,https://citydrones.app/
+Markdown is 40× more token,efficient with SQLite,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.withnative.ai/research-and-posts/markdown-context-benchmark
+AI Compute Footprint (energy, space, water and CO2),,Compute & energy scarcity,1,inference,,,,,,https://heyyeah.github.io/AI_Compute_Footprint/
+SQL incremental semantic parser and enforcer (with WASM playground),,AI-native back office,1,erp,,,,,,https://github.com/pinting/oraculum
+Limma,MCP for total recall and precision in data retrieval for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://limma.ai
 ShowMe,presentation editor with local asset library,AI-native back office,1,erp,,,,,,https://github.com/KonradJuenger/ShowMe
 Resin, fast native scheduler for LLM inference engines,,Compute & energy scarcity,1,inference,,,,,,https://github.com/ekzhang/resin
 pw,repl - A Playwright-powered REPL for you and your agents to share,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/arcanemachine/pw-repl
-Castellan,A real-time strategy game for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://rts.emersoftware.cl/
-Sturnus, a latency,based LLM load balancer,AI-native back office,1,erp,,,,,,https://github.com/sturnus-dev/sturnus
-ToiletBench,Can AI find the toilet without a sign?,Vertical AI-native operating systems,1,restaurant,,,,,,https://behu-kea.github.io/toilet-bench/
-Jet,Another Programming Language,AI-native back office,1,erp,,,,,,https://jet-lang.com
-Render your Windows desktop GUI on the NPU,,Compute & energy scarcity,1,inference,,,,,,https://github.com/labscommunity/npu-render
-pw,repl - A Playwright-powered REPL for you and your agents to share,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/arcanemachine/pw-repl
-Nodecode, open,source living agent in Lisp that rewrites itself for you,AI-native back office,1,erp,,,,,,https://github.com/nodecode-ai/nodecode
-Freehire, open,source search 3M+ tech jobs from company career boards,Contrarian consumer,1,career,,,,,,https://freehire.me/
-Optio,A self-hosted orchestration platform for AI agents,Agent infrastructure / AI devops,1,orchestration,,,,,,https://optio.host/
-Muxer,Control cmux terminals from Android,AI-native back office,1,erp,,,,,,https://github.com/gantoine/muxer/
-A persistent cyberpunk real,time Reddit running in a terminal,AI-native back office,1,erp,,,,,,https://vibeworld.fly.dev/
-Benchmarking DSpark speculative decoding on a consumer GPU,,Contrarian consumer,1,consumer,,,,,,https://github.com/juraj-jumic/dspark-local-bench
-I built an endless gaming web page, need some honest review,,Contrarian consumer,1,gaming,,,,,,https://roadster-racing.vercel.app/
+Databricks co-founder shares his secrets for winning big enterprise customers,Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/
 Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels,Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe; Perplextity; Datadog; Mercor; and others as angels; it says.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/
 Former OpenAI science lead launches Warp Science to automate wet labs with robots,Wearing cameras and sensor gloves; the startup’s human chemists will train robots to perform various lab tasks.,Physical AI / robotics economics,1,robot,,,,,,https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/
 An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet,Amulya Vishwanath; who spent seven years leading product marketing for NVIDIA’s robotics platforms; says robotics is currently in its “Lego era;” with the basic building blocks like actuators; robotic,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/
