@@ -1,14 +1,25 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Artificer by Nua: Frontier robotics task evaluation in 4B parameters,,Physical AI / robotics economics,2,robot|robotics,,,,,,https://usenua.com/blog/artificer
+Spinf-serve,inference server for bulk scoring and decisions,Compute & energy scarcity,1,inference,,,,,,https://github.com/spinfinc/spinf-serve
+Hashsync,Deduplicate SSH streams against the receiver's files,Vertical AI-native operating systems,1,hotel,,,,,,https://github.com/someplaceguy/hashsync
+Keyward,a TUI to manage SSH keys and audit your –/.ssh security,AI-native back office,1,erp,,,,,,https://github.com/gateway-of-last-resort/keyward
+Dbprint,Database Context for Agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/jakubro/dbprint
+Convert Anthropic and OpenAI bill exports to FinOps FOCUS (open source),,Physical AI / robotics economics,1,warehouse,,,,,,https://github.com/mandarvshinde/ai-bill-to-focus
+AI agent needs process to build a commercial application,,Financial-services decision infrastructure,1,claims,,,,,,https://nomorehappypath.com/
+Offline Tiny,LMs 25MB for personal goals; career and pitch deck advice,Contrarian consumer,1,career,,,,,,https://github.com/shanedevane/etiny
+I built a cash,flow simulator to explore when work becomes optional,Contrarian consumer,1,career,,,,,,https://deljojoseph.com/pace/tools/when-can-i-stop-working
+HiveOS,Multi-agent enterprise OS with PII pills and 3-model consensus,AI-native back office,1,erp,,,,,,https://gethiveos.com/
+Free CVE feed for agents to lookup vulnerabilities,,Agent infrastructure / AI devops,1,for agents,,,,,,https://casco.com/cve/agents
+AI Knows Us,see who ChatGPT and Perplexity recommend instead of you,AI-native back office,1,erp,,,,,,https://www.aiknowsus.com
+Boosterpedia,every Wikipedia article is a collectible card,AI-native back office,1,erp,,,,,,https://boosterpedia.app
 We mapped data center regulations across 50 states and 1,462 localities,,Agent security & identity,1,compliance,,,,,,https://regbase.com/datacenters
 SLCR,An open standard for agent-native software requirements,AI-native back office,1,agent-native,,,,,,https://slcr.dev/
 Backend for Agents and Builders who don't need one yet,Statebase,Agent infrastructure / AI devops,1,for agents,,,,,,https://statebase.dev
 AWS China,A Control Tower Clone and a Multi-Account Compliance Baseline,Agent security & identity,1,compliance,,,,,,https://builder.aws.com/content/3LMdNqdrR6M68oYPRvKa5A1UmTC/aws-china-landing-zone-in-practice-a-control-tower-clone-and-a-multi-account-compliance-baseline
-ROAL,AI phone host for restaurants that builds itself from your site,Vertical AI-native operating systems,1,restaurant,,,,,,https://tryroal.com
-U.S. Elections, Campaign Finance and Legislation on a Miller,Column UI,Financial-services decision infrastructure,1,claims,,,,,,https://chamberzero.com/col/home/elections-overview%3Acurrent
-A proof,of-concept formalization of the IRS federal tax forms,AI-native back office,1,erp,,,,,,https://github.com/emmilco/us-tax-model
-Potential conversation partners in Bluesky using agentic search,,AI-native back office,1,erp,,,,,,https://sketch.wsng.app/
+Satlyt takes another step toward turning satellites into space data centers,Satlyt ran a successful test this month bringing it closer to turning spacecraft; starting with satellites; into virtual data centers.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/
+Zest’s new AI agent finds restaurants and books reservations over text,Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes; put restaurant options to a vote; and make the reservation.,Vertical AI-native operating systems,1,restaurant,,,,,,https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/
+Can AI data centers be mass-produced like cars? This startup aims to find out,Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/
 Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy,Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/
 Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’,The PHP scare may have faded from your feed; but the cleanup is far from over. Last week; two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to ,Agent security & identity,1,vulnerabilities,,,,,,https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/
 The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO,The PHP scare may have faded from your feed; but the cleanup is far from over. Last week; two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to ,Agent security & identity,1,vulnerabilities,,,,,,https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/
-Databricks co-founder shares his secrets for winning big enterprise customers,Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/
