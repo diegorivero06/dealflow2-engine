@@ -1,9 +1,12 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-Artificer by Nua: Frontier robotics task evaluation in 4B parameters,,Physical AI / robotics economics,2,robot|robotics,,,,,,https://usenua.com/blog/artificer
+Cerebellum,small model on the robot; big model for what it can't undo,Physical AI / robotics economics,1,robot,,,,,,https://github.com/cerebellum-labs/cerebellum
+Staxless,Open-source microservice SaaS boilerplate,AI-native back office,1,erp,,,,,,https://github.com/Staxless/staxless
+BeamDisk,High Performance iSCSI Initiator for macOS,AI-native back office,1,erp,,,,,,https://beamdisk.app/
 Spinf-serve,inference server for bulk scoring and decisions,Compute & energy scarcity,1,inference,,,,,,https://github.com/spinfinc/spinf-serve
 Hashsync,Deduplicate SSH streams against the receiver's files,Vertical AI-native operating systems,1,hotel,,,,,,https://github.com/someplaceguy/hashsync
 Keyward,a TUI to manage SSH keys and audit your –/.ssh security,AI-native back office,1,erp,,,,,,https://github.com/gateway-of-last-resort/keyward
+Sketch Stadium,watch your agent play Pictionary,Agent infrastructure / AI devops,1,for agents,,,,,,https://sketch.wakeshift.ai/games/q5ucru
 Dbprint,Database Context for Agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/jakubro/dbprint
 Convert Anthropic and OpenAI bill exports to FinOps FOCUS (open source),,Physical AI / robotics economics,1,warehouse,,,,,,https://github.com/mandarvshinde/ai-bill-to-focus
 AI agent needs process to build a commercial application,,Financial-services decision infrastructure,1,claims,,,,,,https://nomorehappypath.com/
@@ -11,12 +14,8 @@ Offline Tiny,LMs 25MB for personal goals; career and pitch deck advice,Contraria
 I built a cash,flow simulator to explore when work becomes optional,Contrarian consumer,1,career,,,,,,https://deljojoseph.com/pace/tools/when-can-i-stop-working
 HiveOS,Multi-agent enterprise OS with PII pills and 3-model consensus,AI-native back office,1,erp,,,,,,https://gethiveos.com/
 Free CVE feed for agents to lookup vulnerabilities,,Agent infrastructure / AI devops,1,for agents,,,,,,https://casco.com/cve/agents
-AI Knows Us,see who ChatGPT and Perplexity recommend instead of you,AI-native back office,1,erp,,,,,,https://www.aiknowsus.com
-Boosterpedia,every Wikipedia article is a collectible card,AI-native back office,1,erp,,,,,,https://boosterpedia.app
-We mapped data center regulations across 50 states and 1,462 localities,,Agent security & identity,1,compliance,,,,,,https://regbase.com/datacenters
-SLCR,An open standard for agent-native software requirements,AI-native back office,1,agent-native,,,,,,https://slcr.dev/
-Backend for Agents and Builders who don't need one yet,Statebase,Agent infrastructure / AI devops,1,for agents,,,,,,https://statebase.dev
-AWS China,A Control Tower Clone and a Multi-Account Compliance Baseline,Agent security & identity,1,compliance,,,,,,https://builder.aws.com/content/3LMdNqdrR6M68oYPRvKa5A1UmTC/aws-china-landing-zone-in-practice-a-control-tower-clone-and-a-multi-account-compliance-baseline
+Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune,The AI logistics startup will bolster the CRM giant's Missionforce defense platform.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/
+AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal,Like a real-life episode of "Suits;" the demise of famed white-shoe Wall Street law firm Weil; Gotshal &#038; Manges has been the talk of the legal industry. And now an AI firm has entered the picture,AI-native back office,1,law firm,,,,,,https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/
 Satlyt takes another step toward turning satellites into space data centers,Satlyt ran a successful test this month bringing it closer to turning spacecraft; starting with satellites; into virtual data centers.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/
 Zest’s new AI agent finds restaurants and books reservations over text,Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes; put restaurant options to a vote; and make the reservation.,Vertical AI-native operating systems,1,restaurant,,,,,,https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/
 Can AI data centers be mass-produced like cars? This startup aims to find out,Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/
