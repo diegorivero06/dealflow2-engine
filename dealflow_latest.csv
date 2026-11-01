@@ -1,19 +1,16 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Playground for Designing Buildable Robotics,,Physical AI / robotics economics,2,robot|robotics,,,,,,https://github.com/JamelHammoud/basecase
+RenderPDF.js,HTML to PDF preserving browser CSS layout,AI-native back office,1,erp,,,,,,https://www.npmjs.com/package/renderpdf-js
+Sweet-search,local code search for agents (5–33% cheaper runs),Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/mrsladoje/sweet-search
+Geop,Open-source Nurbs CAD with MCP (MicroDuck example),Physical AI / robotics economics,1,robot,,,,,,https://app.geop-cad.dev/?example=duck
+Wafmeow,fast WAF fingerprinting in Go,AI-native back office,1,erp,,,,,,https://github.com/Lu1sDV/wafmeow/
+Dolly,A Tribute to "The Birth and Death of JavaScript",Physical AI / robotics economics,1,robot,,,,,,https://slopshare.dev/v0.1.4/
+Haris list jobs board for agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://covenant-common.github.io/covenant-docs/docs/TERMINAL.html
+A language model that lives in a boot sector,,Compute & energy scarcity,1,inference,,,,,,https://github.com/kerlenton/bootgpt
 Cerebellum,small model on the robot; big model for what it can't undo,Physical AI / robotics economics,1,robot,,,,,,https://github.com/cerebellum-labs/cerebellum
 Staxless,Open-source microservice SaaS boilerplate,AI-native back office,1,erp,,,,,,https://github.com/Staxless/staxless
 BeamDisk,High Performance iSCSI Initiator for macOS,AI-native back office,1,erp,,,,,,https://beamdisk.app/
-Spinf-serve,inference server for bulk scoring and decisions,Compute & energy scarcity,1,inference,,,,,,https://github.com/spinfinc/spinf-serve
-Hashsync,Deduplicate SSH streams against the receiver's files,Vertical AI-native operating systems,1,hotel,,,,,,https://github.com/someplaceguy/hashsync
-Keyward,a TUI to manage SSH keys and audit your –/.ssh security,AI-native back office,1,erp,,,,,,https://github.com/gateway-of-last-resort/keyward
-Sketch Stadium,watch your agent play Pictionary,Agent infrastructure / AI devops,1,for agents,,,,,,https://sketch.wakeshift.ai/games/q5ucru
-Dbprint,Database Context for Agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/jakubro/dbprint
-Convert Anthropic and OpenAI bill exports to FinOps FOCUS (open source),,Physical AI / robotics economics,1,warehouse,,,,,,https://github.com/mandarvshinde/ai-bill-to-focus
-AI agent needs process to build a commercial application,,Financial-services decision infrastructure,1,claims,,,,,,https://nomorehappypath.com/
-Offline Tiny,LMs 25MB for personal goals; career and pitch deck advice,Contrarian consumer,1,career,,,,,,https://github.com/shanedevane/etiny
-I built a cash,flow simulator to explore when work becomes optional,Contrarian consumer,1,career,,,,,,https://deljojoseph.com/pace/tools/when-can-i-stop-working
-HiveOS,Multi-agent enterprise OS with PII pills and 3-model consensus,AI-native back office,1,erp,,,,,,https://gethiveos.com/
-Free CVE feed for agents to lookup vulnerabilities,,Agent infrastructure / AI devops,1,for agents,,,,,,https://casco.com/cve/agents
 Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune,The AI logistics startup will bolster the CRM giant's Missionforce defense platform.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/
 AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal,Like a real-life episode of "Suits;" the demise of famed white-shoe Wall Street law firm Weil; Gotshal &#038; Manges has been the talk of the legal industry. And now an AI firm has entered the picture,AI-native back office,1,law firm,,,,,,https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/
 Satlyt takes another step toward turning satellites into space data centers,Satlyt ran a successful test this month bringing it closer to turning spacecraft; starting with satellites; into virtual data centers.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/
