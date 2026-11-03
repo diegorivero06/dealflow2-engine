@@ -1,28 +1,24 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+A framework for Raspberry Pi pico projects,,Physical AI / robotics economics,1,robot,,,,,,https://github.com/AdrianCX/picohive-firmware
+I got tired of GitHub trending, so I built my own,,Vertical AI-native operating systems,1,os for,,,,,,https://shadowgraph.io
+Every book, film and game HN has recommended since 2006,,AI-native back office,1,erp,,,,,,https://hn-recommends.vercel.app/
+A 3KB LLM inference engine in C,,Compute & energy scarcity,1,inference,,,,,,https://github.com/utsav1033/bytesized
+SIE Serverless,managed inference powered by self-hostable stack,Compute & energy scarcity,1,inference,,,,,,https://superlinked.com/
+8 years of "Who's Hiring?" in charts (hiring boom, bust, and AI trends),,Contrarian consumer,1,learning app,,,,,,https://hn-hiring-2019-2026.lancecj.chatgpt.site/
+I built Knemora,An Open-source AI Second brain,Vertical AI-native operating systems,1,dental practice,,,,,,https://github.com/federicolaterra/knemora
+Rigorix, Execution governance for AI agents, open,source engine,Agent security & identity,1,governance,,,,,,https://rigorix.eu/
+Learn French by Watching Netflix,,Contrarian consumer,1,duolingo for,,,,,,https://news.ycombinator.com/item?id=50346214
+Learn to speak French by watching Netflix,,Contrarian consumer,1,duolingo for,,,,,,https://chromewebstore.google.com/detail/greetai-learn-speak-langu/hhildamloicfginbdnilakddipgkolbf
+HackerProducts,HackerTube; but for products mentioned on HN,AI-native back office,1,erp,,,,,,https://hackerproducts.pages.dev
 ReadoutBench,forecast 653 clinical trials before they report,Frontier bio/materials re-platformed on AI,1,clinical trials,,,,,,https://readoutbench.com
 HiveOS,AI Chief of Staff with sub-1ms PII masking and offline swarms,Defense-tech & autonomous systems,1,swarm,,,,,,https://gethiveos.com/
 Bruster,faster browser automation for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://aliilyas.github.io/bruster/benchmarks/
 An experiment in automated long,horizon builds with AMQP 0.9.1,Agent security & identity,1,compliance,,,,,,https://github.com/siennathesane/switchboard
-Garrul,Comments system for your site on a single Cloudflare Worker,Defense-tech & autonomous systems,1,swarm,,,,,,https://github.com/KingPin/Garrul
-Hanging Context,news by an agent; for other agents,AI-native back office,1,erp,,,,,,https://hangingcontext.com/
-Connect Ring doorbell to Home app,,Agent security & identity,1,vulnerabilities,,,,,,https://github.com/anubhavmalhotra/ring-homekit-secure-video
-OpenDocBot,bring your own model to Word; Excel and PowerPoint,AI-native back office,1,erp,,,,,,https://opendocbot.com/blog/introducing-opendocbot
-Slop Node for Keeta,,Compute & energy scarcity,1,liquidity,,,,,,https://github.com/xescure/slop-node
-Sortaballs,alternative modes for classic sort ball puzzle,Contrarian consumer,1,gaming,,,,,,https://sortaballs.vercel.app
-HackerPapers,3;314 arXiv papers and the HN conversations behind them,AI-native back office,1,erp,,,,,,https://hackerpaper.kaipfister.de
-AWKLog,a minimalist Datalog interpreter in Awk,AI-native back office,1,erp,,,,,,https://github.com/stass/awklog
-EchoChain to see what happens when LLMs play telephone,,Financial-services decision infrastructure,1,claims,,,,,,https://github.com/smusali/echoChain
-A faster Python 3 interpreter implemented in C11, one week,,AI-native back office,1,erp,,,,,,https://news.ycombinator.com/item?id=50330796
-Corollary, LaTeX Editor for Mac with On,Device Apple Foundation Models,Vertical AI-native operating systems,1,os for,,,,,,https://calvinyz.github.io/corollary/
-Search2o,An Agent Server for the Enterprise,AI-native back office,1,erp,,,,,,https://search2o.com/
-RenderPDF.js,HTML to PDF preserving browser CSS layout,AI-native back office,1,erp,,,,,,https://www.npmjs.com/package/renderpdf-js
+AI inference startup Fal doubles its valuation to $16B as demand surges,The five-year-old startup raised a $1.3 billion round led by Bessemer.,Compute & energy scarcity,1,inference,,,,,,https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/
+Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them,A Kyiv startup’s pocket-sized; 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones; though Russian moves toward digital video and AI-guided drones that emit no signals coul,Defense-tech & autonomous systems,1,drone,,,,,,https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/
 Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition,Two startups tackling the data center water problem are joining forces in a $16 million deal.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/
 Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune,The AI logistics startup will bolster the CRM giant's Missionforce defense platform.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/
 AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal,Like a real-life episode of "Suits;" the demise of famed white-shoe Wall Street law firm Weil; Gotshal &#038; Manges has been the talk of the legal industry. And now an AI firm has entered the picture,AI-native back office,1,law firm,,,,,,https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/
 Satlyt takes another step toward turning satellites into space data centers,Satlyt ran a successful test this month bringing it closer to turning spacecraft; starting with satellites; into virtual data centers.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/
 Zest’s new AI agent finds restaurants and books reservations over text,Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes; put restaurant options to a vote; and make the reservation.,Vertical AI-native operating systems,1,restaurant,,,,,,https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/
-Can AI data centers be mass-produced like cars? This startup aims to find out,Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/
-Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy,Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/
-Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’,The PHP scare may have faded from your feed; but the cleanup is far from over. Last week; two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to ,Agent security & identity,1,vulnerabilities,,,,,,https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/
-The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO,The PHP scare may have faded from your feed; but the cleanup is far from over. Last week; two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to ,Agent security & identity,1,vulnerabilities,,,,,,https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/
