@@ -1,24 +1,25 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+A decent text,to-image model trained for ~$20K (Apache 2.0 Weights),AI-native back office,1,erp,,,,,,https://www.linum.ai/field-notes/pjit-21k
+Swarm World,local LLM creatures living in a little tile world,Defense-tech & autonomous systems,1,swarm,,,,,,https://swarm-world.4rc4de.com/public/app/
+Rivermark, a superfast AI graphic design canvas,,Compute & energy scarcity,1,inference,,,,,,https://rivermark.ai/
+Planted 3 backdoors in my code; the agent swarm found 27, half noise,,Defense-tech & autonomous systems,1,swarm,,,,,,https://github.com/VictorAboba/DreamTeam/blob/master/docs/en/audits/2026-11-self-audit.md
+Alternative to Nvidia Auto,Ontology,Physical AI / robotics economics,1,warehouse,,,,,,https://github.com/GetCassis/ontology-skills
+A privacy,first career toolkit (PDF manipulation runs in Browser/WASM),Contrarian consumer,1,career,,,,,,https://www.onestoplinkedin.com
+HIPAA compliance evidence for Supabase RLS,functions,triggers,auditlogs,,Agent security & identity,1,compliance,,,,,,https://unitautogen.com/blog/hipaa-evidence-for-supabase.html
+Droneship,sandbox for your coding agents,Defense-tech & autonomous systems,1,drone,,,,,,https://droneship.run/
+Pptx-to-Pdf,Convert PowerPoint to PDF in Node.js Without LibreOffice,AI-native back office,1,erp,,,,,,https://github.com/ahmedessam090/pptx-to-pdf
+HackerReels,Short Videos for viral HN posts,Vertical AI-native operating systems,1,os for,,,,,,https://wile.ai/v/BPOH3BHCRWWCAKU4OVNOTEQ73A
+MoEShift,Faster large MoE inference with half the RAM,Compute & energy scarcity,1,inference,,,,,,https://github.com/davide-troiani/moeshift
 A framework for Raspberry Pi pico projects,,Physical AI / robotics economics,1,robot,,,,,,https://github.com/AdrianCX/picohive-firmware
 I got tired of GitHub trending, so I built my own,,Vertical AI-native operating systems,1,os for,,,,,,https://shadowgraph.io
 Every book, film and game HN has recommended since 2006,,AI-native back office,1,erp,,,,,,https://hn-recommends.vercel.app/
 A 3KB LLM inference engine in C,,Compute & energy scarcity,1,inference,,,,,,https://github.com/utsav1033/bytesized
-SIE Serverless,managed inference powered by self-hostable stack,Compute & energy scarcity,1,inference,,,,,,https://superlinked.com/
-8 years of "Who's Hiring?" in charts (hiring boom, bust, and AI trends),,Contrarian consumer,1,learning app,,,,,,https://hn-hiring-2019-2026.lancecj.chatgpt.site/
-I built Knemora,An Open-source AI Second brain,Vertical AI-native operating systems,1,dental practice,,,,,,https://github.com/federicolaterra/knemora
-Rigorix, Execution governance for AI agents, open,source engine,Agent security & identity,1,governance,,,,,,https://rigorix.eu/
-Learn French by Watching Netflix,,Contrarian consumer,1,duolingo for,,,,,,https://news.ycombinator.com/item?id=50346214
-Learn to speak French by watching Netflix,,Contrarian consumer,1,duolingo for,,,,,,https://chromewebstore.google.com/detail/greetai-learn-speak-langu/hhildamloicfginbdnilakddipgkolbf
-HackerProducts,HackerTube; but for products mentioned on HN,AI-native back office,1,erp,,,,,,https://hackerproducts.pages.dev
-ReadoutBench,forecast 653 clinical trials before they report,Frontier bio/materials re-platformed on AI,1,clinical trials,,,,,,https://readoutbench.com
-HiveOS,AI Chief of Staff with sub-1ms PII masking and offline swarms,Defense-tech & autonomous systems,1,swarm,,,,,,https://gethiveos.com/
-Bruster,faster browser automation for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://aliilyas.github.io/bruster/benchmarks/
-An experiment in automated long,horizon builds with AMQP 0.9.1,Agent security & identity,1,compliance,,,,,,https://github.com/siennathesane/switchboard
+Open source AI is booming. Hugging Face explains who profits.,Open source models are becoming more mainstream as enterprises; governments and startups alike rely on the promise of lower costs; more control; and more flexibility. But as increasingly capable model,AI-native back office,1,erp,,,,,,https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/
+Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs,Open source models are becoming more mainstream as enterprises; governments and startups alike rely on the promise of lower costs; more control; and more flexibility. But as increasingly capable model,AI-native back office,1,erp,,,,,,https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/
 AI inference startup Fal doubles its valuation to $16B as demand surges,The five-year-old startup raised a $1.3 billion round led by Bessemer.,Compute & energy scarcity,1,inference,,,,,,https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/
 Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them,A Kyiv startup’s pocket-sized; 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones; though Russian moves toward digital video and AI-guided drones that emit no signals coul,Defense-tech & autonomous systems,1,drone,,,,,,https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/
 Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition,Two startups tackling the data center water problem are joining forces in a $16 million deal.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/
 Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune,The AI logistics startup will bolster the CRM giant's Missionforce defense platform.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/
 AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal,Like a real-life episode of "Suits;" the demise of famed white-shoe Wall Street law firm Weil; Gotshal &#038; Manges has been the talk of the legal industry. And now an AI firm has entered the picture,AI-native back office,1,law firm,,,,,,https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/
 Satlyt takes another step toward turning satellites into space data centers,Satlyt ran a successful test this month bringing it closer to turning spacecraft; starting with satellites; into virtual data centers.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/
-Zest’s new AI agent finds restaurants and books reservations over text,Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes; put restaurant options to a vote; and make the reservation.,Vertical AI-native operating systems,1,restaurant,,,,,,https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/
