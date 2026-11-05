@@ -1,25 +1,25 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-A decent text,to-image model trained for ~$20K (Apache 2.0 Weights),AI-native back office,1,erp,,,,,,https://www.linum.ai/field-notes/pjit-21k
-Swarm World,local LLM creatures living in a little tile world,Defense-tech & autonomous systems,1,swarm,,,,,,https://swarm-world.4rc4de.com/public/app/
-Rivermark, a superfast AI graphic design canvas,,Compute & energy scarcity,1,inference,,,,,,https://rivermark.ai/
-Planted 3 backdoors in my code; the agent swarm found 27, half noise,,Defense-tech & autonomous systems,1,swarm,,,,,,https://github.com/VictorAboba/DreamTeam/blob/master/docs/en/audits/2026-11-self-audit.md
-Alternative to Nvidia Auto,Ontology,Physical AI / robotics economics,1,warehouse,,,,,,https://github.com/GetCassis/ontology-skills
-A privacy,first career toolkit (PDF manipulation runs in Browser/WASM),Contrarian consumer,1,career,,,,,,https://www.onestoplinkedin.com
-HIPAA compliance evidence for Supabase RLS,functions,triggers,auditlogs,,Agent security & identity,1,compliance,,,,,,https://unitautogen.com/blog/hipaa-evidence-for-supabase.html
-Droneship,sandbox for your coding agents,Defense-tech & autonomous systems,1,drone,,,,,,https://droneship.run/
-Pptx-to-Pdf,Convert PowerPoint to PDF in Node.js Without LibreOffice,AI-native back office,1,erp,,,,,,https://github.com/ahmedessam090/pptx-to-pdf
-HackerReels,Short Videos for viral HN posts,Vertical AI-native operating systems,1,os for,,,,,,https://wile.ai/v/BPOH3BHCRWWCAKU4OVNOTEQ73A
-MoEShift,Faster large MoE inference with half the RAM,Compute & energy scarcity,1,inference,,,,,,https://github.com/davide-troiani/moeshift
-A framework for Raspberry Pi pico projects,,Physical AI / robotics economics,1,robot,,,,,,https://github.com/AdrianCX/picohive-firmware
-I got tired of GitHub trending, so I built my own,,Vertical AI-native operating systems,1,os for,,,,,,https://shadowgraph.io
-Every book, film and game HN has recommended since 2006,,AI-native back office,1,erp,,,,,,https://hn-recommends.vercel.app/
-A 3KB LLM inference engine in C,,Compute & energy scarcity,1,inference,,,,,,https://github.com/utsav1033/bytesized
+Data center build,out dashboard with interactive map; coverage; etc.,Compute & energy scarcity,1,data center,,,,,,https://pressaudit.org/dashboards/datacenters?chart=datacenter-buildout&tab=buildout-map
+Magertron,AI Orchestrator for agents' tools; APIs; LLMs and streams,Agent infrastructure / AI devops,1,for agents,,,,,,https://magertron.com/#install
+QuanterLab, describe a trading strategy, watch it build in front of you,,AI-native back office,1,erp,,,,,,https://quanterlab.com/
+I moved to Barcelona and outgrew Duolingo, so I built this,,Vertical AI-native operating systems,1,restaurant,,,,,,https://noentiendo.app
+PDF Reading, Annotation and Signing Inside Your Markdown Notes,,AI-native back office,1,erp,,,,,,https://blog.etherpk.com/pdf-reading-annotation-and-signing-inside-your-markdown-notes
+I paid Claude US$1,070 to read the worst reviews of 30k places to stay,,Vertical AI-native operating systems,1,hotel,,,,,,https://okstays.com
+Waymark,A workflow engine that compiles jobs instead of replaying,AI-native back office,1,erp,,,,,,https://github.com/piercefreeman/waymark
+Ferry, a highly customizable and feature,rich file manager for macOS,Contrarian consumer,1,career,,,,,,https://ferry.indus3.org/
+Vivonco,match patient's cancer reports to targeted drugs and trials,Frontier bio/materials re-platformed on AI,1,cancer,,,,,,https://vivonco.com/
+Metrics, Monitoring, and Alerting for Agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/chirrop/chirrop-mcp
+Botlark,HN for Agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://botlark.com/
+Native HTML Partials and Native MFEs,,Agent infrastructure / AI devops,1,orchestration,,,,,,https://news.ycombinator.com/item?id=50373378
+A calm app for car shopping (MIT),,Compute & energy scarcity,1,inference,,,,,,https://lowkey.autos
+Canopy, a cross,platform DAG engine for agents CLI,Agent infrastructure / AI devops,1,for agents,,,,,,https://univerlab.org/canopy/
+My compact, bio inspired distributed edge detection algorithm,,AI-native back office,1,erp,,,,,,https://github.com/RenderBear/haci
+Gauge,Open-Source CLI to recursively improve your docs,Compute & energy scarcity,1,inference,,,,,,https://github.com/gauge-sh/gauge-cli
+Harbinger raises $240M after expanding into defense,The Los Angeles-based startup has now raised more than $650 million; and is working on electric trucks; emergency vehicles; and a driverless platform for the military.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/
+Zipline hits $21.5B valuation as Walmart expands bet on drone delivery,Zipline raised $1.5 billion and ramped up its partnership with Walmart.,Defense-tech & autonomous systems,1,drone,,,,,,https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/
 Open source AI is booming. Hugging Face explains who profits.,Open source models are becoming more mainstream as enterprises; governments and startups alike rely on the promise of lower costs; more control; and more flexibility. But as increasingly capable model,AI-native back office,1,erp,,,,,,https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/
 Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs,Open source models are becoming more mainstream as enterprises; governments and startups alike rely on the promise of lower costs; more control; and more flexibility. But as increasingly capable model,AI-native back office,1,erp,,,,,,https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/
 AI inference startup Fal doubles its valuation to $16B as demand surges,The five-year-old startup raised a $1.3 billion round led by Bessemer.,Compute & energy scarcity,1,inference,,,,,,https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/
 Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them,A Kyiv startup’s pocket-sized; 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones; though Russian moves toward digital video and AI-guided drones that emit no signals coul,Defense-tech & autonomous systems,1,drone,,,,,,https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/
 Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition,Two startups tackling the data center water problem are joining forces in a $16 million deal.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/
-Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune,The AI logistics startup will bolster the CRM giant's Missionforce defense platform.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/
-AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal,Like a real-life episode of "Suits;" the demise of famed white-shoe Wall Street law firm Weil; Gotshal &#038; Manges has been the talk of the legal industry. And now an AI firm has entered the picture,AI-native back office,1,law firm,,,,,,https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/
-Satlyt takes another step toward turning satellites into space data centers,Satlyt ran a successful test this month bringing it closer to turning spacecraft; starting with satellites; into virtual data centers.,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/
