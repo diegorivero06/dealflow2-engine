@@ -1,5 +1,16 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Digdeep.fyi,A DNS Debug Tool for DNSSEC; Mail; HTTP,Agent security & identity,1,compliance,,,,,,https://digdeep.fyi/
+Coldframe, a honeypot that poses as a supermarket fridge controller,,Agent security & identity,1,vulnerabilities,,,,,,https://github.com/hedgerow-dev/coldframe
+Compress Photos for Email,,Vertical AI-native operating systems,1,os for,,,,,,https://onlineimageoptimizer.com/compress-photos-for-email
+Shiptape,Automated packing video proof for warehouse stations,Physical AI / robotics economics,1,warehouse,,,,,,https://shiptape.in
+Rui, orchestrating 100 agents in 2.5 MB of RAM,,Defense-tech & autonomous systems,1,swarm,,,,,,https://github.com/DivyanshGolyan/rui
+Goethe,The infrastructure for self-hosted AI,Compute & energy scarcity,1,inference,,,,,,https://github.com/meshapplied/Goethe
+Vitekube,Vitest on real Kubernetes clusters,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/vitekube/vitekube
+I asked HN about AI agentic setups, here are 750 of the comments mapped,,Agent infrastructure / AI devops,1,orchestration,,,,,,https://news.ycombinator.com/item?id=50399637
+A Cyberpunk Music Mixer,,AI-native back office,1,erp,,,,,,https://un.bounded.cc/
+XOR's NFL Challenge,after nearly 40 years,Defense-tech & autonomous systems,1,defense,,,,,,https://testflight.apple.com/join/aJWq3EcC
+Context by Altora (YC W27), screen, audio, location 24/7 for agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://trycontext.app
 Jev vs. OpenAI Decision vs. Small Financial World Models: FinBench [video],,AI-native back office,1,erp,,,,,,https://www.youtube.com/watch?v=UN1LIF01uHQ
 Botel,always reachable agents you pay for only while they're working,Agent infrastructure / AI devops,1,orchestration,,,,,,https://botel.dev
 R/place for Git,Open-source Git server sustaining 567 pushes/s,Defense-tech & autonomous systems,1,swarm,,,,,,https://reasonmachines.com/blog/aspen
@@ -9,17 +20,6 @@ Stitch.ai,New all-in-one workspace with Stitchy the AI assistant,Physical AI / r
 Repairer,close the breach when a Linux flaw goes public,Defense-tech & autonomous systems,1,swarm,,,,,,https://gno.security/repairer/
 Inference business simulator,don't go broke; rent GPUs; serve tokens,Compute & energy scarcity,1,inference,,,,,,https://makermaker.ai/breakthroughs/inference/simulation/
 Bisimia,A TLA+ environment that runs in the browser,AI-native back office,1,erp,,,,,,https://bisimia.com
-Cerea,yet another self-hosted LLM chat front end,Compute & energy scarcity,1,inference,,,,,,https://github.com/paoloviviani/Cerea
-Agentshield Zero,leak kernel sandbox and secret defense for AI coding,Defense-tech & autonomous systems,1,defense,,,,,,https://ritualdev.in/agentshield/
-Hand Your Markdown Tasks to Claude Code from a Kanban Board,,AI-native back office,1,erp,,,,,,https://blog.etherpk.com/hand-your-markdown-tasks-to-claude-code-from-a-kanban-board
-Data center build,out dashboard with interactive map; coverage; etc.,Compute & energy scarcity,1,data center,,,,,,https://pressaudit.org/dashboards/datacenters?chart=datacenter-buildout&tab=buildout-map
-Magertron,AI Orchestrator for agents' tools; APIs; LLMs and streams,Agent infrastructure / AI devops,1,for agents,,,,,,https://magertron.com/#install
-Coldframe, a honeypot that poses as a supermarket fridge controller,,Agent security & identity,1,vulnerabilities,,,,,,https://github.com/hedgerow-dev/coldframe
-QuanterLab, describe a trading strategy, watch it build in front of you,,AI-native back office,1,erp,,,,,,https://quanterlab.com/
-I moved to Barcelona and outgrew Duolingo, so I built this,,Vertical AI-native operating systems,1,restaurant,,,,,,https://noentiendo.app
-PDF Reading, Annotation and Signing Inside Your Markdown Notes,,AI-native back office,1,erp,,,,,,https://blog.etherpk.com/pdf-reading-annotation-and-signing-inside-your-markdown-notes
-I paid Claude US$1,070 to read the worst reviews of 30k places to stay,,Vertical AI-native operating systems,1,hotel,,,,,,https://okstays.com
-Waymark,A workflow engine that compiles jobs instead of replaying,AI-native back office,1,erp,,,,,,https://github.com/piercefreeman/waymark
 How a Blue Wave midterm might reshape the AI industry,Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one; the ,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/
 Harbinger raises $240M after expanding into defense,The Los Angeles-based startup has now raised more than $650 million; and is working on electric trucks; emergency vehicles; and a driverless platform for the military.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/
 Zipline hits $21.5B valuation as Walmart expands bet on drone delivery,Zipline raised $1.5 billion and ramped up its partnership with Walmart.,Defense-tech & autonomous systems,1,drone,,,,,,https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/
