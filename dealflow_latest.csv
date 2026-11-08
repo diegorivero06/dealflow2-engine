@@ -1,5 +1,12 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+HackerPodcast,YouTube for podcasts; from HN comments 2007 to 2026,AI-native back office,1,erp,,,,,,https://hackerpodcast.org/
+I Built Duolingo for Anything,,Contrarian consumer,1,duolingo for,,,,,,https://www.lunalearn.app
+Learn Languages with Dual Subtitles,,Contrarian consumer,1,duolingo for,,,,,,https://news.ycombinator.com/item?id=50409716
+RenderPixels,Generate images from any AI via MCP; 50 free renders,AI-native back office,1,erp,,,,,,https://renderpixels.com
+An immutable local inference appliance with routing capability,,Compute & energy scarcity,1,inference,,,,,,https://github.com/diffsec/sibyl
+Good First Token,Spend your spare tokens on open source,Agent infrastructure / AI devops,1,token spend,,,,,,https://goodfirsttoken.org/
+Jacq, a DSL that compiles model and kernel descriptions to CUDA,,Compute & energy scarcity,1,inference,,,,,,https://github.com/ImpossibleComputing/jacq
 Digdeep.fyi,A DNS Debug Tool for DNSSEC; Mail; HTTP,Agent security & identity,1,compliance,,,,,,https://digdeep.fyi/
 Coldframe, a honeypot that poses as a supermarket fridge controller,,Agent security & identity,1,vulnerabilities,,,,,,https://github.com/hedgerow-dev/coldframe
 Compress Photos for Email,,Vertical AI-native operating systems,1,os for,,,,,,https://onlineimageoptimizer.com/compress-photos-for-email
@@ -11,15 +18,6 @@ I asked HN about AI agentic setups, here are 750 of the comments mapped,,Agent i
 A Cyberpunk Music Mixer,,AI-native back office,1,erp,,,,,,https://un.bounded.cc/
 XOR's NFL Challenge,after nearly 40 years,Defense-tech & autonomous systems,1,defense,,,,,,https://testflight.apple.com/join/aJWq3EcC
 Context by Altora (YC W27), screen, audio, location 24/7 for agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://trycontext.app
-Jev vs. OpenAI Decision vs. Small Financial World Models: FinBench [video],,AI-native back office,1,erp,,,,,,https://www.youtube.com/watch?v=UN1LIF01uHQ
-Botel,always reachable agents you pay for only while they're working,Agent infrastructure / AI devops,1,orchestration,,,,,,https://botel.dev
-R/place for Git,Open-source Git server sustaining 567 pushes/s,Defense-tech & autonomous systems,1,swarm,,,,,,https://reasonmachines.com/blog/aspen
-Agentic Identity Broker, OAuth Delegation for AI Agents,,Agent infrastructure / AI devops,1,agent identity,,,,,,https://github.com/zalando-incubator/agentic-identity-broker
-UtmSnap,A fast; local-first UTM builder with team taxonomy governance,Agent security & identity,1,governance,,,,,,https://utmsnap.com
-Stitch.ai,New all-in-one workspace with Stitchy the AI assistant,Physical AI / robotics economics,1,robot,,,,,,https://app.stitch.ai/auth/signup
-Repairer,close the breach when a Linux flaw goes public,Defense-tech & autonomous systems,1,swarm,,,,,,https://gno.security/repairer/
-Inference business simulator,don't go broke; rent GPUs; serve tokens,Compute & energy scarcity,1,inference,,,,,,https://makermaker.ai/breakthroughs/inference/simulation/
-Bisimia,A TLA+ environment that runs in the browser,AI-native back office,1,erp,,,,,,https://bisimia.com
 How a Blue Wave midterm might reshape the AI industry,Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one; the ,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/
 Harbinger raises $240M after expanding into defense,The Los Angeles-based startup has now raised more than $650 million; and is working on electric trucks; emergency vehicles; and a driverless platform for the military.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/
 Zipline hits $21.5B valuation as Walmart expands bet on drone delivery,Zipline raised $1.5 billion and ramped up its partnership with Walmart.,Defense-tech & autonomous systems,1,drone,,,,,,https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/
