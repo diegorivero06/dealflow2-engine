@@ -1,22 +1,29 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-Airlock,Policy-as-code for fleets of AI coding agents,Agent security & identity,2,compliance|governance,,,,,,https://airlock.lunareng.com/docs
+Uplumo,See which pages AI answers cite,Vertical AI-native operating systems,1,hotel,,,,,,https://uplumo.com/
+Get your coding agent off ~2019 JavaScript, onto modern web primitives,,Financial-services decision infrastructure,1,claims,,,,,,https://github.com/GoogleChrome/modern-web-guidance
+Retro,gaming interview script for assessing culture fit,Contrarian consumer,1,gaming,,,,,,https://phnd.net/branwash/
+Propylea,Sub-microsecond L7 reverse proxy and active defense in Rust,Defense-tech & autonomous systems,1,defense,,,,,,https://github.com/rmediatech/propylea
+Ilo Musi 8,Handheld Game Console Emulating CHIP-8 Platform,Contrarian consumer,1,gaming,,,,,,https://ilomusi8.sadale.net/en/welcome
+37% of open jobs on company career sites were posted over 3+ months ago,,Contrarian consumer,1,career,,,,,,https://github.com/AnointedxWolf/career-site-jobs-sample
+AppTraction,A Native Mac App for Apple's App Store Connect,AI-native back office,1,erp,,,,,,https://apptraction.dev
+NeuroBrix,PyTorch-free local inference with a Rust grammar engine,Compute & energy scarcity,1,inference,,,,,,https://github.com/NeuroBrix/neurobrix/releases/tag/v0.6.5
+A sanctions and PEP screening API,,Agent security & identity,1,compliance,,,,,,https://screen.unbackoffice.com/
+A linear model is an embedding table: using VW as transformer memory,,Compute & energy scarcity,1,inference,,,,,,https://www.liminalplanes.com/blog/vw
+Cosh,An open-source AI agent orchestrator,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/DiegoZaluski/co-sh
+Tokspur a 3x faster open source inference engine for Macs,,Compute & energy scarcity,1,inference,,,,,,https://github.com/san-digital/tokspur
+You can now train your own LLMs with less memory, on your consumer GPUs,,Vertical AI-native operating systems,1,os for,,,,,,https://news.ycombinator.com/item?id=50438889
+Show HN: Sowbot,Open-hardware agricultural robot 8months progress,Physical AI / robotics economics,1,robot,,,,,,https://github.com/Agroecology-Lab/Sowbot
+Track known vulnerabilities in the firmware your devices run,,Agent security & identity,1,vulnerabilities,,,,,,https://pinscope.dev/cra
+Kinsona,a hotel booking site that shows its cut on every booking,Vertical AI-native operating systems,1,hotel,,,,,,https://kinsona.com/
+KeyPad,Universal Control like keyboard/mouse for iPhone; iPhone Duo,Contrarian consumer,1,gaming,,,,,,https://apps.apple.com/us/app/keypad-bluetooth-keyboard/id1491684442?mt=12
+I built a tool that babysits your agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.physicsbase.ai/
+Drop, self hosted, OSS file transfer for agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://twitter.com/jalcowastaken/status/2119922971599057366
 Vork,headless 3D and VFX engine for agents,AI-native back office,1,agent-native,,,,,,https://github.com/voyager-so/vork
 Secure browser sessions for agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://easi.run/
 ApiClay,Turn a Website; Google Sheet or Database into a Paid API,Contrarian consumer,1,consumer,,,,,,https://apiclay.com
 A Terminal UI for Hacker News, and CLI for Agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/kaushalvivek/hn-cli
 EtherPK Notes,An Agentic Kanban Board from Your Markdown Tasks [video],AI-native back office,1,erp,,,,,,https://www.youtube.com/watch?v=6RpNgH8-Dsc
-Website to test if you can detect someone staring at your back,,AI-native back office,1,erp,,,,,,https://sixthsense.fastmathfacts.io/
-I made every icon in 34 styles, including Christmas, Kawaii and Soft 3D,,AI-native back office,1,erp,,,,,,https://withicons.com/
-WebGL2 GPU Liquidity Heatmap for Hyperliquid L2 Orderbooks,,Compute & energy scarcity,1,liquidity,,,,,,https://velqiris-acquisition.netlify.app/heatmap.html
-Traccia,open-sourced AI agent runtime governance,Agent security & identity,1,governance,,,,,,https://github.com/traccia-ai/traccia-py
-A visualization map of the funding of public companies,,AI-native back office,1,erp,,,,,,https://github.com/feeRnt/whofundsit/tree/post_demo_cloudflare_cdn
-Warden MCP, an MCP server for agents to quote and trade onchain,,Agent infrastructure / AI devops,1,for agents,,,,,,https://wardenprotocol.org/mcp
-Black Ops II statically recompiled to native ARM64 macOS,,AI-native back office,1,erp,,,,,,https://github.com/adrbn/bo2-mac
-clap.cpp,Audio embedding inference in C++ (GGML),Compute & energy scarcity,1,inference,,,,,,https://github.com/gorse-io/clap.cpp
-Flide: Make Jev,like decision models up to 9.5x faster,Compute & energy scarcity,1,inference,,,,,,https://github.com/OmniJev/Flide
-A free Gameboy,style music tracker in the browser with shareable URLs,AI-native back office,1,erp,,,,,,https://chiptunes.studio/
-HackerPodcast,YouTube for podcasts; from HN comments 2007 to 2026,AI-native back office,1,erp,,,,,,https://hackerpodcast.org/
 AI hardware startup Nominal triples valuation to $3B in 8 months,Nominal; a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer; has raised another big round of financing that triples its valuation.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/
 How a Blue Wave midterm might reshape the AI industry,Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one; the ,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/
 Harbinger raises $240M after expanding into defense,The Los Angeles-based startup has now raised more than $650 million; and is working on electric trucks; emergency vehicles; and a driverless platform for the military.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/
