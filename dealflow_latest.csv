@@ -1,29 +1,24 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+Anathem,local memory for coding agents; no LLM and no daemon,Agent infrastructure / AI devops,1,for agents,,,,,,https://gitlab.com/__alexander__/anathem
+Web Crawl Platformer Game,,AI-native back office,1,erp,,,,,,https://game.commoncrawl.org/
+AI Code Rating,a 3 character disclosure of how AI was used in a repo,AI-native back office,1,erp,,,,,,https://aicoderating.com/
+Perch by mxRaven, a self,hosted mailbox and CLI in 1 file,Contrarian consumer,1,consumer,,,,,,https://perch.mxraven.com
+Tensward,Local AI inference optimisation,Compute & energy scarcity,1,inference,,,,,,https://github.com/Tensward/tensward
+LLM Crisis Triage Audit,Deterministic state-space governance,Agent security & identity,1,governance,,,,,,https://github.com/Recursive-Logic-Core/llm-crisis-triage-audit
+Outlier, AI without the data center, private and offline on your Mac,,Compute & energy scarcity,1,data center,,,,,,https://outlier.host/
+Ember.js, Re,Born in Rust,AI-native back office,1,erp,,,,,,https://auric.spa
+Llmtee,Lightweight LLM Proxy,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/garritfra/llmtee
+A native iPhone app for robot vacuums running Valetudo,,Physical AI / robotics economics,1,robot,,,,,,https://github.com/bsidio/OpenVaccum
+Canontra, deterministic semantic fingerprints for source code,,AI-native back office,1,erp,,,,,,https://github.com/symtrace/canontra
+Somo,home robot with emotional intelligence,Physical AI / robotics economics,1,robot,,,,,,https://somo.keivalya.com/
+Mimzie, an agent,neutral alternative to the Claude Suite/Claude Cowork,Compute & energy scarcity,1,inference,,,,,,https://mimzie.com/
+Warmctl,Fast cold starts for vLLM inference,Compute & energy scarcity,1,inference,,,,,,https://github.com/TensorRails/warmctl
+Aisync, advisory file claims so two AI agents don't edit one repo,,Financial-services decision infrastructure,1,claims,,,,,,https://github.com/MaxonT/aisync
+Zeus,Claude Code for AI voice agents,AI-native back office,1,erp,,,,,,https://thunderphone.com/blog/introducing-zeus
 Uplumo,See which pages AI answers cite,Vertical AI-native operating systems,1,hotel,,,,,,https://uplumo.com/
 Get your coding agent off ~2019 JavaScript, onto modern web primitives,,Financial-services decision infrastructure,1,claims,,,,,,https://github.com/GoogleChrome/modern-web-guidance
-Retro,gaming interview script for assessing culture fit,Contrarian consumer,1,gaming,,,,,,https://phnd.net/branwash/
-Propylea,Sub-microsecond L7 reverse proxy and active defense in Rust,Defense-tech & autonomous systems,1,defense,,,,,,https://github.com/rmediatech/propylea
-Ilo Musi 8,Handheld Game Console Emulating CHIP-8 Platform,Contrarian consumer,1,gaming,,,,,,https://ilomusi8.sadale.net/en/welcome
-37% of open jobs on company career sites were posted over 3+ months ago,,Contrarian consumer,1,career,,,,,,https://github.com/AnointedxWolf/career-site-jobs-sample
-AppTraction,A Native Mac App for Apple's App Store Connect,AI-native back office,1,erp,,,,,,https://apptraction.dev
-NeuroBrix,PyTorch-free local inference with a Rust grammar engine,Compute & energy scarcity,1,inference,,,,,,https://github.com/NeuroBrix/neurobrix/releases/tag/v0.6.5
-A sanctions and PEP screening API,,Agent security & identity,1,compliance,,,,,,https://screen.unbackoffice.com/
-A linear model is an embedding table: using VW as transformer memory,,Compute & energy scarcity,1,inference,,,,,,https://www.liminalplanes.com/blog/vw
-Cosh,An open-source AI agent orchestrator,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/DiegoZaluski/co-sh
-Tokspur a 3x faster open source inference engine for Macs,,Compute & energy scarcity,1,inference,,,,,,https://github.com/san-digital/tokspur
-You can now train your own LLMs with less memory, on your consumer GPUs,,Vertical AI-native operating systems,1,os for,,,,,,https://news.ycombinator.com/item?id=50438889
-Show HN: Sowbot,Open-hardware agricultural robot 8months progress,Physical AI / robotics economics,1,robot,,,,,,https://github.com/Agroecology-Lab/Sowbot
-Track known vulnerabilities in the firmware your devices run,,Agent security & identity,1,vulnerabilities,,,,,,https://pinscope.dev/cra
-Kinsona,a hotel booking site that shows its cut on every booking,Vertical AI-native operating systems,1,hotel,,,,,,https://kinsona.com/
-KeyPad,Universal Control like keyboard/mouse for iPhone; iPhone Duo,Contrarian consumer,1,gaming,,,,,,https://apps.apple.com/us/app/keypad-bluetooth-keyboard/id1491684442?mt=12
-I built a tool that babysits your agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.physicsbase.ai/
-Drop, self hosted, OSS file transfer for agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://twitter.com/jalcowastaken/status/2119922971599057366
-Vork,headless 3D and VFX engine for agents,AI-native back office,1,agent-native,,,,,,https://github.com/voyager-so/vork
-Secure browser sessions for agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://easi.run/
-ApiClay,Turn a Website; Google Sheet or Database into a Paid API,Contrarian consumer,1,consumer,,,,,,https://apiclay.com
-A Terminal UI for Hacker News, and CLI for Agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/kaushalvivek/hn-cli
-EtherPK Notes,An Agentic Kanban Board from Your Markdown Tasks [video],AI-native back office,1,erp,,,,,,https://www.youtube.com/watch?v=6RpNgH8-Dsc
+With $720M round, Britain’s Fractile gets a leg up in the race for AI chips,Fractile has now become one of the top-funded players in the race for purpose-built AI chips.,Compute & energy scarcity,1,ai chips,,,,,,https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/
 AI hardware startup Nominal triples valuation to $3B in 8 months,Nominal; a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer; has raised another big round of financing that triples its valuation.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/
 How a Blue Wave midterm might reshape the AI industry,Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one; the ,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/
 Harbinger raises $240M after expanding into defense,The Los Angeles-based startup has now raised more than $650 million; and is working on electric trucks; emergency vehicles; and a driverless platform for the military.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/
@@ -31,5 +26,4 @@ Zipline hits $21.5B valuation as Walmart expands bet on drone delivery,Zipline r
 Open source AI is booming. Hugging Face explains who profits.,Open source models are becoming more mainstream as enterprises; governments and startups alike rely on the promise of lower costs; more control; and more flexibility. But as increasingly capable model,AI-native back office,1,erp,,,,,,https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/
 Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs,Open source models are becoming more mainstream as enterprises; governments and startups alike rely on the promise of lower costs; more control; and more flexibility. But as increasingly capable model,AI-native back office,1,erp,,,,,,https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/
 AI inference startup Fal doubles its valuation to $16B as demand surges,The five-year-old startup raised a $1.3 billion round led by Bessemer.,Compute & energy scarcity,1,inference,,,,,,https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/
-Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them,A Kyiv startup’s pocket-sized; 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones; though Russian moves toward digital video and AI-guided drones that emit no signals coul,Defense-tech & autonomous systems,1,drone,,,,,,https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/
 Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board,A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/
