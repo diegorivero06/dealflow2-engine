@@ -1,23 +1,16 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-Anathem,local memory for coding agents; no LLM and no daemon,Agent infrastructure / AI devops,1,for agents,,,,,,https://gitlab.com/__alexander__/anathem
-Web Crawl Platformer Game,,AI-native back office,1,erp,,,,,,https://game.commoncrawl.org/
-AI Code Rating,a 3 character disclosure of how AI was used in a repo,AI-native back office,1,erp,,,,,,https://aicoderating.com/
-Perch by mxRaven, a self,hosted mailbox and CLI in 1 file,Contrarian consumer,1,consumer,,,,,,https://perch.mxraven.com
-Tensward,Local AI inference optimisation,Compute & energy scarcity,1,inference,,,,,,https://github.com/Tensward/tensward
-LLM Crisis Triage Audit,Deterministic state-space governance,Agent security & identity,1,governance,,,,,,https://github.com/Recursive-Logic-Core/llm-crisis-triage-audit
-Outlier, AI without the data center, private and offline on your Mac,,Compute & energy scarcity,1,data center,,,,,,https://outlier.host/
-Ember.js, Re,Born in Rust,AI-native back office,1,erp,,,,,,https://auric.spa
-Llmtee,Lightweight LLM Proxy,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/garritfra/llmtee
-A native iPhone app for robot vacuums running Valetudo,,Physical AI / robotics economics,1,robot,,,,,,https://github.com/bsidio/OpenVaccum
-Canontra, deterministic semantic fingerprints for source code,,AI-native back office,1,erp,,,,,,https://github.com/symtrace/canontra
-Somo,home robot with emotional intelligence,Physical AI / robotics economics,1,robot,,,,,,https://somo.keivalya.com/
-Mimzie, an agent,neutral alternative to the Claude Suite/Claude Cowork,Compute & energy scarcity,1,inference,,,,,,https://mimzie.com/
-Warmctl,Fast cold starts for vLLM inference,Compute & energy scarcity,1,inference,,,,,,https://github.com/TensorRails/warmctl
-Aisync, advisory file claims so two AI agents don't edit one repo,,Financial-services decision infrastructure,1,claims,,,,,,https://github.com/MaxonT/aisync
-Zeus,Claude Code for AI voice agents,AI-native back office,1,erp,,,,,,https://thunderphone.com/blog/introducing-zeus
-Uplumo,See which pages AI answers cite,Vertical AI-native operating systems,1,hotel,,,,,,https://uplumo.com/
-Get your coding agent off ~2019 JavaScript, onto modern web primitives,,Financial-services decision infrastructure,1,claims,,,,,,https://github.com/GoogleChrome/modern-web-guidance
+DRS,VPT. Localize a photo in a 3D point cloud without an initial pose,Physical AI / robotics economics,2,robot|robotics,,,,,,https://github.com/ori-drs/drs-vpt
+PharmA2A, an open protocol for pharmacy,to-supplier orders on A2A,AI-native back office,1,erp,,,,,,https://github.com/pharma2a/pharma2a
+Kapso,Iterative learning from enterprise data,AI-native back office,1,erp,,,,,,https://news.ycombinator.com/item?id=50471281
+EtherPK,Fast Markdown Notes with Agent Integrated Task Kanban Board,AI-native back office,1,erp,,,,,,https://www.etherpk.com/home
+TripCoral,Free itinerary and live updates from public flight data,Vertical AI-native operating systems,1,hotel,,,,,,https://www.tripcoral.com/
+Qwen Reasoning Traces Trainer and Inference Server,,Compute & energy scarcity,1,inference,,,,,,https://github.com/cookiengineer/qwen-reasoning-trainer
+Claims about your life, proved with your own numbers,,Financial-services decision infrastructure,1,claims,,,,,,https://lifetheorem.com
+Zumungo,AI-driven home automation,Agent security & identity,1,compliance,,,,,,https://zumungo.com/get-started.html
+Version History for Your Synced Notes (AI Agent Safety),,AI-native back office,1,erp,,,,,,https://blog.etherpk.com/version-history-for-your-synced-notes-additional-safety-for-working-alongside-ai-agents
+Igloo,Self-hosted data warehouse built on DuckDB,Physical AI / robotics economics,1,warehouse,,,,,,https://github.com/akkio-inc/igloo
+Phota Labs uses AI to turn everyday photos into professional-looking shots,Rather than giving consumers yet another photo-editing tool; Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/
 With $720M round, Britain’s Fractile gets a leg up in the race for AI chips,Fractile has now become one of the top-funded players in the race for purpose-built AI chips.,Compute & energy scarcity,1,ai chips,,,,,,https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/
 AI hardware startup Nominal triples valuation to $3B in 8 months,Nominal; a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer; has raised another big round of financing that triples its valuation.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/
 How a Blue Wave midterm might reshape the AI industry,Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one; the ,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/
