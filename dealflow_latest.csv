@@ -1,15 +1,17 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-Cerulion,ROS 2-compatible robotics runtime with multi-process replay,Physical AI / robotics economics,2,robot|robotics,,,,,,https://github.com/cerulion-inc/cerulion
-DRS,VPT. Localize a photo in a 3D point cloud without an initial pose,Physical AI / robotics economics,2,robot|robotics,,,,,,https://github.com/ori-drs/drs-vpt
+Flipbook Foundry,animated stick figures baked into a font,Defense-tech & autonomous systems,1,swarm,,,,,,https://flipbook-foundry.pages.dev/
+Linux CLI for Cricut StickerPix,,AI-native back office,1,erp,,,,,,https://github.com/vavkamil/crycut
+SrcWranglr v0.13,A C/C++ Graphical Code Explorer for Vuln. Research,Agent security & identity,1,vulnerabilities,,,,,,https://github.com/jdefrancesco/SrcWranglr
+Agweb,a browser for agents that stays out of your way,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/paul-nameless/agweb
+Yet another agent manager (but we needed it),,AI-native back office,1,erp,,,,,,https://varinomics.com/logonomic/
+Shotoku,Local-first action governance and budget caps for AI agents,Agent security & identity,1,governance,,,,,,https://www.shotoku.dev/
+FrontierBioML,Can coding agents do ML for computational biology?,Frontier bio/materials re-platformed on AI,1,biology,,,,,,https://www.frontierbioml.com/
 The Price of Patience,,Compute & energy scarcity,1,inference,,,,,,https://github.com/konarkmodi/pi-doubleword
 Bwat turns what's said in Zoom meetings into todos for your agents,,Vertical AI-native operating systems,1,os for,,,,,,https://github.com/qoralai/bwat
 Clozemaster MCP server that turns class notes into cloze sentences,,Contrarian consumer,1,learning app,,,,,,https://www.youtube.com/watch?v=mN1eZl0hKTQ
 Webcrawl, an open,source web crawling API and MCP server for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/brainfish-ai/webcrawl-anything
 AI-drop project,drop traffic fast from misbehaving crawlers (AGPL),Physical AI / robotics economics,1,robot,,,,,,https://rocketgit.com/user/catalinux/ai-drop
-KittyBrowser, I built a web browser in your terminal,,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/graiz/kittybrowser
-Source,The attribution data layer for agents to drive pipeline,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.source.app
-Kapso,Iterative learning from enterprise data,AI-native back office,1,erp,,,,,,https://news.ycombinator.com/item?id=50471281
 AI agent startup LangChain hits $3B valuation,LangChain now claims 7;000 customers of its model and platform agnostic agent management tool LangSmith.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/
 Phota Labs uses AI to turn everyday photos into professional-looking shots,Rather than giving consumers yet another photo-editing tool; Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/
 With $720M round, Britain’s Fractile gets a leg up in the race for AI chips,Fractile has now become one of the top-funded players in the race for purpose-built AI chips.,Compute & energy scarcity,1,ai chips,,,,,,https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/
