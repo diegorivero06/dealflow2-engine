@@ -1,5 +1,11 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+atl, a Rust CLI for Jira, Confluence and Bitbucket with ~15ms overhead,,Compute & energy scarcity,1,data center,,,,,,https://github.com/racetozero/atlassian-toolkit
+PongArena,Play Pong and see how tiny neural networks think,AI-native back office,1,erp,,,,,,https://jonaslindblom.github.io/pongarena/
+SecureVibe,Find and trace vulnerabilities before shipping,Agent security & identity,1,vulnerabilities,,,,,,https://securevibe-dev.vercel.app/
+WendyOS, Linux for robots with USB,C deployment and rollback updates,Physical AI / robotics economics,1,robot,,,,,,https://docs.wendy.dev/latest/getting-started/app/
+Atmosphere,Dolby Atmos for Netflix in Safari (Vibecoded),Vertical AI-native operating systems,1,os for,,,,,,https://github.com/meghrathod/atmosphere
+DownForReal,Kuma Hosted from 3 regions,Physical AI / robotics economics,1,robot,,,,,,https://downforreal.com/
 Flipbook Foundry,animated stick figures baked into a font,Defense-tech & autonomous systems,1,swarm,,,,,,https://flipbook-foundry.pages.dev/
 Linux CLI for Cricut StickerPix,,AI-native back office,1,erp,,,,,,https://github.com/vavkamil/crycut
 SrcWranglr v0.13,A C/C++ Graphical Code Explorer for Vuln. Research,Agent security & identity,1,vulnerabilities,,,,,,https://github.com/jdefrancesco/SrcWranglr
@@ -7,11 +13,6 @@ Agweb,a browser for agents that stays out of your way,Agent infrastructure / AI 
 Yet another agent manager (but we needed it),,AI-native back office,1,erp,,,,,,https://varinomics.com/logonomic/
 Shotoku,Local-first action governance and budget caps for AI agents,Agent security & identity,1,governance,,,,,,https://www.shotoku.dev/
 FrontierBioML,Can coding agents do ML for computational biology?,Frontier bio/materials re-platformed on AI,1,biology,,,,,,https://www.frontierbioml.com/
-The Price of Patience,,Compute & energy scarcity,1,inference,,,,,,https://github.com/konarkmodi/pi-doubleword
-Bwat turns what's said in Zoom meetings into todos for your agents,,Vertical AI-native operating systems,1,os for,,,,,,https://github.com/qoralai/bwat
-Clozemaster MCP server that turns class notes into cloze sentences,,Contrarian consumer,1,learning app,,,,,,https://www.youtube.com/watch?v=mN1eZl0hKTQ
-Webcrawl, an open,source web crawling API and MCP server for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/brainfish-ai/webcrawl-anything
-AI-drop project,drop traffic fast from misbehaving crawlers (AGPL),Physical AI / robotics economics,1,robot,,,,,,https://rocketgit.com/user/catalinux/ai-drop
 AI agent startup LangChain hits $3B valuation,LangChain now claims 7;000 customers of its model and platform agnostic agent management tool LangSmith.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/
 Phota Labs uses AI to turn everyday photos into professional-looking shots,Rather than giving consumers yet another photo-editing tool; Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/
 With $720M round, Britain’s Fractile gets a leg up in the race for AI chips,Fractile has now become one of the top-funded players in the race for purpose-built AI chips.,Compute & energy scarcity,1,ai chips,,,,,,https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/
@@ -20,5 +21,4 @@ How a Blue Wave midterm might reshape the AI industry,Democrats’ historic vict
 Harbinger raises $240M after expanding into defense,The Los Angeles-based startup has now raised more than $650 million; and is working on electric trucks; emergency vehicles; and a driverless platform for the military.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/
 Zipline hits $21.5B valuation as Walmart expands bet on drone delivery,Zipline raised $1.5 billion and ramped up its partnership with Walmart.,Defense-tech & autonomous systems,1,drone,,,,,,https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/
 Open source AI is booming. Hugging Face explains who profits.,Open source models are becoming more mainstream as enterprises; governments and startups alike rely on the promise of lower costs; more control; and more flexibility. But as increasingly capable model,AI-native back office,1,erp,,,,,,https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/
-Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs,Open source models are becoming more mainstream as enterprises; governments and startups alike rely on the promise of lower costs; more control; and more flexibility. But as increasingly capable model,AI-native back office,1,erp,,,,,,https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/
 Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board,A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/
