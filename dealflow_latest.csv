@@ -1,24 +1,27 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-Open,source; real-time object tracking for live video feeds,Physical AI / robotics economics,3,robot|robotics|warehouse,,,,,,https://github.com/aryamandarda/tamserve
-Goethe,turn your computer into an inference engine,Compute & energy scarcity,1,inference,,,,,,https://github.com/meshapplied/goethe
-Atlas,One ID for every market on 28 crypto exchanges; stock perps too,AI-native back office,1,erp,,,,,,https://github.com/aperiodic-io/atlas
-One cloud computer for all your agents,,Agent infrastructure / AI devops,1,for agents,,,,,,https://box.simular.ai/
-Claimseed, synthetic Medicare docs with planted errors and answer keys,,Financial-services decision infrastructure,1,claims,,,,,,https://github.com/claimseed/claimseed
-Open Academy,Math Academy-style courses for any subject,Compute & energy scarcity,1,inference,,,,,,https://github.com/Jonathanvwersch/open-academy
-Tyrus,TypeScript Syntax. Rust Semantics. Programming Language,Compute & energy scarcity,1,inference,,,,,,https://tyruslang.org
-Canonry,how a software engineer runs a marketing agency,Vertical AI-native operating systems,1,hotel,,,,,,https://github.com/Canonry/canonry
-Coral,Open-source gateway where agents write their own tools,AI-native back office,1,erp,,,,,,https://github.com/withcoral/coral
-Interpretability,guided weight edits for Gemma 270M; no training,AI-native back office,1,erp,,,,,,https://balajsaleem.github.io/weight-space-editing/
-OpenButterfly,Tracking the environmental impact of the AI ecosystem,Compute & energy scarcity,1,data center,,,,,,https://openbutterfly.com
-JA4 Fingerprinting: Why One Digest Can Cover User,Agents,AI-native back office,1,erp,,,,,,https://zlu.me/2026/11/16/ja4-same-fingerprint-many-user-agents.html
-atl, a Rust CLI for Jira, Confluence and Bitbucket with ~15ms overhead,,Compute & energy scarcity,1,data center,,,,,,https://github.com/racetozero/atlassian-toolkit
-PongArena,Play Pong and see how tiny neural networks think,AI-native back office,1,erp,,,,,,https://jonaslindblom.github.io/pongarena/
+Peppy, a simplified robotics framework for regular devs,,Physical AI / robotics economics,2,robot|robotics,,,,,,https://docs.peppy.bot/quickstart/
+XControl,tmux groups for agents with dir sessions and peer messaging,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/faustinoaq/xcontrol
+Tool to measure log TCO savings without losing or migrating any data,,Agent security & identity,1,compliance,,,,,,https://news.ycombinator.com/item?id=50535716
+Confidential inference providers, checks and comparisons,,Compute & energy scarcity,1,inference,,,,,,https://confidentialinference.net/
+Faros Desktop, a local app to see your AI traces and extend your usage,,AI-native back office,1,erp,,,,,,https://news.ycombinator.com/item?id=50535157
+Introduction to GPU Inference, a short course with Interactive diagrams,,Compute & energy scarcity,1,inference,,,,,,https://athrael.net/courses/gpu-inference/
+Solarian,Open-source Python framework for AI robots,Physical AI / robotics economics,1,robot,,,,,,https://solarian.dev
+Crosshead,Working memory and persistent identity for agents,AI-native back office,1,erp,,,,,,https://crosshead.sh/
+TrnRT,An open-source LLM inference engine for AWS Trainium,Compute & energy scarcity,1,inference,,,,,,https://github.com/RunanywhereAI/trnrt
+Triton-ng,Write Nvidia Triton inference back ends in Rust,Compute & energy scarcity,1,inference,,,,,,https://github.com/rdcm/triton-ng
+Shark,skills Multi-agent orchestration and step-debugging for Claude,Agent infrastructure / AI devops,1,orchestration,,,,,,https://github.com/tusharsrivastava/shark-skills
+Nanossh,A lightweight SSH-like remote shell in Rust(2.5MB RAM; 1 RTT),AI-native back office,1,erp,,,,,,https://github.com/sumant1122/nanossh
+Belay,formal verification for SQLite migrations and queries in Lean 4,Financial-services decision infrastructure,1,claims,,,,,,https://github.com/vihren-dev/belay
+AI Agent Infrastructure and Memory Compaction Specifications,,Agent infrastructure / AI devops,1,agent infrastructure,,,,,,https://github.com/grfdsasdvef/awesome-ai-agent-infrastructure
+Nine is multiplayer sudoku across all Apple devices,,Contrarian consumer,1,gaming,,,,,,https://apps.apple.com/us/app/nine-sudoku/id6789779314
+A free interactive course on AI agent governance,,Agent security & identity,1,governance,,,,,,https://studio.sinapsdata.com.br
+Win98 PE Interpreter in WebAssembly,StarCraft and Diablo on Phones,AI-native back office,1,erp,,,,,,https://wine-assembly.berrry.app/
+Fundlark,open source tool help early-career researcher find funding,Contrarian consumer,1,career,,,,,,https://github.com/dryang21/Fundlark
+Hotline Computer,Rootless Linux desktop container with Nix for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://computer.hotline.dev/
 AI agent startup LangChain hits $3B valuation,LangChain now claims 7;000 customers of its model and platform agnostic agent management tool LangSmith.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/
 Phota Labs uses AI to turn everyday photos into professional-looking shots,Rather than giving consumers yet another photo-editing tool; Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/
 With $720M round, Britain’s Fractile gets a leg up in the race for AI chips,Fractile has now become one of the top-funded players in the race for purpose-built AI chips.,Compute & energy scarcity,1,ai chips,,,,,,https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/
 AI hardware startup Nominal triples valuation to $3B in 8 months,Nominal; a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer; has raised another big round of financing that triples its valuation.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/
 How a Blue Wave midterm might reshape the AI industry,Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one; the ,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/
-Harbinger raises $240M after expanding into defense,The Los Angeles-based startup has now raised more than $650 million; and is working on electric trucks; emergency vehicles; and a driverless platform for the military.,Defense-tech & autonomous systems,1,defense,,,,,,https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/
-Zipline hits $21.5B valuation as Walmart expands bet on drone delivery,Zipline raised $1.5 billion and ramped up its partnership with Walmart.,Defense-tech & autonomous systems,1,drone,,,,,,https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/
 Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board,A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/
