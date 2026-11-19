@@ -1,22 +1,21 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-RoboFYI,Compare robot foundation models; datasets and hardware,Physical AI / robotics economics,2,robot|robotics,,,,,,https://robofyi.com
+Try Vibe Robotics! (IRL or MuJoCo SIM),,Physical AI / robotics economics,2,robot|robotics,,,,,,https://github.com/google-deepmind/robotics-antigravity-plugin
+Robotics needs better CAD, so I wrote a B,rep kernel and 3;487 tests,Physical AI / robotics economics,2,robot|robotics,,,,,,https://springcraft-ai.github.io/springrep/
+Dynobox,Integration tests for agents using CLI and MCP mocks,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/dynobox/dynobox
+Lintsure,Free local code check with rules from OWASP; EU AI Act,Agent security & identity,1,compliance,,,,,,https://github.com/lintsure/lintsure
+AgentMall,Let your AI agent buy groceries,Agent infrastructure / AI devops,1,for agents,,,,,,https://getagentmall.com
+Purple Flow,AI-first n8n alternative; 10k+ workflows on 512MB,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/leetheguy/purple_flow
+ToolJet 4.0,vibe-code internal tools with governance,Agent security & identity,1,governance,,,,,,https://tooljet.com
+Why Zero to One's Thesis Falls Short with Healthcare,,AI-native back office,1,erp,,,,,,https://davidngo1562.substack.com/p/its-not-about-the-money-until-it
+Vercel Board,a shared; secure message board for agents (public beta),Agent infrastructure / AI devops,1,for agents,,,,,,https://vercel.com/blog/introducing-vercel-board
 KradleBench,Multi-agent AI evals in Minecraft,Contrarian consumer,1,career,,,,,,https://www.kradle.ai?1
-Cloudish,Cloud for agents to deploy containers themselves,Agent infrastructure / AI devops,1,for agents,,,,,,https://www.cloudish.ai/
-Break a robot arm and watch a meta,RL agent keep writing,Physical AI / robotics economics,1,robot,,,,,,https://randman444.github.io/meta-rl-draw/web/
-Micro:brawl,two micro:bit robots play cat and mouse; Pi as referee,Physical AI / robotics economics,1,robot,,,,,,https://blok.storagebits.workers.dev/blog/microbrawl/
-Windshift,the Jira alternative for people who liked Jira,Compute & energy scarcity,1,data center,,,,,,https://github.com/Windshiftapp/core
-Happo Animation Testing,,AI-native back office,1,erp,,,,,,https://happo.io/animations
-ClearOffice Hub,Build Enterprise Apps with Natural Language,AI-native back office,1,erp,,,,,,https://www.clearofficehub.com/
-Globebug,A calm; conflict-safe travel OS for multi-city itineraries,Vertical AI-native operating systems,1,os for,,,,,,https://globebug.com/demo-trip/italy-by-train
-openRocode,let multimodal models drive robots the way they use computers,Physical AI / robotics economics,1,robot,,,,,,https://github.com/wrencanfly/openRocode/tree/main
-Shard,Distributed AI Inference Across Multiple Computers,Compute & energy scarcity,1,inference,,,,,,https://github.com/avelone123123/shard
-XControl,tmux groups for agents with dir sessions and peer messaging,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/faustinoaq/xcontrol
 India’s Humyn Labs raises $47M to feed US robotics companies the data they need,Founded in February; Humyn Labs competes with startups such as Mecka AI and XDOF; with about 90% of its revenue coming from the U.S.,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/
 Spend management platform Payhawk announces $280M raise, 2B valuation,Founded in 2018; Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/
 Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents,With a team of just seven; Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/
 AI agent startup LangChain hits $3B valuation,LangChain now claims 7;000 customers of its model and platform agnostic agent management tool LangSmith.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/
 Phota Labs uses AI to turn everyday photos into professional-looking shots,Rather than giving consumers yet another photo-editing tool; Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos,Contrarian consumer,1,consumer,,,,,,https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/
 With $720M round, Britain’s Fractile gets a leg up in the race for AI chips,Fractile has now become one of the top-funded players in the race for purpose-built AI chips.,Compute & energy scarcity,1,ai chips,,,,,,https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/
+How Toyota is betting on a future beyond cars,Toyota is looking beyond the automotive industry as it places bigger bets on robotics; physical AI; energy; aerospace; and other emerging technologies. Through its venture arm; Woven Capital; the auto,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/podcast/how-toyota-is-betting-on-a-future-beyond-cars/
 Spend management platform Payhawk announces $280M raise, 2B valuation,Founded in 2018; Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/
 Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board,A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.,Financial-services decision infrastructure,1,claims,,,,,,https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/
