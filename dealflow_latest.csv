@@ -1,17 +1,17 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
+I built a command center to assess your personal security posture,,Agent security & identity,1,vulnerabilities,,,,,,https://installplango.com
+Charity-compliance,is this Canadian charity ready to file its T3010?,Agent security & identity,1,compliance,,,,,,https://github.com/jasveerai88/charity-compliance
+A free website check that starts from what your buyers search,,Physical AI / robotics economics,1,robot,,,,,,https://meetadmiral.com/website-seo-checker
+Inference Stack,Everything you need to own your inference,Compute & energy scarcity,1,inference,,,,,,https://www.inferencestack.io/
+Reviving a 2012 open,source password manager for modern Android,AI-native back office,1,erp,,,,,,https://jurakovic.github.io/passdroid/
+AGI: Robots Awake,a browser maze shooter,Physical AI / robotics economics,1,robot,,,,,,https://marcvscouto.itch.io/agi-robots-awake
+Custom SQLites for agents (a remote MCP),,Agent infrastructure / AI devops,1,for agents,,,,,,https://databasedmcp.com/
 Craoli,find jobs without bias and manipulation from the platforms,Contrarian consumer,1,career,,,,,,https://craoli.com
 Open,source shared memory; rules and Git blame plugin for agents,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/keepplain/keepplain-plugin
 SwiphtNum 3.0,native Mac statistics with SEM; SQL and scripting,Vertical AI-native operating systems,1,hotel,,,,,,https://swiphtgroup.com/swiphtnum/
 CLI for agents to download movie clips from dialogues,,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/robinroy03/scene-finder
 Craoli,describe a job in one sentence; it finds real postings,Contrarian consumer,1,career,,,,,,https://craoli.com
-Made a career portal for EU agencies,,Contrarian consumer,1,career,,,,,,https://civicjobs.eu/
-Tikivela,Online multiplayer football career game,Contrarian consumer,1,career,,,,,,https://tikivela.com/
-Quiriz,SQL-Backed Recommendations in Excel; Sheets and PowerPoint,AI-native back office,1,erp,,,,,,https://app.quiriz.co/try?q=founder&utm_source=hn
-Frowse,Drop-in agent-browser CLI that cuts token spend by up to 90%+,Agent infrastructure / AI devops,1,token spend,,,,,,https://github.com/figranium/frowse
-AI Inference for Beginners: 6 hours of video and 85 pages of notes [pdf],,Compute & energy scarcity,1,inference,,,,,,https://github.com/samir-sarwar/samir-vllm/blob/main/InferenceFromScratch.pdf
-Wrangling idle devices matched an H100 on a financial workload,,Contrarian consumer,1,gaming,,,,,,https://murmurcomputing.ai/
-DynoCap disposable Linux VMs for agents on macOS,,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/baires/dynocap
 India’s Humyn Labs raises $47M to feed US robotics companies the data they need,Founded in February; Humyn Labs competes with startups such as Mecka AI and XDOF; with about 90% of its revenue coming from the U.S.,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/
 Spend management platform Payhawk announces $280M raise, 2B valuation,Founded in 2018; Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/
 Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents,With a team of just seven; Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/
