@@ -1,6 +1,9 @@
 name,one_liner,top_thesis,keyword_score,matched_keywords,llm_score,llm_rationale,repeat_founder,founder_names,founder_background,url
 Caution,Hosting platform for software you can't afford to have hacked,AI-native back office,1,erp,,,,,,https://www.ycombinator.com/companies/caution
-Cerulion,Harness for Robotics; Gemini 3.8 Flash Matches GPT-6 Astra,Physical AI / robotics economics,2,robot|robotics,,,,,,https://github.com/cerulion-inc/cerulion#harness-results
+Hyper,Personalized Career Development and Job Search,Contrarian consumer,1,career,,,,,,https://mettlespark.com/
+AGI,Robots Awake; my first (vibecoded) indie shooter,Physical AI / robotics economics,1,robot,,,,,,https://marcvscouto.itch.io/agi-robots-awake
+BenchSaaS,30 LLM configs across 8;850 live ERP/CRM runs,AI-native back office,1,erp,,,,,,https://www.nocoly.com/landing/benchsaas/
+CiteSieve,Check how ChatGPT and Perplexity cite your brand,AI-native back office,1,erp,,,,,,https://citesieve.braivex.com/
 Data center, power, land, fiber and capacity,,Compute & energy scarcity,1,data center,,,,,,https://dchub.cloud/connect
 Rust agent with an Inkling 2 Mini inference engine for Apple Silicon,,Compute & energy scarcity,1,inference,,,,,,https://github.com/onatm/rustling
 Dualayer Hierarchy Standard (DHS),Zero-FHS Layout for Musl and Glibc,AI-native back office,1,erp,,,,,,https://news.ycombinator.com/item?id=50645376
@@ -11,11 +14,6 @@ Pintura,YAML Slides for agents to edit and humans to review,AI-native back offic
 I implemented LINQ in my own programming language,,AI-native back office,1,erp,,,,,,https://github.com/ArcadeMakerSources/ArcadeMaker/blob/master/src/Exp/libs/linq.txt
 Rocketcrab Nova,vibe code a little game; play with friends instantly,AI-native back office,1,erp,,,,,,https://rocketcrab.com/
 Cyber, every hack in one place and does my code share the same flaw?,,Agent security & identity,1,vulnerabilities,,,,,,https://cyber.askgina.ai/
-Layerpool,library that combines your devices' memory to train models,AI-native back office,1,erp,,,,,,https://github.com/abdallah-swe/layerpool
-Running a ESMC protein language model as a single C++ binary,,Compute & energy scarcity,1,inference,,,,,,https://github.com/AnanyaP-WDW/esmc.cpp
-End User, a game about smuggling AI chips past export controls,,Compute & energy scarcity,1,ai chips,,,,,,https://enduser.fun/?src=hn
-UFO OPTIX Scanning satellite imagery for flying craft artifacts,,Defense-tech & autonomous systems,1,swarm,,,,,,https://ufoptix.org
-Hyper Elements,Agents build emails; PDFs; images with 70% less tokens,Agent infrastructure / AI devops,1,for agents,,,,,,https://github.com/hyper-elements/hyper-elements
 India’s Humyn Labs raises $47M to feed US robotics companies the data they need,Founded in February; Humyn Labs competes with startups such as Mecka AI and XDOF; with about 90% of its revenue coming from the U.S.,Physical AI / robotics economics,2,robot|robotics,,,,,,https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/
 AI data centers are becoming harder to build, and neoclouds are feeling it,⁠Nvidia has made clear⁠ it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run; and that&#8217;s landing just as neoclouds report construction delays and more expensive debt. T,Compute & energy scarcity,1,data center,,,,,,https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/
 Spend management platform Payhawk announces $280M raise, 2B valuation,Founded in 2018; Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.,AI-native back office,1,erp,,,,,,https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/
